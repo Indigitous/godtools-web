@@ -47,7 +47,7 @@ activate :autoprefixer do |config|
 end
 
 # Reload the browser automatically whenever files change
-activate :livereload
+# activate :livereload
 
 # ========================================================================
 # Page options, layouts, aliases and proxies
