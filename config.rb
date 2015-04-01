@@ -1,19 +1,13 @@
-# ========================================================================
-# Hello Jason
-# http://hellojason.net
-# ========================================================================
-
-# Copy ./source/environment_variables.example to ./source/environment_variables.rb
-# then update settings there.
-require "./source/environment_variables.rb"
+require 'dotenv'
+Dotenv.load
 
 # ========================================================================
 # Site settings
 # ========================================================================
 set :site_title,            "God Tools Web"
 set :site_description,      "God Tools Web"
-set :site_url_production,   ENV['site_url_production']
-set :site_url_development,  ENV['site_url_development']
+set :site_url_production,   ENV['SITE_URL_PRODUCTION']
+set :site_url_development,  ENV['SITE_URL_DEVELOPMENT']
 set :css_dir,               'css'
 set :js_dir,                'js'
 set :images_dir,            'img'

@@ -14,4 +14,4 @@
 /.sass-cache
 
 # Env variables
-/source/environment_variables.rb
+.env
