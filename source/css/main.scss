@@ -5,10 +5,9 @@
  * ========================================================================== */
 
 @import "font-awesome";           // Font Awesome icon library
-@import "_variables";             // Bootstrap variable overrides
 @import "_mixins";                // Custom mixins
 @import "_globals";               // Global elements
-@import "_bootstrap-includes";    // Bootstrap core
+@import "crubrand/crubrand";      // crubrand Bootstrap core
 
 
 /* ==========================================================================

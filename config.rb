@@ -40,6 +40,9 @@ activate :autoprefixer do |config|
   config.inline   = false
 end
 
+# Sprocket support for Bower
+sprockets.append_path File.join root, 'bower_components'
+
 # Reload the browser automatically whenever files change
 # activate :livereload
 
