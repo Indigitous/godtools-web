@@ -1,4 +1,5 @@
 ---
 en:
-  hello: "Hello"
+  greetings:
+    hello: "Hello"
 
