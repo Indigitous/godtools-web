@@ -15,7 +15,10 @@ class GodToolsLocales
   end
 
   def language_to_h(language_code)
-    language_meta_to_h meta.languages.detect { |l| l.code == language_code }
+    {
+      language_code =>
+        language_meta_to_h(meta.languages.detect { |l| l.code == language_code })
+    }
   end
 
   private
@@ -42,26 +45,26 @@ class GodToolsLocales
       translation_config = GodTools::Translations.new(language: language_code, package: package_code).config
       {}.tap do |hash|
         hash['title'] = translation_config.package_name.title
-        hash.merge page_set_to_h(language_code, package_code, translation_config.page_set)
+        # hash.merge page_set_to_h(language_code, package_code, translation_config.page_set)
       end
     end
 
-    def page_set_to_h(language_code, package_code, page_set)
-      page_set.each_with_index do |page, i|
-        hash["page_#{ i }"] = {
-          'title' => page['title'],
-          'filename' => page['filename']
-        }.merge page_to_h(language_code, package_code, page['filename'])
-      end
-    end
+    # def page_set_to_h(language_code, package_code, page_set)
+    #   page_set.each_with_index do |page, i|
+    #     hash["page_#{ i }"] = {
+    #       'title' => page['title'],
+    #       'filename' => page['filename']
+    #     }.merge page_to_h(language_code, package_code, page['filename'])
+    #   end
+    # end
 
-    def page_to_h(language_code, package_code, page_filename)
-      translation_page = GodTools::Translations.new(language: language_code, package: package_code).page(page_filename)
-      {}.tap do |hash|
-        translation_page.translated_strings.each do |string_id, string|
-          hash[string_id] = string
-        end
-      end
-    end
+    # def page_to_h(language_code, package_code, page_filename)
+    #   translation_page = GodTools::Translations.new(language: language_code, package: package_code).page(page_filename)
+    #   {}.tap do |hash|
+    #     translation_page.translated_strings.each do |string_id, string|
+    #       hash[string_id] = string
+    #     end
+    #   end
+    # end
 
 end

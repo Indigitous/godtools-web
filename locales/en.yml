@@ -1,5 +1,9 @@
 ---
 en:
-  greetings:
-    hello: "Hello"
-
+  language_name: English
+  kgp:
+    title: Knowing God Personally
+  satisfied:
+    title: Satisfied?
+  fourlaws:
+    title: The Four Spiritual Laws

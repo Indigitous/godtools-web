@@ -26,8 +26,7 @@ gem 'middleman-sitemap', '~> 0.0.13'
 # gem 'middleman-livereload', '~> 3.4.2'
 gem 'oj', '~> 2.11.5'
 gem 'dotenv-rails', '~> 2.0.0'
-gem 'irbtools-more', require: 'irbtools/binding'
-gem 'terminal-notifier'
+gem 'pry'
 
 # Deployment
 gem 'middleman-deploy', '~> 1.0.0'
