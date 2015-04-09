@@ -6,6 +6,8 @@ Hosted on GitHub Pages at [https://indigitous.github.io/godtools-web](https://in
 
 ## Development
 
+Setup a Ruby environment based on `.ruby-version` and `.ruby-gemset` and then run `bundle install`
+
 Setup the environment variables:
 
 ```
