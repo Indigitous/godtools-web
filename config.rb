@@ -43,6 +43,9 @@ end
 # Sprocket support for Bower
 sprockets.append_path File.join root, 'bower_components'
 
+# Bh - Bootstrap helpers
+activate :bh
+
 # Reload the browser automatically whenever files change
 # activate :livereload
 
