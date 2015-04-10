@@ -4,7 +4,7 @@ class GodToolsLocales
 
   def initialize
     GodTools.request_authorization_key! if GodTools.authorization_key.nil?
-    sleep 3
+    sleep 1
   end
 
   def meta
@@ -43,7 +43,7 @@ class GodToolsLocales
     end
 
     def language_package_to_h(language_code, package_code)
-      sleep 3
+      sleep 1
       translation_config = GodTools::Translations.new(language: language_code, package: package_code).config
       {}.tap do |hash|
         hash['title'] = translation_config.package_name.title
@@ -53,8 +53,7 @@ class GodToolsLocales
 
     def page_set_to_h(language_code, package_code, page_set)
       {}.tap do |hash|
-        # page_set.each_with_index do |page, i|
-        [page_set.first].each_with_index do |page, i|
+        page_set.each_with_index do |page, i|
           hash["page_#{ i }"] = {
             'title' => page['title'],
             'filename' => page['filename']
@@ -64,7 +63,7 @@ class GodToolsLocales
     end
 
     def page_to_h(language_code, package_code, page_filename)
-      sleep 3
+      sleep 1
       translation_page = GodTools::Translations.new(language: language_code, package: package_code).page(page_filename)
       {}.tap do |hash|
         translation_page.translated_strings.each do |string_id, string|

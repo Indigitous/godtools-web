@@ -71,7 +71,7 @@ activate :bh
 # :locals => {:which_fake_page => "Rendering a fake page with a local
 # variable" }
 
-page 'kgp/*', layout: :kgp_layout
+page '*kgp/*', layout: :kgp_layout
 
 # ========================================================================
 # Helpers
@@ -120,6 +120,12 @@ helpers do
 
     "<li class='#{li_classes}'><a href='#{url}'>#{label}#{nav_icon}</a></li>"
   end
+
+  def localize_path(path)
+    return path if I18n.locale == I18n.default_locale
+    "/#{ I18n.locale.to_s }#{ path }"
+  end
+  alias :l :localize_path
 
 end
 
