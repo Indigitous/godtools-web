@@ -71,6 +71,8 @@ activate :bh
 # :locals => {:which_fake_page => "Rendering a fake page with a local
 # variable" }
 
+page 'kgp/*', layout: :kgp_layout
+
 # ========================================================================
 # Helpers
 # ========================================================================
