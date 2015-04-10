@@ -21,6 +21,7 @@ html.no-js
     link href="#{site_url+current_page.url}" rel="canonical"
 
     == stylesheet_link_tag "main"
+    == javascript_include_tag "base.js", "bootstrap-includes.js", "main.js"
 
   body class="#{page_classes}"
     /[if lte IE 8]
@@ -36,4 +37,3 @@ html.no-js
         hr
         .container
           p &copy; #{Time.now.year} Cru.
-    == javascript_include_tag "base.js", "bootstrap-includes.js", "main.js"
