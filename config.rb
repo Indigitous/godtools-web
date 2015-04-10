@@ -25,7 +25,7 @@ page "/sitemap.xml", :layout => false
 require "slim"
 
 # Internationalization
-activate :i18n
+activate :i18n, mount_at_root: :unspecified
 
 # Use relative URLs
 activate :relative_assets
