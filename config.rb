@@ -47,7 +47,7 @@ sprockets.append_path File.join root, 'bower_components'
 activate :bh
 
 # Reload the browser automatically whenever files change
-# activate :livereload
+activate :livereload
 
 # ========================================================================
 # Page options, layouts, aliases and proxies
@@ -71,7 +71,6 @@ activate :bh
 # :locals => {:which_fake_page => "Rendering a fake page with a local
 # variable" }
 
-page '*kgp/*', layout: :kgp_layout
 
 # ========================================================================
 # Helpers
@@ -86,6 +85,8 @@ page '*kgp/*', layout: :kgp_layout
 #     "Helping"
 #   end
 # end
+
+@booklets = ['kgp', 'satisfied', 'fourlaws']
 
 helpers do
 
@@ -126,6 +127,12 @@ helpers do
     "/#{ I18n.locale.to_s }#{ path }"
   end
   alias :l :localize_path
+
+  def current_booklet
+    path_split = current_page.path.split('/')
+    booklet = I18n.locale == :unspecified ? path_split.first : path_split.second
+    @booklets.include?(booklet) ? booklet : nil
+  end
 
 end
 
