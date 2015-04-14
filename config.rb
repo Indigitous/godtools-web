@@ -95,36 +95,34 @@ helpers do
     partial "_partials/#{partial_filename}"
   end
 
-  # Formats li item, and determines when to put class=active on li element
-  # (according to Bootstrap >3.1.1 spec)
-  def nav_li(label, url, css_class="", icon="")
-
-    # Determine if icon is specified
-    nav_icon = ""
-    unless icon.nil? or icon.empty?
-      nav_icon = " <i class='fa #{icon}'></i>"
-    end
-
-    # Normalize name string for use as HTML class
-    li_classes = ""
-    unless css_class.nil? or css_class.empty?
-      # Assign processed name to variable
-      li_classes = "#{css_class}"
-    else
-      label_formatted = label.downcase.tr(" ", "-")
-      li_classes = "nav-item-#{label_formatted}"
-    end
-
-    if current_page.url == url
-      li_classes += " active"
-    end
-
-    "<li class='#{li_classes}'><a href='#{url}'>#{label}#{nav_icon}</a></li>"
+  def current_locale
+    I18n.locale
   end
 
-  def localize_path(path)
-    return path if I18n.locale == I18n.default_locale
-    "/#{ I18n.locale.to_s }#{ path }"
+  def locale?
+    current_locale != I18n.default_locale
+  end
+
+  # Custom helper to output paths in a desired locale.
+  # This helper method only works with absolute paths.
+  def localize_path(path, desired_locale = current_locale)
+    path = path.starts_with?('/') ? path : "/#{ path }" # Make the path absolute
+    path_split = path.split '/'
+    path_lang = path_split.second.try(:to_sym)
+
+    # The path may or may not already have a locale specified in it
+    if langs.include?(path_lang) # The path is already localized
+      unlocalized_path = "/#{ path_split[2..-1].join('/') }"
+    else # The path is not localized yet
+      path_lang = :unspecified
+      unlocalized_path = path
+    end
+
+    if desired_locale == :unspecified
+       unlocalized_path
+    else
+      "/#{ desired_locale }#{ unlocalized_path }"
+    end
   end
   alias :l :localize_path
 
