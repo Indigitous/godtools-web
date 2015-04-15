@@ -1,6 +1,6 @@
 = navbar do
   = vertical do
-    = link_to '/' do
+    = link_to l('/') do
       i.cru-logo
 
   = horizontal do
@@ -25,5 +25,6 @@
           = t 'language_name'
           span.caret
         ul.dropdown-menu role='menu'
-          - langs.reject { |l| l == :unspecified }.each do |lang|
+          - langs_sorted = langs.sort_by { |a, b| t('language_name', locale: a) <=> t('language_name', locale: b) }
+          - langs_sorted.reject { |l| l == :unspecified }.each do |lang|
             li = link_to t('language_name', locale: lang), l(current_page.path, lang)
