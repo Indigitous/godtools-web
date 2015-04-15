@@ -32,8 +32,10 @@ html.no-js
       header role="banner"
         == _partial "navigation"
       main role="document"
-        .container
-          == yield
+        article.container
+          .row
+            .col-md-offset-2.col-md-8.col-xs-10.col-xs-offset-1
+              == yield
       footer.content-info role="content-info"
         hr
         .container

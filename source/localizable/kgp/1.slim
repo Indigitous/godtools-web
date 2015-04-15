@@ -14,7 +14,9 @@ p
 
 p = t 'kgp.page_1.fae69b3b-e95b-4184-9bcd-211e35faa71c'
 
-= link_to l('/kgp'), class: 'btn btn-lg btn-primary' do
-  i.fa.fa-arrow-left
-= link_to l('/kgp/2'), class: 'btn btn-lg btn-primary' do
-  i.fa.fa-arrow-right
+.text-center
+  .btn-group
+    = link_to l('/kgp'), class: 'btn btn-lg btn-default' do
+      i.fa.fa-arrow-left
+    = link_to l('/kgp/2'), class: 'btn btn-lg btn-primary' do
+      i.fa.fa-arrow-right
