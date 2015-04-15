@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/Indigitous/godtools-gem.git
-  revision: 87d41538de816b34fbd3524cbf3ba22d5fe651ef
-  ref: 87d41538de816b34fbd3524cbf3ba22d5fe651ef
+  revision: 07ea3de5a502d6c52b4a9aabdf5a505c7a4fb1e6
+  ref: 07ea3de5a502d6c52b4a9aabdf5a505c7a4fb1e6
   branch: master
   specs:
     god_tools (0.0.0)

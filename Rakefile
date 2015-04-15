@@ -1,9 +1,9 @@
-require_relative 'lib/god_tools_locales'
+require_relative 'lib/god_tools_to_hash'
 
 namespace :locales do
   task :update do
     print 'Fetching translated strings from the God Tools API (this can take awhile) ...'
-    locales_hash = GodToolsLocales.new.to_h
+    locales_hash = GodToolsToHash.new.to_h
     locales_hash['unspecified'] = locales_hash['en']
     puts ' done.'
 

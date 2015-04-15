@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 # Core
 gem 'middleman', '3.3.10'
-gem 'god_tools', git: 'https://github.com/Indigitous/godtools-gem.git', branch: 'master', ref: '87d41538de816b34fbd3524cbf3ba22d5fe651ef'
+gem 'god_tools', git: 'https://github.com/Indigitous/godtools-gem.git', branch: 'master', ref: '07ea3de5a502d6c52b4a9aabdf5a505c7a4fb1e6'
 
 # Assets
 gem 'bootstrap-sass', '~> 3.3.3', require: false
