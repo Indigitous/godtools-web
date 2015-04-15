@@ -25,6 +25,6 @@
           = t 'language_name'
           span.caret
         ul.dropdown-menu role='menu'
-          - langs_sorted = langs.sort_by { |a, b| t('language_name', locale: a) <=> t('language_name', locale: b) }
+          - langs_sorted = langs.sort { |a, b| t('language_name', locale: a) <=> t('language_name', locale: b) }
           - langs_sorted.reject { |l| l == :unspecified }.each do |lang|
             li = link_to t('language_name', locale: lang), l(current_page.path, lang)
