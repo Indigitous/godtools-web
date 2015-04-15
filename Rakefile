@@ -3,9 +3,8 @@ require_relative 'lib/god_tools_locales'
 namespace :locales do
   task :update do
     print 'Fetching translated strings from the God Tools API (this can take awhile) ...'
-    # locales_hash = GodToolsLocales.new.to_h
-    locales_hash = GodToolsLocales.new.language_to_h('ko')
-    # locales_hash[:default] = locales_hash[:en]
+    locales_hash = GodToolsLocales.new.to_h
+    locales_hash['unspecified'] = locales_hash['en']
     puts ' done.'
 
     puts 'Writing translated strings to locale files ...'

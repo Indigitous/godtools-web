@@ -4,33 +4,35 @@ class GodToolsLocales
 
   def initialize
     GodTools.request_authorization_key! if GodTools.authorization_key.nil?
-    sleep 1
   end
 
   def meta
     @meta ||= GodTools::Meta.all
   end
 
-  # def to_h
-  #   languages_to_h
-  # end
+  def to_h
+    languages_to_h
+  end
 
   def language_to_h(language_code)
     {
-      language_code =>
-        language_meta_to_h(meta.languages.detect { |l| l.code == language_code })
+      language_code => language_meta_to_h(language_meta(language_code))
     }
+  end
+
+  def language_meta(code)
+    meta.languages.detect { |l| l.code == language_code }
   end
 
   private
 
-    # def languages_to_h
-    #   {}.tap do |hash|
-    #     meta.languages.each do |language|
-    #       hash[language.code.downcase] = language_to_h(language)
-    #     end
-    #   end
-    # end
+    def languages_to_h
+      {}.tap do |hash|
+        meta.languages.each do |language_meta|
+          hash[language_meta.code.downcase] = language_meta_to_h(language_meta)
+        end
+      end
+    end
 
     def language_meta_to_h(language_meta)
       {}.tap do |hash|
