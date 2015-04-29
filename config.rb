@@ -86,9 +86,11 @@ activate :livereload
 #   end
 # end
 
-@booklets = ['kgp', 'satisfied', 'fourlaws']
-
 helpers do
+
+  def booklets
+    ['kgp', 'satisfied', 'fourlaws']
+  end
 
   # Gets partials from the _partials directory
   def _partial(partial_filename)
@@ -129,7 +131,31 @@ helpers do
   def current_booklet
     path_split = current_page.path.split('/')
     booklet = I18n.locale == :unspecified ? path_split.first : path_split.second
-    @booklets.include?(booklet) ? booklet : nil
+    booklets.include?(booklet) ? booklet : nil
+  end
+
+  def booklets_by_locale
+    booklets_by_locale = {}
+
+    I18n.available_locales.each do |locale|
+      booklets_by_locale[locale] = []
+      booklets.each do |booklet|
+        if I18n.exists? booklet, locale
+          booklets_by_locale[locale] << booklet
+        end
+      end
+    end
+
+    booklets_by_locale
+  end
+
+  def locale_meta
+    {}.tap do |hash|
+      I18n.available_locales.each do |locale|
+        next unless I18n.exists? 'language_name', locale
+        hash[locale] = { language_name: I18n.t('language_name', locale: locale) }
+      end
+    end
   end
 
 end

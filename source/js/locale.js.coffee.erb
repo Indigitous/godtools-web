@@ -1,0 +1,43 @@
+gt.navigator_language = ->
+  if navigator.languages?
+    navigator.languages[0]
+  else
+    (navigator.language || navigator.userLanguage)
+
+gt.booklets_by_locale = <%= app.booklets_by_locale.to_json %>
+
+gt.locale_meta = <%= app.locale_meta.to_json %>
+
+gt.extract_locale_from_navigator_language = ->
+  if typeof gt.booklets_by_locale[gt.navigator_language()] == 'object'
+    gt.navigator_language()
+  else
+    ''
+
+gt.desired_locale = -> gt.extract_locale_from_navigator_language()
+
+gt.initialize_locale = ->
+  console.log 'initialize locale'
+
+  desired_locale = gt.desired_locale()
+
+  # If we can't find a desired locale then do nothing.
+  if desired_locale == '' then return
+
+  # If the current locale is unspecified then we can simple redirect to the desired locale.
+  if gt.current_locale == 'unspecified'
+    redirect_url = "/#{ desired_locale }#{ window.location.pathname }"
+    window.location.replace redirect_url
+    console.log "redirected to #{ redirect_url }"
+
+  # If the current locole is already specified then we will prompt the user to switch locales.
+  else
+    re = new RegExp "^\/#{ gt.current_locale }", 'g'
+    redirect_to_locale_url = window.location.pathname.replace re, "/#{ desired_locale }"
+    $(document).one 'ready page:load', ->
+      if desired_locale != gt.current_locale
+        $alert = $('#switch-locale-alert')
+        $alert.find('a').attr('href', redirect_to_locale_url)
+        $alert.find('.language-name').html(gt.locale_meta[desired_locale].language_name)
+        $alert.removeClass('cloak')
+
