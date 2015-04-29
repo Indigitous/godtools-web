@@ -1,3 +1,7 @@
+# A big object containing meta info about all the available locales and their booklets.
+gt.locale_meta = <%= app.locale_meta.to_json %>
+
+
 # Examples of valid navigator language codes include "en", "en-US", "fr", "es-ES", etc.
 gt.navigator_language = ->
   if navigator.languages?
@@ -5,18 +9,20 @@ gt.navigator_language = ->
   else
     (navigator.language || navigator.userLanguage)
 
-gt.locale_meta = <%= app.locale_meta.to_json %>
 
 gt.extract_locale_from_navigator_language = ->
   locale = gt.navigator_language().substr(0, 2).toLowerCase() # We only care about the first two letters, e.g. if navigator language is "en-US" then we want to get "en".
   if typeof gt.locale_meta[locale] == 'object' then locale else ''
 
+
 gt.desired_locale = -> gt.extract_locale_from_navigator_language()
+
 
 gt.redirect_to_current_path_in_locale = (desired_locale) ->
   redirect_url = "/#{ desired_locale }#{ window.location.pathname }"
   window.location.replace redirect_url
   console.log "redirected to #{ redirect_url }"
+
 
 gt.display_locale_switch_alert_for_locale = (desired_locale) ->
   re = new RegExp "^\/#{ gt.current_locale }", 'g'
@@ -28,9 +34,12 @@ gt.display_locale_switch_alert_for_locale = (desired_locale) ->
       $alert.find('.language-name').html(gt.locale_meta[desired_locale].language_name)
       $alert.removeClass('cloak')
 
+
 gt.is_current_booklet_available_in_current_locale = ->
   gt.locale_meta[gt.current_locale].booklets.indexOf(gt.current_booklet) >= 0
 
+
+# Called on every page load to setup the locale.
 gt.initialize_locale = ->
   console.log 'initialize locale'
 
@@ -54,9 +63,7 @@ gt.initialize_locale = ->
           class: 'container alert alert-danger text-center',
           html: '<i class="fa fa-frown-o"></i> Sorry, this document is not translated into ' + gt.locale_meta[gt.current_locale].language_name + ' yet.'
         }).appendTo('.alerts')
-
       gt.display_locale_switch_alert_for_locale(desired_locale) if desired_locale != 'en'
-
     else
       gt.display_locale_switch_alert_for_locale(desired_locale)
 

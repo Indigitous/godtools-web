@@ -146,6 +146,18 @@ helpers do
     end
   end
 
+  def language_selection_s(language)
+    native = language_name_in_locale(language)
+    current = language_name_in_locale(language, current_locale)
+    native == current || current.blank? ? native : "#{ native } (#{ current })"
+  end
+
+  def language_name_in_locale(language, locale = language)
+    language_code = language.to_s[0..1].upcase
+    locale_code = locale.to_s[0..1].upcase
+    I18nData.languages(locale_code)[language_code] rescue I18nData.languages('EN')[language_code].presence || I18n.t('language_name', locale: language)
+  end
+
 end
 
 
