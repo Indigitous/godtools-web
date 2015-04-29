@@ -1,20 +1,35 @@
+# Examples of valid navigator language codes include "en", "en-US", "fr", "es-ES", etc.
 gt.navigator_language = ->
   if navigator.languages?
     navigator.languages[0]
   else
     (navigator.language || navigator.userLanguage)
 
-gt.booklets_by_locale = <%= app.booklets_by_locale.to_json %>
-
 gt.locale_meta = <%= app.locale_meta.to_json %>
 
 gt.extract_locale_from_navigator_language = ->
-  if typeof gt.booklets_by_locale[gt.navigator_language()] == 'object'
-    gt.navigator_language()
-  else
-    ''
+  locale = gt.navigator_language().substr(0, 2).toLowerCase() # We only care about the first two letters, e.g. if navigator language is "en-US" then we want to get "en".
+  if typeof gt.locale_meta[locale] == 'object' then locale else ''
 
 gt.desired_locale = -> gt.extract_locale_from_navigator_language()
+
+gt.redirect_to_current_path_in_locale = (desired_locale) ->
+  redirect_url = "/#{ desired_locale }#{ window.location.pathname }"
+  window.location.replace redirect_url
+  console.log "redirected to #{ redirect_url }"
+
+gt.display_locale_switch_alert_for_locale = (desired_locale) ->
+  re = new RegExp "^\/#{ gt.current_locale }", 'g'
+  redirect_to_locale_url = window.location.pathname.replace re, "/#{ desired_locale }"
+  $ ->
+    if desired_locale != gt.current_locale
+      $alert = $('#switch-locale-alert')
+      $alert.find('a').attr('href', redirect_to_locale_url)
+      $alert.find('.language-name').html(gt.locale_meta[desired_locale].language_name)
+      $alert.removeClass('cloak')
+
+gt.is_current_booklet_available_in_current_locale = ->
+  gt.locale_meta[gt.current_locale].booklets.indexOf(gt.current_booklet) >= 0
 
 gt.initialize_locale = ->
   console.log 'initialize locale'
@@ -26,18 +41,22 @@ gt.initialize_locale = ->
 
   # If the current locale is unspecified then we can simple redirect to the desired locale.
   if gt.current_locale == 'unspecified'
-    redirect_url = "/#{ desired_locale }#{ window.location.pathname }"
-    window.location.replace redirect_url
-    console.log "redirected to #{ redirect_url }"
+    gt.redirect_to_current_path_in_locale(desired_locale)
+    return
 
-  # If the current locole is already specified then we will prompt the user to switch locales.
-  else
-    re = new RegExp "^\/#{ gt.current_locale }", 'g'
-    redirect_to_locale_url = window.location.pathname.replace re, "/#{ desired_locale }"
-    $(document).one 'ready page:load', ->
-      if desired_locale != gt.current_locale
-        $alert = $('#switch-locale-alert')
-        $alert.find('a').attr('href', redirect_to_locale_url)
-        $alert.find('.language-name').html(gt.locale_meta[desired_locale].language_name)
-        $alert.removeClass('cloak')
+  else # If the current locale is already specified then we will prompt the user to switch locales.
+
+    # If the translation is not available then we should apologize.
+    if gt.current_booklet != '' and !gt.is_current_booklet_available_in_current_locale()
+      $ ->
+        console.log ':('
+        $('<div/>', {
+          class: 'container alert alert-danger text-center',
+          html: '<i class="fa fa-frown-o"></i> Sorry, this document is not translated into ' + gt.locale_meta[gt.current_locale].language_name + ' yet.'
+        }).appendTo('.alerts')
+
+      gt.display_locale_switch_alert_for_locale(desired_locale) if desired_locale != 'en'
+
+    else
+      gt.display_locale_switch_alert_for_locale(desired_locale)
 

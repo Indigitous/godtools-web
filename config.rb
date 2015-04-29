@@ -134,26 +134,14 @@ helpers do
     booklets.include?(booklet) ? booklet : nil
   end
 
-  def booklets_by_locale
-    booklets_by_locale = {}
-
-    I18n.available_locales.each do |locale|
-      booklets_by_locale[locale] = []
-      booklets.each do |booklet|
-        if I18n.exists? booklet, locale
-          booklets_by_locale[locale] << booklet
-        end
-      end
-    end
-
-    booklets_by_locale
-  end
-
   def locale_meta
     {}.tap do |hash|
       I18n.available_locales.each do |locale|
         next unless I18n.exists? 'language_name', locale
         hash[locale] = { language_name: I18n.t('language_name', locale: locale) }
+        hash[locale]['booklets'] = [].tap do |array|
+          booklets.each { |booklet| array << booklet if I18n.exists?(booklet, locale) }
+        end
       end
     end
   end

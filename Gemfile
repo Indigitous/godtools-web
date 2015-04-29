@@ -10,8 +10,6 @@ gem 'bootstrap-sass', '~> 3.3.3', require: false
 gem 'bh', '~> 1.2'
 gem 'font-awesome-middleman', '~> 4.2.3'
 gem 'middleman-favicon-maker', '~> 3.7'
-gem 'turbolinks', '~> 2.5.3'
-gem 'jquery-turbolinks', '~> 2.1.0'
 
 # Templating
 gem 'slim', '~> 3.0.2'
