@@ -2,20 +2,37 @@
 gt.locale_meta = <%= app.locale_meta.to_json %>
 
 
-# Examples of valid navigator language codes include "en", "en-US", "fr", "es-ES", etc.
-gt.navigator_language = ->
+# Try to find the meta for a specific locale if it's supported by the app.
+gt.meta_for_locale = (locale) ->
+  if typeof gt.locale_meta[locale] == 'object'
+    gt.locale_meta[locale]
+  else if typeof gt.locale_meta[locale.substr(0, 2)] == 'object' # If the locale has a region like "en-US" then try ignoring the region.
+    gt.locale_meta[locale.substr(0, 2)]
+  else
+    null
+
+
+# Examples of navigator language codes include "en", "en-US", "fr", "es-ES", etc.
+gt.get_navigator_language = ->
   if navigator.languages?
     navigator.languages[0]
   else
     (navigator.language || navigator.userLanguage)
+  'ko'
 
 
-gt.extract_locale_from_navigator_language = ->
-  locale = gt.navigator_language().substr(0, 2).toLowerCase() # We only care about the first two letters, e.g. if navigator language is "en-US" then we want to get "en".
-  if typeof gt.locale_meta[locale] == 'object' then locale else ''
+# Look at the navigator language and try to return a locale that the app supports.
+gt.extract_supported_locale_from_navigator_language = ->
+  navigator_language = gt.get_navigator_language()
+  if typeof gt.locale_meta[navigator_language] == 'object'
+    navigator_language
+  else if typeof gt.locale_meta[navigator_language.substr(0, 2)] == 'object' # If the language has a region like "en-US" then try ignoring the region.
+    navigator_language.substr(0, 2)
+  else
+    null
 
 
-gt.desired_locale = -> gt.extract_locale_from_navigator_language()
+gt.desired_locale = -> gt.extract_supported_locale_from_navigator_language()
 
 
 gt.redirect_to_current_path_in_locale = (desired_locale) ->
@@ -29,28 +46,30 @@ gt.display_locale_switch_alert_for_locale = (desired_locale) ->
   redirect_to_locale_url = window.location.pathname.replace re, "/#{ desired_locale }"
   $ ->
     if desired_locale != gt.current_locale
-      $alert = $('#switch-locale-alert')
-      $alert.find('a').attr('href', redirect_to_locale_url)
-      $alert.find('.language-name').html(gt.locale_meta[desired_locale].language_name)
-      $alert.removeClass('cloak')
+      $('<div/>', {
+        class: 'container alert alert-warning text-center',
+        html: "<a class='alert-link' href='#{ redirect_to_locale_url }'><i class='fa fa-language'></i> #{ gt.meta_for_locale(desired_locale).language_name }</a>"
+      }).appendTo('.alerts')
 
 
 gt.is_current_booklet_available_in_current_locale = ->
-  gt.locale_meta[gt.current_locale].booklets.indexOf(gt.current_booklet) >= 0
+  gt.meta_for_locale(gt.current_locale).booklets.indexOf(gt.current_booklet) >= 0
 
 
 # Called on every page load to setup the locale.
 gt.initialize_locale = ->
-  console.log 'initialize locale'
+  console.log 'Initializing locale'
 
   desired_locale = gt.desired_locale()
 
   # If we can't find a desired locale then do nothing.
-  if desired_locale == '' then return
+  if desired_locale == null
+    console.log "Navigator language unsupported: #{ desired_locale }"
+    return
 
   # If the current locale is unspecified then we can simple redirect to the desired locale.
   if gt.current_locale == 'unspecified'
-    gt.redirect_to_current_path_in_locale(desired_locale)
+    gt.redirect_to_current_path_in_locale desired_locale
     return
 
   else # If the current locale is already specified then we will prompt the user to switch locales.
@@ -61,7 +80,7 @@ gt.initialize_locale = ->
         console.log ':('
         $('<div/>', {
           class: 'container alert alert-danger text-center',
-          html: '<i class="fa fa-frown-o"></i> Sorry, this document is not translated into ' + gt.locale_meta[gt.current_locale].language_name + ' yet.'
+          html: '<i class="fa fa-frown-o"></i> Sorry, this document is not translated into ' + gt.meta_for_locale(gt.current_locale).language_name_in_english + ' yet.'
         }).appendTo('.alerts')
       gt.display_locale_switch_alert_for_locale(desired_locale) if desired_locale != 'en'
     else

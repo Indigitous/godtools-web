@@ -134,11 +134,15 @@ helpers do
     booklets.include?(booklet) ? booklet : nil
   end
 
+  # A hash of available locales and their booklets, this hash will be passed to the frontend js as json.
   def locale_meta
     {}.tap do |hash|
       I18n.available_locales.each do |locale|
-        next unless I18n.exists? 'language_name', locale
-        hash[locale] = { language_name: I18n.t('language_name', locale: locale) }
+        next unless I18n.exists? 'language_name_in_english', locale
+        hash[locale] = {
+          language_name_in_english: I18n.t('language_name_in_english', locale: locale),
+          language_name: language_name_in_locale(locale)
+        }
         hash[locale]['booklets'] = [].tap do |array|
           booklets.each { |booklet| array << booklet if I18n.exists?(booklet, locale) }
         end
@@ -155,7 +159,7 @@ helpers do
   def language_name_in_locale(language, locale = language)
     language_code = language.to_s[0..1].upcase
     locale_code = locale.to_s[0..1].upcase
-    I18nData.languages(locale_code)[language_code] rescue I18nData.languages('EN')[language_code].presence || I18n.t('language_name', locale: language)
+    I18nData.languages(locale_code)[language_code] rescue I18nData.languages('EN')[language_code].presence || I18n.t('language_name_in_english', locale: language)
   end
 
 end
