@@ -1,19 +1,31 @@
-require_relative 'lib/god_tools_to_hash'
+require 'fileutils'
+require_relative 'lib/god_tools_to_h'
 
 namespace :locales do
   task :update do
-    print 'Fetching translated strings from the God Tools API (this can take awhile) ...'
-    locales_hash = GodToolsToHash.new.to_h
-    locales_hash['unspecified'] = locales_hash['en']
-    puts ' done.'
+    locales_hash = {} # We'll store all the data in a hash, and then output the hash to yml files.
 
-    puts 'Writing translated strings to locale files ...'
+    puts 'Fetching translated strings from the God Tools API (this can take awhile) ...'
+    GodToolsToH.live_languages.each do |language|
+      print "  #{ language.name } ... "
+      locales_hash[language.code] = language.to_h
+      puts 'done.'
+    end
+    locales_hash['unspecified'] = locales_hash['en']
+
+    print 'Removing all existing yml files in locales dir ... '
+    FileUtils.rm Dir.glob('locales/*.yml')
+    puts 'done.'
+
+    puts 'Writing translated strings to new locale files ...'
     locales_hash.each do |locale, hash|
-      print "  #{ locale }..."
+      print "  #{ locale }.yml ... "
       open("locales/#{ locale }.yml", 'w') do |file|
         file.write Psych.dump(locale => hash)
       end
-      puts ' done.'
+      puts 'done.'
     end
+
+    puts 'Everything is finished.'
   end
 end

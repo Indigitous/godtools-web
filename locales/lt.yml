@@ -5,7 +5,7 @@ lt:
     title: Keturi dvasiniai dėsniai
     page_0:
       title: Pradžia
-      filename: 95e037a5-aeec-4877-87d7-1f9d93edefd0
+      filename: ee9d1e62-d83a-4f4c-a81f-46dc0a86d6c7
       404edd90-1aff-4bb9-83a2-f0d15c46a6e8: DĖSNIUS?
       d4b40701-5929-498b-b96e-cc6796d76771: Egzistuoja gamtos dėsniai, kurie veikia
         materialiame pasaulyje. Taip pat yra ir dvasiniai dėsniai, nusakantys mūsų
@@ -15,15 +15,15 @@ lt:
     page_1:
       title: 1 Dievas tave myli ir tave sukūrė tam, kad turėtum asmeninį santykį su
         Juo.
-      filename: fede16b2-77d8-47e9-8e58-f53da95fe9f7
+      filename: 3999863a-36c9-4933-9d00-04cb53ab1c3d
       f2abcea4-074e-4b1a-9c80-651adab20f1b: Dievo sumanymas
       af82e3fd-b785-4363-9349-21a3e9f63645: Dievo meilė
-      681e6951-6be7-4956-ad03-b499d8415575: "(Evangelija pagal Joną 10,10)"
       1148c3e0-879f-4ba3-96a8-d4b48adf64b0: "(Evangelija pagal Joną 3,16)"
+      681e6951-6be7-4956-ad03-b499d8415575: "(Evangelija pagal Joną 10,10)"
       abdb2fc7-049c-4c24-9853-1ad59ac55e64: DIEVAS TAVE MYLI IR TURI TAVO GYVENIMUI
         NUOSTABŲ SUMANYMĄ.
-      01278aca-0fc9-4bb4-bb50-a387d3b0fd21: 'Jėzus kalbėjo: "Aš atėjau, kad žmonės
-        turėtų gyvenimą, kad apsčiai jo turėtų."'
+      01278aca-0fc9-4bb4-bb50-a387d3b0fd21: '"Jėzus kalbėjo: "Aš atėjau, kad žmonės
+        turėtų gyvenimą, kad apsčiai jo turėtų.""'
       8602c78c-1795-4857-9195-026f69badf19: '"Dievas taip pamilo pasaulį, jog atidavė
         savo viengimį Sūnų, kad kiekvienas, kuris jį tiki, nepražūtų, bet turėtų amžinąjį
         gyvenimą."'
@@ -32,7 +32,7 @@ lt:
     page_2:
       title: 2 Žmogus yra nuodėmingas ir per nuodėmę atskirtas nuo Dievo. Todėl jis
         negali pažinti ir patirti Dievo meilės.
-      filename: 2b4c186d-87e1-4e29-9d2f-a36126f72f1a
+      filename: f0ea28e5-8bb9-4343-a5bf-ecf152e21baf
       9a4916f5-1434-48c4-87df-2e87de3b2323: "Žmogus yra nuodėmingas"
       45d18f06-a17d-4ed2-8803-94dca1c4b080: "▲ - Šventas Dievas  |  ★ - Nuodėmingas
         žmogus"
@@ -57,7 +57,7 @@ lt:
     page_3:
       title: 3 Jėzus Kristus yra vienintelė Dievo duota išeitis žmogui būti išlaisvintam
         iš nuodėmės. Tik per Jį galime pažinti Dievą ir patirti Dievo meilę bei atleidimą.
-      filename: 390d0e0b-5c91-4775-b831-28bb9647b08a
+      filename: ecb50df7-0d63-4a36-8b61-94425c1f3925
       35da1297-b80c-4111-b55b-45c22c4d248c: '"Kristus numirė už mūsų nuodėmes, <...>
         jis buvo palaidotas ir buvo prikeltas trečiąją dieną <...>; jis pasirodė Kefui,
         paskui Dvylikai. Vėliau jis pasirodė iš karto daugiau nei penkiems šimtams
@@ -84,7 +84,7 @@ lt:
     page_4:
       title: 4 Turime asmeniškai priimti Jėzų Kristų kaip gelbėtoją ir Viešpatį. Tik
         tada galėsime pažinti Dievą asmeniškai.
-      filename: cc7a67e5-ecaa-45c0-9147-a74a33dd0de6
+      filename: db39e17b-7435-4254-89d6-33de00820d28
       b6ad5fd1-162a-45c6-8200-8ef227d83a08: Mes gimstame iš naujo.
       c499a322-ef95-4627-8513-f07a16770087: "(Perskaitykite Evangeliją pagal Joną
         3: 1-8)"
@@ -104,8 +104,8 @@ lt:
         visas nuodėmes ir padarys tave tokiu, kokiu nori tave matyti."
       e5fc852d-7718-4206-b328-785def7ae592: Priimti Kristų reiškia ...
       e6f40dd1-5cc3-40d4-b749-351e01974b8c: "(Evangelija pagal Joną 1:12)"
-      98f37160-ecd4-4fdd-8d87-aad66cef826d: Turime priimti Jėzų Kristų
       080fc752-9ca8-4b90-af6a-9a5e1591ffa4: Kristų priimame tikėjimu
+      98f37160-ecd4-4fdd-8d87-aad66cef826d: Turime priimti Jėzų Kristų
       bd2663ba-ccd1-4400-a89c-5ff0582e4f8d: Priimame Kristų, jį pakviesdami į savo
         gyvenimą
       d1ccf916-a3fb-4abc-9dce-6ffa8e7a2e1d: '"Jūs gi esate išgelbėti malone per tikėjimą
@@ -116,7 +116,7 @@ lt:
         tapti Dievo vaikais – tiems, kurie tiki jo vardą"'
     page_5:
       title: "Šie apskritimai vaizduoja du skirtingus žmonių tipus"
-      filename: 2a48ffc6-3c15-4359-99a9-f0720efe8a84
+      filename: 37a92bb1-3b43-4d5d-832f-0b41fcefb84e
       8b7f7645-fb10-4e50-8986-cd88503d2e67: Kokį gyvenimą norėtum pasirinkti?
       001f5c24-aabd-483b-ab6c-b9e064a09375: "† - Kristus už gyvenimo ribų."
       f45a6a36-dd42-468a-9dbb-f704788a806d: o - Siekiai yra įkvėpti Kristaus bei sutampa
@@ -135,7 +135,7 @@ lt:
       c0775670-8920-4b66-8cc9-c4a6bc87656d: "Štai kaip tu galėtum priimti Kristų ..."
     page_6:
       title: Tikėjimu gali priimti Kristų, melsdamasis Jam.
-      filename: 230514be-dec3-4561-803d-ad0528eda9cd
+      filename: 6c78f275-21c1-4213-8d7f-284c7577cb68
       9087f3c4-35c7-47d0-b621-cbc835b014be: 'Tavo malda gali būti tokia:'
       62b35212-dc4e-4e2e-a7ac-09a68537c6f5: "(Malda yra pokalbis su Dievu)"
       d7df22f4-9678-4ee7-9c67-e7e5fc306112: Dievas mato tavo širdį, tad Jam svarbu
@@ -148,13 +148,13 @@ lt:
       b4334eea-9d8c-484f-b919-7fed2d5fc635: |-
         Kristus, kaip ir yra pažadėjęs,
         ateis į tavo gyvenimą.
-      ba926c37-e783-42bd-868a-7894c6c54088: Ar ši malda išreiškia tai, ko tu trokšti?  Jeigu
-        taip, melskis šia malda jau dabar.
       e8a4256e-ce69-42d2-b9f9-9d54c90e762a: TIKĖDAMAS IR MELSDAMASIS GALI DABAR PRIIMTI
         KRISTŲ
+      ba926c37-e783-42bd-868a-7894c6c54088: Ar ši malda išreiškia tai, ko tu trokšti?  Jeigu
+        taip, melskis šia malda jau dabar.
     page_7:
       title: Kaip gali žinoti, kad tai iš tikrųjų įvyko?
-      filename: 1d16962d-3a67-41a3-aedd-c7fefd664790
+      filename: 89c6ce88-647a-493c-a072-b19f8368b812
       0b6ed82c-75e3-4597-a8b5-94958dd9bb89: KAIP GALI ŽINOTI, KAD KRISTUS YRA TAVO
         GYVENIME?
       ed474402-3427-48f6-920d-39a798dfcd58: Nepasikliauti vien tik jausmais
@@ -163,23 +163,23 @@ lt:
         kad jis ateis į tavo gyvenimą.  Ar jis galėtų tave suklaidinti?  \n                \nKuo
         remiamės sakydami, kad Dievas atsakė į tavo maldą?  (Pats Dievas ir Jo Žodis
         yra patikimas.)"
-      d8911e6a-8df6-4c5b-96c5-527905f1db22: Dažnai dėkoki Dievui, kad Kristus gyvena
-        tavyje ir kad Jis niekada tavęs neapleis (Laiškas hebrajams 13:5). Remdamasis
-        Jo pažadais, gali būti tikras, kad Kristus gyvena tavyje ir kad iškart, kai
-        tik pakvietei Kristų vadovauti tavo gyvenimui, tu turi amžinąjį gyvenimą.  Kristus
-        tavęs neapgaus ir neapvils.
       994db774-8810-46ca-bee3-e817c4c249cd: '"O liudijimas toks: Dievas mums suteikė
         amžinąjį gyvenimą, ir tas gyvenimas yra jo Sūnuje. Kas turi Sūnų, tas turi
         gyvenimą. Kas neturi Dievo Sūnaus, tas neturi gyvenimo. Aš tai parašiau jums,
         įtikėjusiems Dievo Sūnaus vardą, kad žinotumėte turį amžinąjį gyvenimą."    (Pirmas
         Jono laiškas 5:11-13)'
+      d8911e6a-8df6-4c5b-96c5-527905f1db22: Dažnai dėkoki Dievui, kad Kristus gyvena
+        tavyje ir kad Jis niekada tavęs neapleis (Laiškas hebrajams 13:5). Remdamasis
+        Jo pažadais, gali būti tikras, kad Kristus gyvena tavyje ir kad iškart, kai
+        tik pakvietei Kristų vadovauti tavo gyvenimui, tu turi amžinąjį gyvenimą.  Kristus
+        tavęs neapgaus ir neapvils.
       6128a2c8-82c6-4dc8-bf8c-e378c3851410: "... visiems, kurie priima Kristų."
-      652832bd-f9ae-4fb7-aaf4-16ef584d2cdd: "[ Faktas] - [ Tikėjimas] - [ Jausmai]"
       3002cd11-c590-4790-981e-cee28a661270: Mūsų gyvenimo pagrindas yra Šventasis
         Raštas, o ne jausmai.  Krikščionys gyvena, pasitikėdami Dievu bei Jo Žodžiu
         (Biblija).  Šis piešinys parodo, koks yra santykis tarp fakto (Dievo ir Jo
         Žodžio), tikėjimo(pasitikėjimo Dievu bei Jo Žodžiu) ir jausmų (mūsų tikėjimo
         ir paklusnumo rezultato).  (Perskaityk Evangeliją pagal Joną 14:21)
+      652832bd-f9ae-4fb7-aaf4-16ef584d2cdd: "[ Faktas] - [ Tikėjimas] - [ Jausmai]"
       2a3b40b5-2249-4f0b-9aa5-ac2f83c7ab46: Pažadamas amžinasis gyvenimas ...
       84999bcf-a404-436e-9454-5c70ebb88c84: Labai svarbu prisiminti...
       7733f716-949b-405f-8de9-7771b9320068: Garvežys važiuoja tiek su vagonais, tiek
@@ -189,12 +189,12 @@ lt:
       666b553f-d0f5-437e-a0fa-b421a724707c: Ar pakvietei Kristų?
     page_8:
       title: 'Jeigu tikėjimu pakvietei Jėzų į savo gyvenimą, tai įvyko daug dalykų:'
-      filename: 107fb6c0-b659-4fb6-8089-3d519eceb126
-      ce4d73ae-eae9-4ad1-b75f-5cf467bf0b1b: Kristus atėjo į tavo gyvenimą
+      filename: dcbcbfe9-be04-41dd-9d2d-605278c9d558
       75179d85-6fd4-4470-b988-63a46b3c5a41: "(Laiškas kolosiečiams 1:14)"
+      ce4d73ae-eae9-4ad1-b75f-5cf467bf0b1b: Kristus atėjo į tavo gyvenimą
+      8ce2b3fa-848d-457c-a447-98a6181ffa67: "...kuriam Dievas tave sukūrė."
       628af499-ee4d-41f4-ad13-2b7404128b02: 'Kai tu tikėdamas priėmei Kristų, įvyko
         daug dalykų:'
-      8ce2b3fa-848d-457c-a447-98a6181ffa67: "...kuriam Dievas tave sukūrė."
       43e2d065-da26-4aab-845c-9218d0783f36: Tu gavai amžinąjį gyvenimą
       bdd7d7ed-d61f-4f66-baee-e0596a5084c0: "(Evangelija pagal Joną 1:12)"
       5d752762-ccd9-4bff-b5af-50dc164c27e2: KAI PRIĖMEI KRISTŲ
@@ -214,12 +214,12 @@ lt:
       c8367e87-901c-4196-bef7-5073bbd350f0: Tu pradėjai gyventi prasmingą gyvenimą...
     page_9:
       title: Ko reikia, kad krikščionis augtų?
-      filename: 18aef8c3-f4cd-4265-964d-eebcc5d8d20f
+      filename: 20a8a792-7390-4d19-a6a3-1db282e58024
       6f9899a7-1198-4146-a3da-85b7af126829: Pradėk skaityti nuo Evangelijos pagal
         Joną.
       6371b963-8350-425a-b4db-4b29b4809eab: KO REIKIA, KAD KRIKŠČIONIS AUGTŲ?
-      c625a988-dd7d-44ae-af59-9e4baed5677c: "(Evangelija pagal Joną 15:7)"
       6e5ffc21-1b31-44a9-aba9-973d875e6d6b: Paklusti ...
+      c625a988-dd7d-44ae-af59-9e4baed5677c: "(Evangelija pagal Joną 15:7)"
       9c196e7c-7cfe-4b3a-892d-3db23bb024a4: Dievo Žodis mus ragina nenustoti "lankyti
         savųjų susirinkimų" (Laiškas hebrajams 10:25).  Keletas malkų kartu dega ryškiai,
         bet padėk vieną iš jų į šalį, ir ji užges.  Lygiai taip pat yra ir bendraujant
@@ -228,9 +228,9 @@ lt:
       913b2c56-7095-4048-a960-7d378ded7b07: Skaityti ...
       e5687d09-9a26-4195-8855-5be15b04665e: Susitikti ...
       5f832e24-e77c-4f36-be13-d0eaebda2a84: Paklusti Dievui kasdienėse situacijose.
-      b248716d-7246-45e2-b3a4-ad2f4a5c32e8: Pasitikėti Dievu visose gyvenimo situacijose.
-      9094027f-4dbc-4fd0-928e-934e71463dbe: Pasitikėti ...
       980518ae-87f0-48cf-9548-fba01ffdf721: "(Apaštalų darbų 17:11)"
+      9094027f-4dbc-4fd0-928e-934e71463dbe: Pasitikėti ...
+      b248716d-7246-45e2-b3a4-ad2f4a5c32e8: Pasitikėti Dievu visose gyvenimo situacijose.
       93f73e0d-9e71-4be1-a640-c8a4043afcff: "(Evangelija pagal Joną 14:21)"
       7d5e8f33-b4ba-4d4e-9f01-729a4692729a: "(Laiškas galatams 5:16,17 ir Apaštalų
         darbų 1:8)"
@@ -240,12 +240,12 @@ lt:
         įgalinti tave tiek gyventi, tiek liudyti.
       15bbe563-7469-4f41-900a-dd1e438b034b: Bendravimas bažnyčioje
       1318c4c5-f382-4592-8194-e4c439422b6f: Liudyti apie Kristų savo žodžiais ir gyvenimu.
-      88ec181e-a31f-4fe5-b75a-324dac335249: "(Pirmas Petro laiškas 5:7)"
-      141466f7-fb7f-44e3-90a6-b98978615965: Liudyti ...
       46d0a51a-f2d1-4e3a-8eac-6be571dd8547: "Tam, kad dvasiškai augtume, turime kasdien
         pasitikėti Jėzumi.  \"...teisusis gyvens tikėjimu\" (Laiškas galatams 3:11).\n
         \           \n           Gyvendamas tikėjimu, išmoksi vis labiau pasikliauti
         Dievu kasdienėse situacijose bei daryti tai, į ką tave kviečia Dievas:"
+      141466f7-fb7f-44e3-90a6-b98978615965: Liudyti ...
+      88ec181e-a31f-4fe5-b75a-324dac335249: "(Pirmas Petro laiškas 5:7)"
       e735a5c3-f155-4255-82d6-dce217ad1d85: 'Jeigu dar nepriklausai jokiai bažnyčiai,
         nelauk pakvietimo ar paraginimo.  Pats imkis iniciatyvos: pasistenk rasti
         bažnyčią, kurioje yra garbinamas Kristus ir skelbiamas Dievo Žodis. Pradėk
@@ -254,7 +254,7 @@ lt:
       7561abb4-d54b-4bd4-96a6-bd6e7d102489: Kasdien skaityti Dievo Žodį.
     page_10:
       title: Papildoma medžiaga
-      filename: 112a3a17-5c3b-47e4-a9ad-b901e9880418
+      filename: e85017ab-c3e6-4fa7-a57e-1dc6dd44dbd7
       5e21ea17-05e2-4347-ab7c-01da48a90ed0: www.whoisJesus-really.com
       b3c11ca8-82f0-4176-8000-a73f80ab3303: www.startingwithGod.com
       2dfaef4c-0ce9-4152-b4b3-947af7dceea3: www.growinginChrist.com
