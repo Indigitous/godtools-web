@@ -2,7 +2,7 @@
 gt.locale_meta = <%= app.locale_meta.to_json %>
 
 
-# Try to find the meta for a specific locale if it's supported by the app.
+# Try to find the meta for a specific locale if it's supported by the app, otherwise return null.
 gt.meta_for_locale = (locale) ->
   if typeof gt.locale_meta[locale] == 'object'
     gt.locale_meta[locale]
@@ -18,21 +18,15 @@ gt.get_navigator_language = ->
     navigator.languages[0]
   else
     (navigator.language || navigator.userLanguage)
-  'ko'
 
 
 # Look at the navigator language and try to return a locale that the app supports.
-gt.extract_supported_locale_from_navigator_language = ->
+gt.get_desired_locale = ->
   navigator_language = gt.get_navigator_language()
-  if typeof gt.locale_meta[navigator_language] == 'object'
-    navigator_language
-  else if typeof gt.locale_meta[navigator_language.substr(0, 2)] == 'object' # If the language has a region like "en-US" then try ignoring the region.
-    navigator_language.substr(0, 2)
+  if gt.meta_for_locale(navigator_language) != null
+    navigator_language.substr(0, 2) # Only return first two characters in case a region is present, like "en-US".
   else
     null
-
-
-gt.desired_locale = -> gt.extract_supported_locale_from_navigator_language()
 
 
 gt.redirect_to_current_path_in_locale = (desired_locale) ->
@@ -60,7 +54,7 @@ gt.is_current_booklet_available_in_current_locale = ->
 gt.initialize_locale = ->
   console.log 'Initializing locale'
 
-  desired_locale = gt.desired_locale()
+  desired_locale = gt.get_desired_locale()
 
   # If we can't find a desired locale then do nothing.
   if desired_locale == null
@@ -77,10 +71,9 @@ gt.initialize_locale = ->
     # If the translation is not available then we should apologize.
     if gt.current_booklet != '' and !gt.is_current_booklet_available_in_current_locale()
       $ ->
-        console.log ':('
         $('<div/>', {
           class: 'container alert alert-danger text-center',
-          html: '<i class="fa fa-frown-o"></i> Sorry, this document is not translated into ' + gt.meta_for_locale(gt.current_locale).language_name_in_english + ' yet.'
+          html: "<i class='fa fa-frown-o'></i> Sorry, this document is not translated into #{ gt.meta_for_locale(gt.current_locale).language_name_in_english } yet."
         }).appendTo('.alerts')
       gt.display_locale_switch_alert_for_locale(desired_locale) if desired_locale != 'en'
     else
