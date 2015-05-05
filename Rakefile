@@ -8,8 +8,9 @@ namespace :locales do
     puts 'Fetching translated strings from the God Tools API (this can take awhile) ...'
     GodToolsToH.live_languages.each do |language|
       print "  #{ language.name } ... "
+      sleep 1 # API rate limiting.
       locales_hash[language.code] = language.to_h
-      puts 'done.'
+      puts 'done fetching.'
     end
     locales_hash['unspecified'] = locales_hash['en']
 
@@ -23,9 +24,9 @@ namespace :locales do
       open("locales/#{ locale }.yml", 'w') do |file|
         file.write Psych.dump(locale => hash)
       end
-      puts 'done.'
+      puts 'done writing.'
     end
 
-    puts 'Everything is finished.'
+    puts 'Finished updating locale files!'
   end
 end
