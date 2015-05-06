@@ -49,6 +49,12 @@ activate :bh
 # Reload the browser automatically whenever files change
 activate :livereload
 
+# handlebars_assets gem
+require 'handlebars_assets'
+ready do
+  sprockets.append_path HandlebarsAssets.path
+end
+
 # ========================================================================
 # Page options, layouts, aliases and proxies
 # ========================================================================

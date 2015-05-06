@@ -40,10 +40,10 @@ gt.display_locale_switch_alert_for_locale = (desired_locale) ->
   redirect_to_locale_url = window.location.pathname.replace re, "/#{ desired_locale }"
   $ ->
     if desired_locale != gt.current_locale
-      $('<div/>', {
-        class: 'container alert alert-warning text-center',
-        html: "<a class='alert-link' href='#{ redirect_to_locale_url }'><i class='fa fa-language'></i> #{ gt.meta_for_locale(desired_locale).language_name }</a>"
-      }).appendTo('.alerts')
+      $(HandlebarsTemplates['alerts/switch_language']({
+        url: redirect_to_locale_url,
+        language_name: gt.meta_for_locale(desired_locale).language_name
+      })).appendTo('.alerts')
 
 
 gt.is_current_booklet_available_in_current_locale = ->
@@ -67,14 +67,12 @@ gt.initialize_locale = ->
     return
 
   else # If the current locale is already specified then we will prompt the user to switch locales.
-
     # If the translation is not available then we should apologize.
     if gt.current_booklet != '' and !gt.is_current_booklet_available_in_current_locale()
       $ ->
-        $('<div/>', {
-          class: 'container alert alert-danger text-center',
-          html: "<i class='fa fa-frown-o'></i> Sorry, this document is not translated into #{ gt.meta_for_locale(gt.current_locale).language_name_in_english } yet."
-        }).appendTo('.alerts')
+        $(HandlebarsTemplates['alerts/no_translation_apology']({
+          language_name: gt.meta_for_locale(gt.current_locale).language_name_in_english
+        })).appendTo('.alerts')
       gt.display_locale_switch_alert_for_locale(desired_locale) if desired_locale != 'en'
     else
       gt.display_locale_switch_alert_for_locale(desired_locale)

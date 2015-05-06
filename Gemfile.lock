@@ -75,6 +75,11 @@ GEM
     fspath (2.1.1)
     haml (4.0.6)
       tilt
+    handlebars_assets (0.20.1)
+      execjs (~> 2.0)
+      multi_json (~> 1.0)
+      sprockets (~> 2.0)
+      tilt (~> 1.2)
     hashie (3.4.1)
     hike (1.2.3)
     hitimes (1.2.2)
@@ -223,6 +228,7 @@ DEPENDENCIES
   dotenv-rails (~> 2.0.0)
   font-awesome-middleman (~> 4.2.3)
   god_tools!
+  handlebars_assets (~> 0.20.1)
   i18n_data (= 0.7.0)
   middleman (= 3.3.10)
   middleman-autoprefixer (~> 2.4.3)
