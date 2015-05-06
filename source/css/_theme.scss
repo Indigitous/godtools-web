@@ -9,6 +9,10 @@ main > article {
   }
 }
 
+a {
+  cursor: pointer; // Fix a bug with cursor style on navbar dropdowns
+}
+
 footer {
   text-align: center;
 }
