@@ -57,9 +57,6 @@ GEM
     compass-import-once (1.0.5)
       sass (>= 3.2, < 3.5)
     docile (1.1.5)
-    dotenv (2.0.1)
-    dotenv-rails (2.0.1)
-      dotenv (= 2.0.1)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -225,7 +222,6 @@ DEPENDENCIES
   bh (~> 1.2)
   bootstrap-sass (~> 3.3.3)
   builder (~> 3.2.2)
-  dotenv-rails (~> 2.0.0)
   font-awesome-middleman (~> 4.2.3)
   god_tools!
   handlebars_assets (~> 0.20.1)

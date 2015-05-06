@@ -8,22 +8,9 @@ Hosted on GitHub Pages at [http://godtools.ballistiq.com](http://godtools.ballis
 
 Setup a Ruby environment based on `.ruby-version` and `.ruby-gemset` and then run `bundle install`
 
-Setup the environment variables:
-
-```
-cp .env.sample .env
-vim .env
-```
-
-### Building
-
-```
-bundle exec middleman build
-```
+Start a server with `bundle exec middleman server`
 
 ### Deployment
 
-```
-bundle exec middleman deploy
-```
+Commit your changes to the master branch, then run `bundle exec middleman deploy`
 
