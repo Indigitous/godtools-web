@@ -162,6 +162,20 @@ helpers do
     I18nData.languages(locale_code)[language_code] rescue I18nData.languages('EN')[language_code].presence || I18n.t('language_name_in_english', locale: language)
   end
 
+  def booklet_nav(current_page)
+    previous_page = current_page - 1
+    previous_path = previous_page > 0 ? "/#{ current_booklet }/#{ previous_page }" : "/#{ current_booklet }"
+
+    next_page = current_page + 1
+    next_path = "/#{ current_booklet }/#{ next_page }"
+
+    links = ''
+    links += link_to(content_tag(:i, '', class: 'fa fa-arrow-left'), l(previous_path), class: 'btn btn-lg btn-default') if previous_page >= 0
+    links += link_to(content_tag(:i, '', class: 'fa fa-arrow-right'), l(next_path), class: 'btn btn-lg btn-primary') if I18n.exists?("#{ current_booklet }.page_#{ next_page }")
+
+    content_tag :nav, content_tag(:div, links, class: 'btn-group')
+  end
+
 end
 
 
