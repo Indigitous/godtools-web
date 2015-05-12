@@ -1,4 +1,7 @@
 .list-group
-  = link_to t('kgp.title'), l('/kgp'), class: 'list-group-item'
-  = link_to t('fourlaws.title'), l('/fourlaws'), class: 'list-group-item'
-  = link_to t('satisfied.title'), l('/satisfied'), class: 'list-group-item'
+  - booklets.each do |booklet|
+    = link_to l("/#{ booklet }"), class: 'list-group-item' do
+      h1.list-group-item-heading
+        i.fa.fa-book
+        '
+        = t "#{ booklet }.title"

@@ -78,9 +78,9 @@ module ApplicationHelpers
     next_path = "/#{ current_booklet }/#{ next_page }"
 
     links = ''
-    links += link_to(content_tag(:i, '', class: 'fa fa-arrow-left'), l(previous_path), class: 'btn btn-lg btn-default') if booklet_page_exists?(current_booklet, previous_page)
-    links += link_to(content_tag(:i, '', class: 'fa fa-arrow-right'), l(next_path), class: 'btn btn-lg btn-primary') if booklet_page_exists?(current_booklet, next_page)
-    content_tag :nav, content_tag(:div, links, class: 'btn-group')
+    links += link_to(content_tag(:i, '', class: 'fa fa-arrow-left'), l(previous_path), class: 'btn btn-default') if booklet_page_exists?(current_booklet, previous_page)
+    links += link_to(content_tag(:i, '', class: 'fa fa-arrow-right'), l(next_path), class: 'btn btn-primary') if booklet_page_exists?(current_booklet, next_page)
+    content_tag :nav, content_tag(:div, links, class: 'btn-group btn-group-lg btn-group-justified')
   end
 
   def booklet_page_exists?(booklet, page)

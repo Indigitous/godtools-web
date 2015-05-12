@@ -2,10 +2,42 @@ main > article {
   background: white;
   border: 1px solid #ddd;
   border-radius: 2px;
-  padding: 40px 0;
+  padding: 60px 0;
+
+  footer, section, figure {
+    margin: 40px 0;
+  }
 
   nav {
     text-align: center;
+  }
+
+  section {
+    &:first-child {
+      margin: 0;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-bottom: 20px;
+    }
+  }
+
+  figure {
+    text-align: center;
+    .thumbnail {
+      display: inline-block;
+      margin: 0 auto;
+    }
+    figcaption {
+      padding: 9px;
+      margin: 0;
+    }
+  }
+
+  footer {
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+    margin-bottom: 0;
   }
 }
 
@@ -37,3 +69,4 @@ i.cru-logo {
     width: 100px;
   }
 }
+
