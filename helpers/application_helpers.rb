@@ -90,6 +90,8 @@ module ApplicationHelpers
   def external_url(url)
     uri = URI(url)
     uri.scheme.blank? ? "http://#{ url }" : url
+  rescue => e
+    url
   end
 
 end

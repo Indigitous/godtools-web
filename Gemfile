@@ -27,7 +27,8 @@ gem 'middleman-sitemap', '~> 0.0.13'
 # Development
 gem 'middleman-livereload', '~> 3.4.2'
 gem 'oj', '~> 2.11.5'
-gem 'pry'
+gem 'pry', '~> 0.10.1'
+gem 'pry-stack_explorer', '~> 0.4.9.2'
 
 # Deployment
 gem 'middleman-deploy', '~> 1.0.0'
