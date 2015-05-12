@@ -87,4 +87,9 @@ module ApplicationHelpers
     I18n.exists? "#{ booklet }.page_#{ page }", 'en' # Use en locale because all of the translations exist in English.
   end
 
+  def external_url(url)
+    uri = URI(url)
+    uri.scheme.blank? ? "http://#{ url }" : url
+  end
+
 end
