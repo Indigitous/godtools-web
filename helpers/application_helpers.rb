@@ -82,8 +82,10 @@ module ApplicationHelpers
     next_path = "/#{ current_booklet }/#{ next_page }"
 
     links = ''
-    links += link_to(content_tag(:i, '', class: 'fa fa-arrow-left'), l(previous_path), class: 'btn btn-default') if booklet_page_exists?(current_booklet, previous_page)
-    links += link_to(content_tag(:i, '', class: 'fa fa-arrow-right'), l(next_path), class: 'btn btn-primary') if booklet_page_exists?(current_booklet, next_page)
+    links += link_to(content_tag(:i, '', class: 'fa fa-arrow-left fa-lg'), l(previous_path), class: 'btn btn-default') if booklet_page_exists?(current_booklet, previous_page)
+    links += link_to(content_tag(:i, '', class: 'fa fa-share-alt fa-lg'), '#', class: 'btn btn-default', data: { toggle: 'modal', target: '#share' })
+    links += link_to(content_tag(:i, '', class: 'fa fa-arrow-right fa-lg'), l(next_path), class: 'btn btn-primary') if booklet_page_exists?(current_booklet, next_page)
+
     content_tag :nav, content_tag(:div, links, class: 'btn-group btn-group-lg btn-group-justified')
   end
 
@@ -96,6 +98,19 @@ module ApplicationHelpers
     uri.scheme.blank? ? "http://#{ url }" : url
   rescue => e
     url
+  end
+
+  def embed_element_for_booklet(booklet)
+    path = "/embed/#{ booklet }"
+    if current_locale != :unspecified
+      path = "/#{ current_locale }#{ path }"
+    end
+    embed_element_for_path path
+  end
+
+  def embed_element_for_path(path)
+    path = path.starts_with?('/') ? path : "/#{ path }" # Make the path absolute
+    content_tag :iframe, '', src: "#{ site_url }#{ path }", height: 800, width: 768, frameborder: 0, allowfullscreen: ''
   end
 
 end

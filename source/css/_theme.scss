@@ -59,6 +59,11 @@ footer {
   width: 100px;
 }
 
+::selection, ::-moz-selection {
+  background: #A2CCFE;
+  color: black;
+}
+
 i.cru-logo {
   display: inline-block;
   height: 100%;

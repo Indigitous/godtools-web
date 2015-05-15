@@ -1,0 +1,19 @@
+#share.modal.fade aria-hidden="true" role="dialog" tabindex="-1"
+  .modal-dialog
+    .modal-content
+      .modal-header
+        button.close aria-label="Close" data-dismiss="modal" type="button": .fa.fa-close
+        h4.modal-title: .fa.fa-share-alt
+      .modal-body
+        form.form-horizontal: .form-group
+          label.col-sm-2.control-label for="share-iframe" Embed:
+          .col-sm-10 = text_field_tag 'share-iframe', value: embed_element_for_booklet(current_booklet), class: 'form-control'
+
+coffee:
+  $('input[name="share-iframe"]').on 'focus', (e) ->
+    $(this)
+      .one 'mouseup', ->
+        $(this).select()
+        false
+      .select()
+
