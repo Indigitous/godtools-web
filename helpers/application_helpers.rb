@@ -4,11 +4,6 @@ module ApplicationHelpers
     ['kgp', 'satisfied', 'fourlaws']
   end
 
-  # Gets partials from the _partials directory
-  def _partial(partial_filename)
-    partial "_partials/#{partial_filename}"
-  end
-
   def current_locale
     I18n.locale
   end
@@ -37,9 +32,12 @@ module ApplicationHelpers
   alias :l :localize_path
 
   def current_booklet
-    path_split = current_page.path.split('/')
-    booklet = I18n.locale == :unspecified ? path_split.first : path_split.second
-    booklets.include?(booklet) ? booklet : nil
+    path_params = current_page.path.split('/')
+    path_params = I18n.locale == :unspecified ? path_params[1..-1] : path_params
+    path_params.each do |param|
+      return param if booklets.include? param
+    end
+    nil
   end
 
   # A hash of available locales and their booklets, this hash will be passed to the frontend js as json.
@@ -70,12 +68,21 @@ module ApplicationHelpers
     I18nData.languages(locale_code)[language_code] rescue I18nData.languages('EN')[language_code].presence || I18n.t('language_name_in_english', locale: language)
   end
 
-  def booklet_nav(current_page)
-    previous_page = current_page - 1
-    previous_path = previous_page > 0 ? "/#{ current_booklet }/#{ previous_page }" : "/#{ current_booklet }"
+  def current_booklet_index_path
+    route = []
+    current_page.path.split('/').each do |param|
+      route << param
+      break if booklets.include? param
+    end
+    route.join('/')
+  end
 
-    next_page = current_page + 1
-    next_path = "/#{ current_booklet }/#{ next_page }"
+  def booklet_nav(page)
+    previous_page = page - 1
+    previous_path = previous_page > 0 ? "/#{ current_booklet_index_path }/#{ previous_page }" : "/#{ current_booklet_index_path }"
+
+    next_page = page + 1
+    next_path = "/#{ current_booklet_index_path }/#{ next_page }"
 
     links = ''
     links += link_to(content_tag(:i, '', class: 'fa fa-arrow-left'), l(previous_path), class: 'btn btn-default') if booklet_page_exists?(current_booklet, previous_page)

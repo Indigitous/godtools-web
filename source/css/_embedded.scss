@@ -1,0 +1,12 @@
+html.embedded, html.embedded body {
+  background: transparent;
+}
+
+html.embedded body {
+  article {
+    padding: 15px;
+  }
+  main {
+    margin-bottom: 25px;
+  }
+}
