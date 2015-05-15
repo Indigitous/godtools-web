@@ -1,13 +1,4 @@
 - content_for :html_class, 'embedded'
-
-- content_for :body do
-  main role="document"
-    .alerts
-    article == yield
-  footer.content-info.text-muted role="content-info": small
-    |&copy; #{ Time.now.year } Cru.
-    br
-    i.cru-logo.fixed-size
-
+- content_for :yielded, yield
 == partial 'layouts/shared'
 

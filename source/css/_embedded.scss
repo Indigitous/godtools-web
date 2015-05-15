@@ -1,12 +1,26 @@
-html.embedded, html.embedded body {
+html.embedded {
   background: transparent;
-}
 
-html.embedded body {
-  article {
-    padding: 15px;
+  .container {
+    width: 100%;
   }
-  main {
-    margin-bottom: 25px;
+
+  body {
+    background: transparent;
+
+    #wrap {
+      background: white;
+      border: 1px solid #DDD;
+      border-radius: 2px;
+    }
+
+    .navbar {
+      border-radius: 2px;
+    }
+
+    article {
+      padding: 15px;
+      border: 0;
+    }
   }
 }

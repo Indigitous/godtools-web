@@ -13,9 +13,10 @@ module ApplicationHelpers
   def localize_path(path, desired_locale = current_locale)
     path = path.starts_with?('/') ? path : "/#{ path }" # Make the path absolute
     path_split = path.split '/'
+
     path_lang = path_split.second.try(:to_sym)
 
-    # The path may or may not already have a locale specified in it
+    # Handle localization
     if langs.include?(path_lang) # The path is already localized
       unlocalized_path = "/#{ path_split[2..-1].join('/') }"
     else # The path is not localized yet
@@ -23,13 +24,18 @@ module ApplicationHelpers
       unlocalized_path = path
     end
 
-    if desired_locale == :unspecified
-       unlocalized_path
-    else
-      "/#{ desired_locale }#{ unlocalized_path }"
+    # Handle embedded paths
+    if current_page_embedded? && !(unlocalized_path.split('/').second == 'embed')
+      unlocalized_path = "/embed#{ unlocalized_path }"
     end
+
+    desired_locale == :unspecified ? unlocalized_path : "/#{ desired_locale }#{ unlocalized_path }"
   end
   alias :l :localize_path
+
+  def current_page_embedded?
+    current_page.path.include? '/embed/'
+  end
 
   def current_booklet
     path_params = current_page.path.split('/')
@@ -68,21 +74,12 @@ module ApplicationHelpers
     I18nData.languages(locale_code)[language_code] rescue I18nData.languages('EN')[language_code].presence || I18n.t('language_name_in_english', locale: language)
   end
 
-  def current_booklet_index_path
-    route = []
-    current_page.path.split('/').each do |param|
-      route << param
-      break if booklets.include? param
-    end
-    route.join('/')
-  end
-
   def booklet_nav(page)
     previous_page = page - 1
-    previous_path = previous_page > 0 ? "/#{ current_booklet_index_path }/#{ previous_page }" : "/#{ current_booklet_index_path }"
+    previous_path = previous_page > 0 ? "/#{ current_booklet }/#{ previous_page }" : "/#{ current_booklet }"
 
     next_page = page + 1
-    next_path = "/#{ current_booklet_index_path }/#{ next_page }"
+    next_path = "/#{ current_booklet }/#{ next_page }"
 
     links = ''
     links += link_to(content_tag(:i, '', class: 'fa fa-arrow-left'), l(previous_path), class: 'btn btn-default') if booklet_page_exists?(current_booklet, previous_page)

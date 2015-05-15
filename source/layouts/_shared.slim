@@ -35,5 +35,15 @@ html.no-js class=yield_content(:html_class)
       p.chromeframe.alert.alert-warning
         | You are using an outdated browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
     #wrap
-      == yield_content :body
+      header role="banner"
+        == partial 'layouts/navigation'
+      main role="document"
+        .alerts
+        article.container: .row
+          .col-md-offset-2.col-md-8.col-sm-10.col-sm-offset-1
+            == yield_content :yielded
+      footer.content-info.text-muted role="content-info": small
+        hr
+        .container: p &copy; #{ Time.now.year } Cru.
+        i.cru-logo.fixed-size
 
