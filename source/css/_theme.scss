@@ -26,6 +26,7 @@ main > article {
     .thumbnail {
       display: inline-block;
       margin: 0 auto;
+      img { width: 100%; }
     }
     figcaption {
       padding: 9px;

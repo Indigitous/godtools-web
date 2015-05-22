@@ -110,7 +110,7 @@ module ApplicationHelpers
 
   def embed_element_for_path(path)
     path = path.starts_with?('/') ? path : "/#{ path }" # Make the path absolute
-    content_tag :iframe, '', src: "#{ site_url }#{ path }", height: 800, width: 768, frameborder: 0, allowfullscreen: ''
+    content_tag :iframe, '', src: "#{ site_url }#{ path }", height: 900, width: 768, frameborder: 0, allowfullscreen: ''
   end
 
 end

@@ -1,4 +1,9 @@
-h2 Embedded booklet demo:
-= h embed_element_for_booklet(:kgp)
-= embed_element_for_booklet(:kgp)
+h1 Embedded booklet demo
+
+- booklets.each do |booklet|
+  h2 = booklet.titleize
+  p: small: code = h embed_element_for_booklet booklet
+  p
+    = embed_element_for_booklet booklet
+    br
 
