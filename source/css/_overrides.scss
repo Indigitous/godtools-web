@@ -1,0 +1,38 @@
+// This file is used to override styles that were defined in crubrand.
+// (Some styles in crubrand were incompatible with this app,
+// but the fixes could not be merged into crubrand upstream.)
+
+.navbar {
+
+  .navbar-toggle {
+    border: 1px solid rgba(216, 216, 216, 0.35);
+    border-radius: 4px;
+    background-color: rgba(229, 229, 229, 0.35);
+    .icon-bar {
+      background-color: #404040;
+    }
+    &:hover, &:active {
+      background-color: #404040;
+      border-color: #404040;
+      .icon-bar {
+        background-color: #F9B625;
+      }
+    }
+  }
+
+  .dropdown {
+    .dropdown-menu {
+      border: none !important;
+      background-color: #404040 !important;
+      a {
+        color: #F9B625 !important;
+        &:hover, &:active {
+          background-color: #F9B625 !important;
+          color: #404040 !important;
+        }
+      }
+    }
+  }
+
+}
+
