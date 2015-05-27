@@ -4,7 +4,7 @@ main > article {
   border-radius: 2px;
   padding: 60px 0;
 
-  footer, section, figure {
+  footer, section {
     margin: 40px 0;
   }
 
@@ -25,6 +25,7 @@ main > article {
   }
 
   figure {
+    margin: 18px 0;
     text-align: center;
     .thumbnail {
       display: inline-block;
