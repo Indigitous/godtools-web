@@ -10,7 +10,7 @@ html.no-js class=yield_content(:html_class)
     meta content="index,follow" name="robots"
 
     - content_for(:title, t("#{ current_booklet }.title")) if current_booklet
-    title = [site_title, (current_page.data.title || yield_content(:title))].compact.join(' | ')
+    title = [(current_page.data.title || yield_content(:title)), site_title].compact.join(' | ')
 
     // Check frontmatter meta description; fallback to value in config.rb
     - if current_page.data.meta_description
