@@ -42,9 +42,9 @@ html.no-js class=yield_content(:html_class)
         article.container: .row
           .col-md-offset-2.col-md-8.col-sm-10.col-sm-offset-1
             == yield_content :yielded
-      footer.content-info.text-muted role="content-info": small
+      footer.content-info.text-muted role="content-info": .container: small
         hr
-        .container: p &copy; #{ Time.now.year } Cru.
+        div &copy; #{ Time.now.year } Cru.
         i.cru-logo.fixed-size
       == partial 'layouts/modals'
 

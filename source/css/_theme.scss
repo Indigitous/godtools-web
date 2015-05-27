@@ -19,6 +19,9 @@ main > article {
     h1, h2, h3, h4, h5, h6 {
       margin: 18px 0;
     }
+    h1 {
+      margin-top: 0;
+    }
   }
 
   figure {
@@ -58,6 +61,16 @@ footer {
   line-height: 20px;
   height: 70px;
   width: 100px;
+}
+
+@media screen and (max-width: $screen-sm-min) {
+  main > article {
+    padding: 30px 0;
+  }
+  hr {
+    margin-top: 29px;
+    margin-bottom: 29px;
+  }
 }
 
 i.cru-logo {
