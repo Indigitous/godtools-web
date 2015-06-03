@@ -1,3 +1,6 @@
+- url = "#{ site_url }#{ current_page.url }"
+- title = yield_content(:title)
+
 #share.modal.fade aria-hidden="true" role="dialog" tabindex="-1"
   .modal-dialog
     .modal-content
@@ -5,12 +8,29 @@
         button.close aria-label="Close" data-dismiss="modal" type="button": .fa.fa-close
         h4.modal-title: .fa.fa-share-alt
       .modal-body
-        form.form-horizontal: .form-group
-          label.col-sm-2.control-label for="share-iframe" Embed:
-          .col-sm-10 = text_field_tag 'share-iframe', value: embed_element_for_booklet(current_booklet), class: 'form-control'
+        form.form-horizontal
+          .form-group
+            label.col-sm-2.control-label
+            .col-sm-10.col-sm-offset-2
+              .btn-group
+                = link_to "https://twitter.com/home?status=#{ CGI.escape "#{ title } via @crutweets #{ url }" }", target: '_blank', title: 'Twitter', class: 'btn btn-default' do
+                  .fa.fa-twitter.fa-lg
+                = link_to "https://www.facebook.com/sharer/sharer.php?u=#{ CGI.escape url }", target: '_blank', title: 'Facebook', class: 'btn btn-default' do
+                  .fa.fa-facebook.fa-lg
+                = link_to "https://plusone.google.com/_/+1/confirm?url=#{ CGI.escape url }", target: '_blank', title: 'Google+', class: 'btn btn-default' do
+                  .fa.fa-google-plus.fa-lg
+                a href="mailto:?subject=#{ title }&body=#{ CGI.escape url }" target='_blank' title='Email' class='btn btn-default'
+                  .fa.fa-envelope.fa-lg
+          .form-group
+            label.col-sm-2.control-label for="share-link"
+              .fa.fa-link.fa-lg
+            .col-sm-10 = text_field_tag 'share-link', value: url, class: 'form-control'
+          .form-group
+            label.col-sm-2.control-label for="share-iframe" Embed
+            .col-sm-10 = text_field_tag 'share-iframe', value: embed_element_for_booklet(current_booklet), class: 'form-control'
 
 coffee:
-  $('input[name="share-iframe"]').on 'focus', (e) ->
+  $('#share input').on 'focus', (e) ->
     $(this)
       .one 'mouseup', ->
         $(this).select()
