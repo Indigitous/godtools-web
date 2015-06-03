@@ -87,7 +87,8 @@ footer {
 @media screen and (max-width: $screen-md-min) {
   main > article {
     header {
-      padding: 30px 0 10px 0;
+      padding: 30px 0 14px 0;
+      margin: 0 0 20px 0;
 
       .bookmark {
         position: relative;
@@ -109,10 +110,6 @@ footer {
 @media screen and (max-width: $screen-sm-min) {
   main > article {
     padding: 0 0 30px 0;
-
-    header {
-      padding: 30px 0 10px 0;
-    }
   }
 
   hr {
