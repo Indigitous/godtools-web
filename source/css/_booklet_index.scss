@@ -1,0 +1,70 @@
+.booklet-index {
+
+  main > article {
+    background: inherit;
+    border: none;
+    padding-top: 40px;
+    padding-bottom: 100px;
+    header {
+      display: none;
+    }
+  }
+
+  .booklet-cover {
+    .img-wrapper {
+      background: black;
+    }
+    .caption {
+      color: $btn-default-color;
+      padding: 18px;
+    }
+    .thumbnail {
+      padding: 0;
+      border-radius: 2px;
+      box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+      .img-wrapper {
+        position: relative;
+        img {
+          width: 100%;
+        }
+        .fa-stack {
+          display: none;
+          position: absolute;
+          left: calc(50% - 32px);
+          top: calc(50% - 32px);
+        }
+      }
+    }
+
+    &:hover, &:active {
+      text-decoration: none;
+      .thumbnail {
+        .img-wrapper img {
+          opacity: 0.5;
+        }
+        .fa-stack {
+          display: block;
+          z-index: 100;
+          .fa-circle {
+            color: white;
+          }
+          .fa-arrow-right {
+            color: $colorCru-gold;
+          }
+        }
+      }
+    }
+  }
+
+}
+
+
+@media screen and (max-width: $screen-md-min) {
+  .booklet-index {
+    main > article {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+  }
+}
+

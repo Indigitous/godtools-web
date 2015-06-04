@@ -1,7 +1,7 @@
 module ApplicationHelpers
 
   def booklets
-    ['kgp', 'satisfied', 'fourlaws']
+    ['kgp', 'fourlaws', 'satisfied']
   end
 
   def current_locale

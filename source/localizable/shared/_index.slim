@@ -1,7 +1,12 @@
-.list-group
-  - booklets.each do |booklet|
-    = link_to l("/#{ booklet }"), class: 'list-group-item' do
-      h1.list-group-item-heading
-        i.fa.fa-book
-        '
-        = t "#{ booklet }.title"
+- content_for :html_class, 'booklet-index'
+
+- booklets.each do |booklet|
+  = link_to l("/#{ booklet }"), class: 'booklet-cover col-sm-4' do
+    .thumbnail
+      .img-wrapper
+        .fa-stack.fa-2x
+          .fa.fa-circle.fa-stack-2x
+          .fa.fa-arrow-right.fa-stack-1x
+        = image_tag "#{ booklet }-cover.jpg"
+      .caption = t "#{ booklet }.title"
+
