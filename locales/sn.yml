@@ -1,263 +1,6 @@
 ---
 sn:
   language_name_in_english: Shona
-  fourlaws:
-    title: Mirawu Mina YoMweya
-    page_0:
-      title: Home
-      filename: 693c0863-3929-49a7-bed9-0b46b575b80f
-      404edd90-1aff-4bb9-83a2-f0d15c46a6e8: YEMWEYA?
-      d4b40701-5929-498b-b96e-cc6796d76771: Pane mirawu inoita kuti zuva, mwedzi nenyika
-        zvifambe sezvazvinofanirwa.Saizvozvo, pane mirawu yemweya inoitawo kuti tive
-        nehukama naMwari.
-      be73de97-89fe-4490-a686-220546e2592c: NEZVE MIRAWU MINA
-      da76705f-187d-4083-8677-593a1b7c58fd: Wati wambonzwa here
-    page_1:
-      title: 1 Mwari Anokuda Uye Akakusikira Kuti Umuzive Pachako.
-      filename: 1b3376eb-d2de-4846-a6d9-b54e16d3a126
-      af82e3fd-b785-4363-9349-21a3e9f63645: Rudo rwaMwari
-      f2abcea4-074e-4b1a-9c80-651adab20f1b: Hurongwa hwaMwari
-      abdb2fc7-049c-4c24-9853-1ad59ac55e64: MWARI ANOKUDA, UYE AKAKUSIKIRA KUTI UMUZIVE
-        PACHAKO UYE UVE NEMUFARO WAKAZARA MUHUPENYU HWAKO.
-      1148c3e0-879f-4ba3-96a8-d4b48adf64b0: "(Johane 3:16, NIV)"
-      681e6951-6be7-4956-ad03-b499d8415575: "(Johane 10:10)"
-      01278aca-0fc9-4bb4-bb50-a387d3b0fd21: '"[Kristu arikutaura] “Ini ndakauya kuti
-        ave nehupenyu, uye hupenyu hwakawanda.” [hwakazara]"'
-      8602c78c-1795-4857-9195-026f69badf19: '"Nokuti Mwari akada nyika nokudaro kuti
-        wakapa Mwanakomana wake wakaberekwa mumwe woga kuti ani nani anotenda kwaari
-        arege kufa asi ave nehupenyu husingaperi."'
-      19d44e41-72ca-48f2-acad-c68b383a86e0: "Vanhu vazhinji havazivi \nhupenyu uhwu
-        hwakazara nemufaro.  \nSeiko vasingahuzivi?"
-    page_2:
-      title: 2 Munhu Wese Mutadzi Nokuda Kwaizvozvo Pakati Pake NaMwari Pane Mukaha
-        Unovaparadzanisa Nokuda Kwaizvozvo Munhu Haagoni Kuziva Mwari Kana Kuva Nehupenyu
-        Hwakazara
-      filename: 485989ce-0cd8-49fc-bffe-414a23efc5d2
-      9a4916f5-1434-48c4-87df-2e87de3b2323: Munhu mutadzi
-      45d18f06-a17d-4ed2-8803-94dca1c4b080: "▲ - Mwari Mutsvene  |  ★ - Munhu Mutadzi"
-      dcac979a-271a-4f7c-971a-659d7c9792e0: Mufananidzo uyu unoratidza kuti Mwari
-        mutsvene, munhu mutadzi. Munhu anoedza kusvika kuna Mwari nekuita mabasa akanaka,
-        kuva munamati, kubhabhatidzwa nekurarama hupenyu hwakanaka, nezvimwe zvakadaro.
-        (Sekuona kwako) Kuedza kwese uku kunoitwa nemunhu  kunokundikana.
-      adffc84d-d051-405f-b453-60c064e9448f: "“Nokuti mubairo wezvivi rufu” [kuparadzaniswa
-        kwomweya naMwari]. (VaRoma 6:23)"
-      f3a999ea-e95d-4653-99fb-f8094b720c6b: Chivi chinoparadzanisa naMwari
-      e59d5be7-5b2b-465f-87de-f8cca0e542d2: Pane mhinduro imwe chete.
-      78aec617-7d69-48b4-bf83-bfa3d3ccb853: "“Nokuti vose vakatadza vakasasvika pakubwinya
-        kwaMwari.” ( VaRoma 3:23)"
-      e3986ec1-8a59-4a9a-bcb4-a6d666bb13e4: Mwari akatisika kuti timude, uye kuti
-        tifadzwe naye. Asi takasarudza kuenda nenzira yedu tega tikarega kuteerera
-        Mwari. Kusateerera uku kunonzi neBhaibheri chivi.
-      42753c84-8cff-4627-860d-976efcc662eb: MUNHU WESE MUTADZI, NOKUDA KWAIZVOZVO,
-        PAKATI PAKE NAMWARI PANE MUKAHA UNOVAPARADZANISA. NEKUDARO, MUNHU HAAGONI
-        KUZIVA MWARI KANA KUVA NEHUPENYU HWAKAZARA.
-    page_3:
-      title: 3 Kristu Akafira Zvivi Zvedu. Ndiye Nzira Imwechete Yekusvika Nayo Kuna
-        Mwari. Muna Jesu Kristu Unova Nehukama NaMwari Nokugamuchira Rudo Rwakwe Nekuregererwa.
-      filename: 1b58028f-b585-4a7b-9eae-e01b72e582a5
-      35da1297-b80c-4111-b55b-45c22c4d248c: '"Kristu wakafira zvivi zvedu...wakavigwa...akamutswa
-        nezuva retatu, sezvakanyorwa pamagwaro...akazviratidza kuna Petro ... kunavanegumi
-        navaviri. Ipapo akazviratidzakuhama dzinopfuura mazana mashanu..."'
-      dcad7fa5-67ea-44b9-a814-1aa08d62604e: MWARI AKAUYA KUMUNHU ARI MUNA JESU KRISTU.IYEYU
-        KRISTU AKAFIRA ZVIVI ZVEDU. NDIYE NZIRA IMWE CHETE YEKUSVIKA NAYO KUNA MWARI.
-        MUNA JESU KRISTU UNOVA NEHUKAMA NAMWARI, UGOTANGA KURARAMA HUPENYU HWAKAZARA.
-      c5657019-0dca-4748-90fe-399144e31db4: "▲ - Mwari  |  † - Jesu  |  ★ - Munhu"
-      b1fdf550-98d6-4f05-acef-f0d9a8e64eaf: '"Asi Mwari unoratidza rudo mrwake kwatiri
-        pakuti Kristu wakatifira, tichiri vatadzi."'
-      34b4af0a-66f4-4666-8e7f-d99284127f40: Jesu Kristu wakafa sechibairo chezvivi
-        zvedu. Akamuka kuvakafa. Kristu ndiye danho redu rokusvika naro kuna Mwari.
-        Nokuda kwaizvozvo, Mwari anotikanganwira zvivi zvedu.
-      22839228-d950-45b7-a873-ea05192a139c: '''Jesu akati kwaari, ''Ndini Nzira, neZvokwadi
-        nezvokwadinohupenyu; hapana munhu anouyakuna Baba, asi nokwandiri''"'
-      dacb2032-d5ca-4117-9763-83f41db46186: "(1 VaKorinte 15:3-6)"
-      cb327c83-aaee-418c-8754-e977434d9737: Akafa panzvimbo yedu
-      9310dd00-7066-4304-8a5e-8ad520506982: "Hazvina kukwana kungoziva \nmirairo mitatu
-        iyi chete. Murairo wechina ndiwo unokosha."
-      9d5152c5-cf21-421f-85a8-c3101d949190: "(VaRoma 5:8)"
-      250ec919-c645-4cfc-9c55-c8189dee2a28: Akamuka kubva kuvakafa
-      3fcf1d5f-45e2-4eb8-861c-b7e64b98b073: Ndiye Nzira youkenda kuna Mwari
-    page_4:
-      title: 4 Mumwe Namumwe Anofanira Kugamuchira Jesu Kristu Samuponesi Wake Nokumukoka
-        Pachake. Ndiko Kupinda Muhukama NaMwari.
-      filename: d298a545-f1dd-465a-bc95-aa5e74cafc1d
-      b6ad5fd1-162a-45c6-8200-8ef227d83a08: Tinozvarwa patsva.
-      c499a322-ef95-4627-8513-f07a16770087: "(Verenga Johane 3:1-8)"
-      a00c7635-f82a-4dce-bd48-059a50ec1492: MUNHU MUMWE NEMUMWE ANOFANIRA KUGAMUCHIRA
-        JESU KRISTU SAMUPONESI WAKE NEKUMUKOKA PACHAKE. KUGAMUCHIRA JESU KRISTU, KUGAMUCHIRA
-        RUDO RWAMWARI UYE KUPINDA MUHUKAMA NAMWARI.
-      d73f49ed-3185-4385-84c0-456a65514a52: (Kristu ari kutaura) “Tarira ndimire pamukova
-        ndinogogodza, kana munhu akanzwa izwi rangu akazarura mukova, ndichapinda
-        kwaari."
-      b1a2624c-3f58-4648-9843-59a841890f3b: Hazvina kukwana kuziva kuti Jesu Kristu
-        mwanakomana waMwari uye kuti akafira zvivi zvedu pamuchinjikwa. Zvakare manzwira
-        haana kukwana. Tinogamuchira Jesu Kristu nokutenda, pamwechete nesarudzo yatinoita
-      b80fa33f-a46d-4723-ad8f-b8c23142cd1d: "(Zvakazarurwa 3:20)"
-      be59c51a-cb27-485f-b89a-7c5a427729fd: "... kubvuma zvivi zvako, nekutendeuka
-        kubva pazviri uye kuvimba kuti Kristu anouya muhupenyu hwedu kutikanganwira
-        zvivi zvedu nekutiita vanhu vaanoda kuti tive."
-      e5fc852d-7718-4206-b328-785def7ae592: Kugamuchira Kristu zvinoreva ...
-      e6f40dd1-5cc3-40d4-b749-351e01974b8c: "(Johane 1:12)"
-      98f37160-ecd4-4fdd-8d87-aad66cef826d: Tinofanira kugamuchira Kristu
-      080fc752-9ca8-4b90-af6a-9a5e1591ffa4: Tinogamuchira Kristu nekutenda
-      bd2663ba-ccd1-4400-a89c-5ff0582e4f8d: Tinogamuchira Kristu nokumukoka pachedu
-      d1ccf916-a3fb-4abc-9dce-6ffa8e7a2e1d: '"Nokuti makaponeswa nenyasha nokutenda,
-        izvo zvisingabvi kwamuri, asi chipo chaMwari, hazvibvi pamabasa, kuti kurege
-        kuva nemunhu anozvikudza."'
-      2b0efb4f-25d9-4fb8-85c4-66002459db8a: Kana tikagamuchira Kristu ...
-      25a0cf14-9e81-43cf-97f2-e99f3d88d2c2: "(VaEfeso 2:8,9)"
-      cab22c4e-4ccc-4d7d-8100-64a438306d3c: '"“Asi vose vakamugamuchira, akavapa samba
-        rokuti vanzi vana vaMwari, ivavo vanotenda kuzita rake.”"'
-    page_5:
-      title: Madenderedzwa maviri ayi anoratidza marudzi maviri ohupenyu
-      filename: 4aebfcdb-f344-41b9-9e25-aea3e3ee0870
-      8b7f7645-fb10-4e50-8986-cd88503d2e67: Nderipi denderedzwa raungada kuti rimiririre
-        hupenyu hwako?
-      001f5c24-aabd-483b-ab6c-b9e064a09375: "- Kristu ari kunze kwehupenyu."
-      f45a6a36-dd42-468a-9dbb-f704788a806d: Zvishuviro zvinotungamirirwa naKristu
-        zvinoita kuti pave nuwirirana nehurongwa hwaMwari.
-      24b57ef6-b963-4b44-ac98-4f1af8f82d55: Ini abviswa pachigaro
-      f4d5bc34-ad41-415b-af49-0e1a8d9529e1: Mwoyo Unotongwa NaKristu
-      01d03eb0-56f2-488e-abb2-c688cea52cf1: Mwoyo Unozvitonga Pachawo
-      f65b2688-f83a-4121-8c82-57f9e889586b: MADENDEREDWA MAVIRI AYA ANORATIDZA MARUDZI
-        MAVIRI OHUPENYU
-      f5322d88-80e2-4da9-8ae3-6af2f464a30d: Nderipi denderedzwa rinomiririra hupenyu
-        hwako?
-      db583108-9103-4819-b351-8bffb74bba8c: Kristu ari pachigaro
-      b5c91ec7-6c1b-4090-83fb-ac1e07590101: "- Ini ari pachigaro."
-      8906846a-09d9-4cd3-83fd-879d59e20b62: "- Ini anozvitungamirira, kazvhinji zvichiita
-        kuti pave nekusagadzikana uye kunetsekana."
-      c0775670-8920-4b66-8cc9-c4a6bc87656d: Zvinotevera zvinotsanangura nzira yokugamuchira
-        Jesu ...
-    page_6:
-      title: Ungada kutenda Mwari mumunamato iye zvino here pamusoro pezvaakuyitira?
-      filename: bd9fc83e-592b-4c12-9200-13edd075b381
-      9087f3c4-35c7-47d0-b621-cbc835b014be: Uyu munamato waungada kunamata.
-      62b35212-dc4e-4e2e-a7ac-09a68537c6f5: "(Munamato kutaurirana naMwari)"
-      d7df22f4-9678-4ee7-9c67-e7e5fc306112: Mwari anoziva moyo wako. Mazwi aunotaura
-        haakoshi kupfuura zvaunoreva mumwoyo mako.
-      5ec11b23-302b-4c55-90d5-ed810f297757: "Ishe Jesu\n\nNdinokudai.Ndinobvuma kuti
-        ndakatadza uye kuti ndiri kure naMwari. Ndinozarura mwoyo wangu, uye ndinokugamuchirai
-        saIshe noMuponesi.\n                \nNdinokutendai nokundifira kuti mundikanganwire
-        zvivi zvangu nokundipa hupenyu husingaperi. Tongai hupenyu hwangu, mundibatsire
-        kurarama hupenyu hwamunoda kuti ndirarame."
-      b4334eea-9d8c-484f-b919-7fed2d5fc635: "Kristu achapinda muhupenyu hwako \nsokuvimbisa
-        kwake."
-      ba926c37-e783-42bd-868a-7894c6c54088: Munamato uyu unoratidza chido chemwoyo
-        wako here? Kana zviri izvo namata munamato uyu iye zvino.
-      e8a4256e-ce69-42d2-b9f9-9d54c90e762a: UNGAGAMUCHIRA KRISTU IYE ZVINO NOKUTENDA
-        KUBURIKIDZA NEMUNAMATO
-    page_7:
-      title: Ungava nechokwadi sei kuti izvi zvose zvaitika?
-      filename: 066686e1-1d28-43d8-8be7-223b57a126ac
-      0b6ed82c-75e3-4597-a8b5-94958dd9bb89: NZIRA YEKUZIVA KUTI KRISTU ARI MUHUPENYU
-        HWAKO
-      ed474402-3427-48f6-920d-39a798dfcd58: Usavimba nezvaunonzwa mumuviri (feelings)
-      15912814-cb40-467a-b4ae-354c367a273a: "Sokureva kwechivimbiso chake muna Zvakazarurwa
-        3:20, Kristu ari kupi iyezvino?\n                \nKristu ati achauya muhupenyu
-        hwako. Angakunyengedza here?\n                \nUnoziva sei kuti Mwari apindura
-        munamato wako? (Kuvimbika kwaMwari pachake neShoko rake)"
-      994db774-8810-46ca-bee3-e817c4c249cd: "“Kupupura ndiko kuti, Mwari wakatipa
-        hupenyu husingaperi, zvino hupenyu uhwu hwuri muMwanakomana wake. unoMwanakoman
-        unohupenyu; usino Mwanakomana waMwari haanoupenyu. Ndakakunyorerai zvinhu
-        izvi kuti mugoziva kuti munohupenyu husingaperi; iyemi munotenda kuzita roMwanakomana
-        waMwari.” (1 Johane 5:11-13)"
-      d8911e6a-8df6-4c5b-96c5-527905f1db22: Tenda Mwari nguva dzose kutiKristu ari
-        muhupenyu hwako uye kuti haatongokusiyi. (VaHeberu 13:5). Ungaziva kuti mupenyu
-        ari mauri, uye kuti unohupenyu husingaperi nokuda kwezvivimbiso zvake, kubvira
-        panguva yaunomukoka kupinda muupenyu hwako. Haangakunyengedzi.
-      6128a2c8-82c6-4dc8-bf8c-e378c3851410: "... kuna vose vanogamuchira Kristu"
-      3002cd11-c590-4790-981e-cee28a661270: Mukristu anorarama nokutenda muna Mwari
-        nekuvimba kuti zvaanotaura muBhaibheri ichokwadi. Zvivimbiso zveShoko raMwari
-        ndiro simba redu. Mumufananidzo wechitima uri apa unoratidza chokwadi cheBhaibheri
-        neRutendo neZvaunonzwa mumuviri wako mashandiro azvo muhupenyu. (Verenga Johane
-        14:21)
-      652832bd-f9ae-4fb7-aaf4-16ef584d2cdd: "[ Chokwadi ] - [ Rutendo ] - [ Kunzwa
-        mumuviri ]"
-      2a3b40b5-2249-4f0b-9aa5-ac2f83c7ab46: Bhaibheri rinovimbisa hupenyu husingaperi
-        ...
-      84999bcf-a404-436e-9454-5c70ebb88c84: Chiziviso chinokosha...
-      7733f716-949b-405f-8de9-7771b9320068: Chokwadi chine simba rekutitugamirira.
-        Tinobatana nesimba rechokwadi nekutenda. Patinoterera chokwadi zvatinonzwa
-        mumuviri zvinozotevera munzira kwayo. Tinovimba naMwari neChokwadi chake,
-        kwete zvatinonzwa.
-      666b553f-d0f5-437e-a0fa-b421a724707c: Wagamuchira Kristu here?
-    page_8:
-      title: 'Zvawagamuchira Kristu, zvinhu zvakawanda zvaitika kwauri zvinosanganisira:'
-      filename: d6563c22-973e-45ce-ad79-1cad63ed5c28
-      ce4d73ae-eae9-4ad1-b75f-5cf467bf0b1b: "- Kristu apinda muhupenyu hwako"
-      75179d85-6fd4-4470-b988-63a46b3c5a41: "(vaKorose 1:14)"
-      628af499-ee4d-41f4-ad13-2b7404128b02: 'Zvawagamuchira Kristu, zvinhu zvakawanda
-        zvaitika kwauri, zvinosanganisira:'
-      8ce2b3fa-848d-457c-a447-98a6181ffa67: "...urwo Mwari akakusikira."
-      43e2d065-da26-4aab-845c-9218d0783f36: "- Wava nehupenyu husingaperi"
-      bdd7d7ed-d61f-4f66-baee-e0596a5084c0: "(Johane 1:12)"
-      5d752762-ccd9-4bff-b5af-50dc164c27e2: ZVINO ZVAWAGAMUCHIRA KRISTU
-      18787c88-3b76-4cf9-a836-393bee4d1e0f: Ungafunge kuti...
-      581a6b5d-6674-404d-979b-74f35da8b7c4: "(Johane 5:24)"
-      8e5c37e2-50ad-4175-aeff-be8cf80232cb: |-
-        kune chimwe chinhu chingaitike kwauri chinopfuura kugamuchira Kristu here?
-        Ungada kutenda Mwari mumunamato iye zvino here pamusoro pezvaakuyitira?
-        Kutenda Mwari kunoratidza rutendo rwako.
-      ea3dba44-0a91-4b06-b7a8-a3b6323339da: |-
-        Kurarama hupenyu hwako hutsva
-        zvakazara
-      f1cdce10-eae2-45b6-9e1b-f025e32811d7: "(Johane 10:10; 2 VaKorinte 5:17; 1 VaTesaronika
-        5:18)"
-      441ed36e-4ae1-483b-b367-c17f7a6adb4d: "- Wabva wava mwana waMwari"
-      ce80b468-1f47-405e-b4df-b3f17d3c5917: "(Zvakazarurwa 3:20; VaKorose 1:27)"
-      b78fe8ac-800d-4c9c-8f58-720685ad52c5: "- Zvivi zvako zvaregererwa"
-      c8367e87-901c-4196-bef7-5073bbd350f0: "- Watanga rwendo rwunofadza..."
-    page_9:
-      title: Ungakura sei somuteveri waJesu
-      filename: 82583f32-627d-47d2-afb6-89eea4f9e71a
-      6f9899a7-1198-4146-a3da-85b7af126829: Tanga nevhangeri yaJohane
-      6371b963-8350-425a-b4db-4b29b4809eab: ZVINGAKUBATSIRA PAKUKURA PAMWEYA
-      c625a988-dd7d-44ae-af59-9e4baed5677c: "(Johane 15:7)"
-      6e5ffc21-1b31-44a9-aba9-973d875e6d6b: Kuteerera
-      9c196e7c-7cfe-4b3a-892d-3db23bb024a4: |-
-        Kana matanda ehuni ari pamwechete anobaka zvakajeka. Isa danda rimwechete paro rega panotonhora nemoto wacho unobva watanga kudzima. Nenzira imwecheteyo zvinozova zvakaoma kuti iwe urarame hupenyu hwechiKristu wega.
-        Zvinokosha kwazvo kuti usangane nevamwe vakagamuchira Jesu Kristu saIshe naMuponesi wavo. (VaHeberu 10:25)
-      2c3474ae-287b-4467-b904-b67fa0375fc1: Anotonga -
-      913b2c56-7095-4048-a960-7d378ded7b07: Uverenge
-      e5687d09-9a26-4195-8855-5be15b04665e: Kuenda ...
-      5f832e24-e77c-4f36-be13-d0eaebda2a84: Kuteerera Mwari nguva nenguva.
-      980518ae-87f0-48cf-9548-fba01ffdf721: "(tarisa Mabasa 17:11)"
-      b248716d-7246-45e2-b3a4-ad2f4a5c32e8: Ramba uchivimba naMwari pazvinhu zvose
-        zvaunoita muhupenyu hwako.
-      9094027f-4dbc-4fd0-928e-934e71463dbe: Ramba uchivimba ...
-      93f73e0d-9e71-4be1-a640-c8a4043afcff: "(tarisa Johane 14:21)"
-      7d5e8f33-b4ba-4d4e-9f01-729a4692729a: "(tarisa vaGaratia 5:16,17 uye Mabasa
-        1:8)"
-      f9391851-9dd4-4ee7-9721-206aa0c5863d: "(tarisa Mateo 4:19 na Johane 15:8)"
-      bf9cefbd-6010-4a4d-9803-717737671c45: Anotonga nekusimbisa hupenyu hwako hwamazuva
-        ose nehuchapupu hwako ndiMwari.
-      15bbe563-7469-4f41-900a-dd1e438b034b: Chechi inokosha
-      1318c4c5-f382-4592-8194-e4c439422b6f: Upupure Kristu nematauriro ako uyezve
-        nehupenyu hwako.
-      46d0a51a-f2d1-4e3a-8eac-6be571dd8547: "Kukura pamweya zvibereko zvokuvimba naJesu
-        Kristu. \"....Vakarurama vachararama nokutenda\" (VaGaratia 3:11).\n            \nHupenyu
-        hwekutenda hunokubatsira kuti uvimbe naMwari zvakanyanya nechipi nechipi choupenyu
-        hwako, uye kuita zvinotevera:"
-      88ec181e-a31f-4fe5-b75a-324dac335249: "(tarisa 1 Petro 5:7)"
-      141466f7-fb7f-44e3-90a6-b98978615965: Upupure
-      e735a5c3-f155-4255-82d6-dce217ad1d85: Kana pasina chechi yauri nhengo, usamirira
-        kukokwa. Tora danho rokutanga; fonera mufundisi wechechi iri pedyo uko vanhu
-        vanotenda kuti Bhaibheri ndere chokwadi, uyezve uko vanoterera Jesu Kristu.
-        Tanga svondo rino uye uve nehurongwa wekuendako nguva imwe neimwe.
-      90bef6b5-c6f8-4a3d-ab1a-9fbd75660743: Kuenda kuna Mwari mumunamato mazuva ose
-      7561abb4-d54b-4bd4-96a6-bd6e7d102489: Uverenge Shoko raMwari mazuva ose.
-    page_10:
-      title: Zvokushandisa zvakakosha
-      filename: ca4102b9-a950-4c4e-a67f-d498ece61b55
-      5e21ea17-05e2-4347-ab7c-01da48a90ed0: www.whoisJesus-really.com
-      b3c11ca8-82f0-4176-8000-a73f80ab3303: www.startingwithGod.com
-      2dfaef4c-0ce9-4152-b4b3-947af7dceea3: www.growinginChrist.com
-      80356d92-6553-4291-9464-c7542bbbbb30: 'Kana wapinda muhukama naMwari kuburikidza
-        nekugoverwa kwaitwa vhangeri kana kuti unoda rubatsiro kuti ukure mukuziva
-        Kristu idzi ndedzimwe nzvimbo dzatinokurudzira kuti ushanyire:'
-      ae643d40-90ac-44d3-bba0-d27c285508e5: www.everystudent.com
-      b6949652-efbd-447f-aa62-fd9cb87d2e46: ZVIMWE ZVAKAKOSHA ZVAUNGASHANDISE PAKUKURA
-        KWAKO MUCHIKRISTU
   satisfied:
     title: Kugutsikana?
     page_0:
@@ -783,3 +526,260 @@ sn:
       99627019-e11a-4678-bc23-0cfcd5a6ed62: MA WEBSITE ANGAKUBATSIRA
       1065a75a-70fa-469e-a978-0d2a93d9c0d2: Unoda rubatsiro nebhaibheri?
       f1225cff-2834-486a-a93e-b8dd4efd7a5c: www.startingwithgod.com
+  fourlaws:
+    title: Mirawu Mina YoMweya
+    page_0:
+      title: Home
+      filename: 693c0863-3929-49a7-bed9-0b46b575b80f
+      404edd90-1aff-4bb9-83a2-f0d15c46a6e8: YEMWEYA?
+      d4b40701-5929-498b-b96e-cc6796d76771: Pane mirawu inoita kuti zuva, mwedzi nenyika
+        zvifambe sezvazvinofanirwa.Saizvozvo, pane mirawu yemweya inoitawo kuti tive
+        nehukama naMwari.
+      be73de97-89fe-4490-a686-220546e2592c: NEZVE MIRAWU MINA
+      da76705f-187d-4083-8677-593a1b7c58fd: Wati wambonzwa here
+    page_1:
+      title: 1 Mwari Anokuda Uye Akakusikira Kuti Umuzive Pachako.
+      filename: 1b3376eb-d2de-4846-a6d9-b54e16d3a126
+      af82e3fd-b785-4363-9349-21a3e9f63645: Rudo rwaMwari
+      f2abcea4-074e-4b1a-9c80-651adab20f1b: Hurongwa hwaMwari
+      abdb2fc7-049c-4c24-9853-1ad59ac55e64: MWARI ANOKUDA, UYE AKAKUSIKIRA KUTI UMUZIVE
+        PACHAKO UYE UVE NEMUFARO WAKAZARA MUHUPENYU HWAKO.
+      1148c3e0-879f-4ba3-96a8-d4b48adf64b0: "(Johane 3:16, NIV)"
+      681e6951-6be7-4956-ad03-b499d8415575: "(Johane 10:10)"
+      01278aca-0fc9-4bb4-bb50-a387d3b0fd21: '"[Kristu arikutaura] “Ini ndakauya kuti
+        ave nehupenyu, uye hupenyu hwakawanda.” [hwakazara]"'
+      8602c78c-1795-4857-9195-026f69badf19: '"Nokuti Mwari akada nyika nokudaro kuti
+        wakapa Mwanakomana wake wakaberekwa mumwe woga kuti ani nani anotenda kwaari
+        arege kufa asi ave nehupenyu husingaperi."'
+      19d44e41-72ca-48f2-acad-c68b383a86e0: "Vanhu vazhinji havazivi \nhupenyu uhwu
+        hwakazara nemufaro.  \nSeiko vasingahuzivi?"
+    page_2:
+      title: 2 Munhu Wese Mutadzi Nokuda Kwaizvozvo Pakati Pake NaMwari Pane Mukaha
+        Unovaparadzanisa Nokuda Kwaizvozvo Munhu Haagoni Kuziva Mwari Kana Kuva Nehupenyu
+        Hwakazara
+      filename: 485989ce-0cd8-49fc-bffe-414a23efc5d2
+      9a4916f5-1434-48c4-87df-2e87de3b2323: Munhu mutadzi
+      45d18f06-a17d-4ed2-8803-94dca1c4b080: "▲ - Mwari Mutsvene  |  ★ - Munhu Mutadzi"
+      dcac979a-271a-4f7c-971a-659d7c9792e0: Mufananidzo uyu unoratidza kuti Mwari
+        mutsvene, munhu mutadzi. Munhu anoedza kusvika kuna Mwari nekuita mabasa akanaka,
+        kuva munamati, kubhabhatidzwa nekurarama hupenyu hwakanaka, nezvimwe zvakadaro.
+        (Sekuona kwako) Kuedza kwese uku kunoitwa nemunhu  kunokundikana.
+      adffc84d-d051-405f-b453-60c064e9448f: "“Nokuti mubairo wezvivi rufu” [kuparadzaniswa
+        kwomweya naMwari]. (VaRoma 6:23)"
+      f3a999ea-e95d-4653-99fb-f8094b720c6b: Chivi chinoparadzanisa naMwari
+      e59d5be7-5b2b-465f-87de-f8cca0e542d2: Pane mhinduro imwe chete.
+      78aec617-7d69-48b4-bf83-bfa3d3ccb853: "“Nokuti vose vakatadza vakasasvika pakubwinya
+        kwaMwari.” ( VaRoma 3:23)"
+      e3986ec1-8a59-4a9a-bcb4-a6d666bb13e4: Mwari akatisika kuti timude, uye kuti
+        tifadzwe naye. Asi takasarudza kuenda nenzira yedu tega tikarega kuteerera
+        Mwari. Kusateerera uku kunonzi neBhaibheri chivi.
+      42753c84-8cff-4627-860d-976efcc662eb: MUNHU WESE MUTADZI, NOKUDA KWAIZVOZVO,
+        PAKATI PAKE NAMWARI PANE MUKAHA UNOVAPARADZANISA. NEKUDARO, MUNHU HAAGONI
+        KUZIVA MWARI KANA KUVA NEHUPENYU HWAKAZARA.
+    page_3:
+      title: 3 Kristu Akafira Zvivi Zvedu. Ndiye Nzira Imwechete Yekusvika Nayo Kuna
+        Mwari. Muna Jesu Kristu Unova Nehukama NaMwari Nokugamuchira Rudo Rwakwe Nekuregererwa.
+      filename: 1b58028f-b585-4a7b-9eae-e01b72e582a5
+      35da1297-b80c-4111-b55b-45c22c4d248c: '"Kristu wakafira zvivi zvedu...wakavigwa...akamutswa
+        nezuva retatu, sezvakanyorwa pamagwaro...akazviratidza kuna Petro ... kunavanegumi
+        navaviri. Ipapo akazviratidzakuhama dzinopfuura mazana mashanu..."'
+      dcad7fa5-67ea-44b9-a814-1aa08d62604e: MWARI AKAUYA KUMUNHU ARI MUNA JESU KRISTU.IYEYU
+        KRISTU AKAFIRA ZVIVI ZVEDU. NDIYE NZIRA IMWE CHETE YEKUSVIKA NAYO KUNA MWARI.
+        MUNA JESU KRISTU UNOVA NEHUKAMA NAMWARI, UGOTANGA KURARAMA HUPENYU HWAKAZARA.
+      c5657019-0dca-4748-90fe-399144e31db4: "▲ - Mwari  |  † - Jesu  |  ★ - Munhu"
+      b1fdf550-98d6-4f05-acef-f0d9a8e64eaf: '"Asi Mwari unoratidza rudo mrwake kwatiri
+        pakuti Kristu wakatifira, tichiri vatadzi."'
+      34b4af0a-66f4-4666-8e7f-d99284127f40: Jesu Kristu wakafa sechibairo chezvivi
+        zvedu. Akamuka kuvakafa. Kristu ndiye danho redu rokusvika naro kuna Mwari.
+        Nokuda kwaizvozvo, Mwari anotikanganwira zvivi zvedu.
+      22839228-d950-45b7-a873-ea05192a139c: '''Jesu akati kwaari, ''Ndini Nzira, neZvokwadi
+        nezvokwadinohupenyu; hapana munhu anouyakuna Baba, asi nokwandiri''"'
+      dacb2032-d5ca-4117-9763-83f41db46186: "(1 VaKorinte 15:3-6)"
+      cb327c83-aaee-418c-8754-e977434d9737: Akafa panzvimbo yedu
+      9310dd00-7066-4304-8a5e-8ad520506982: "Hazvina kukwana kungoziva \nmirairo mitatu
+        iyi chete. Murairo wechina ndiwo unokosha."
+      9d5152c5-cf21-421f-85a8-c3101d949190: "(VaRoma 5:8)"
+      250ec919-c645-4cfc-9c55-c8189dee2a28: Akamuka kubva kuvakafa
+      3fcf1d5f-45e2-4eb8-861c-b7e64b98b073: Ndiye Nzira youkenda kuna Mwari
+    page_4:
+      title: 4 Mumwe Namumwe Anofanira Kugamuchira Jesu Kristu Samuponesi Wake Nokumukoka
+        Pachake. Ndiko Kupinda Muhukama NaMwari.
+      filename: d298a545-f1dd-465a-bc95-aa5e74cafc1d
+      b6ad5fd1-162a-45c6-8200-8ef227d83a08: Tinozvarwa patsva.
+      c499a322-ef95-4627-8513-f07a16770087: "(Verenga Johane 3:1-8)"
+      a00c7635-f82a-4dce-bd48-059a50ec1492: MUNHU MUMWE NEMUMWE ANOFANIRA KUGAMUCHIRA
+        JESU KRISTU SAMUPONESI WAKE NEKUMUKOKA PACHAKE. KUGAMUCHIRA JESU KRISTU, KUGAMUCHIRA
+        RUDO RWAMWARI UYE KUPINDA MUHUKAMA NAMWARI.
+      b1a2624c-3f58-4648-9843-59a841890f3b: Hazvina kukwana kuziva kuti Jesu Kristu
+        mwanakomana waMwari uye kuti akafira zvivi zvedu pamuchinjikwa. Zvakare manzwira
+        haana kukwana. Tinogamuchira Jesu Kristu nokutenda, pamwechete nesarudzo yatinoita
+      d73f49ed-3185-4385-84c0-456a65514a52: (Kristu ari kutaura) “Tarira ndimire pamukova
+        ndinogogodza, kana munhu akanzwa izwi rangu akazarura mukova, ndichapinda
+        kwaari."
+      b80fa33f-a46d-4723-ad8f-b8c23142cd1d: "(Zvakazarurwa 3:20)"
+      e5fc852d-7718-4206-b328-785def7ae592: Kugamuchira Kristu zvinoreva ...
+      be59c51a-cb27-485f-b89a-7c5a427729fd: "... kubvuma zvivi zvako, nekutendeuka
+        kubva pazviri uye kuvimba kuti Kristu anouya muhupenyu hwedu kutikanganwira
+        zvivi zvedu nekutiita vanhu vaanoda kuti tive."
+      e6f40dd1-5cc3-40d4-b749-351e01974b8c: "(Johane 1:12)"
+      98f37160-ecd4-4fdd-8d87-aad66cef826d: Tinofanira kugamuchira Kristu
+      080fc752-9ca8-4b90-af6a-9a5e1591ffa4: Tinogamuchira Kristu nekutenda
+      bd2663ba-ccd1-4400-a89c-5ff0582e4f8d: Tinogamuchira Kristu nokumukoka pachedu
+      d1ccf916-a3fb-4abc-9dce-6ffa8e7a2e1d: '"Nokuti makaponeswa nenyasha nokutenda,
+        izvo zvisingabvi kwamuri, asi chipo chaMwari, hazvibvi pamabasa, kuti kurege
+        kuva nemunhu anozvikudza."'
+      2b0efb4f-25d9-4fb8-85c4-66002459db8a: Kana tikagamuchira Kristu ...
+      25a0cf14-9e81-43cf-97f2-e99f3d88d2c2: "(VaEfeso 2:8,9)"
+      cab22c4e-4ccc-4d7d-8100-64a438306d3c: '"“Asi vose vakamugamuchira, akavapa samba
+        rokuti vanzi vana vaMwari, ivavo vanotenda kuzita rake.”"'
+    page_5:
+      title: Madenderedzwa maviri ayi anoratidza marudzi maviri ohupenyu
+      filename: 4aebfcdb-f344-41b9-9e25-aea3e3ee0870
+      8b7f7645-fb10-4e50-8986-cd88503d2e67: Nderipi denderedzwa raungada kuti rimiririre
+        hupenyu hwako?
+      001f5c24-aabd-483b-ab6c-b9e064a09375: "- Kristu ari kunze kwehupenyu."
+      f45a6a36-dd42-468a-9dbb-f704788a806d: Zvishuviro zvinotungamirirwa naKristu
+        zvinoita kuti pave nuwirirana nehurongwa hwaMwari.
+      24b57ef6-b963-4b44-ac98-4f1af8f82d55: Ini abviswa pachigaro
+      f4d5bc34-ad41-415b-af49-0e1a8d9529e1: Mwoyo Unotongwa NaKristu
+      01d03eb0-56f2-488e-abb2-c688cea52cf1: Mwoyo Unozvitonga Pachawo
+      f65b2688-f83a-4121-8c82-57f9e889586b: MADENDEREDWA MAVIRI AYA ANORATIDZA MARUDZI
+        MAVIRI OHUPENYU
+      f5322d88-80e2-4da9-8ae3-6af2f464a30d: Nderipi denderedzwa rinomiririra hupenyu
+        hwako?
+      db583108-9103-4819-b351-8bffb74bba8c: Kristu ari pachigaro
+      b5c91ec7-6c1b-4090-83fb-ac1e07590101: "- Ini ari pachigaro."
+      8906846a-09d9-4cd3-83fd-879d59e20b62: "- Ini anozvitungamirira, kazvhinji zvichiita
+        kuti pave nekusagadzikana uye kunetsekana."
+      c0775670-8920-4b66-8cc9-c4a6bc87656d: Zvinotevera zvinotsanangura nzira yokugamuchira
+        Jesu ...
+    page_6:
+      title: Ungada kutenda Mwari mumunamato iye zvino here pamusoro pezvaakuyitira?
+      filename: bd9fc83e-592b-4c12-9200-13edd075b381
+      9087f3c4-35c7-47d0-b621-cbc835b014be: Uyu munamato waungada kunamata.
+      62b35212-dc4e-4e2e-a7ac-09a68537c6f5: "(Munamato kutaurirana naMwari)"
+      d7df22f4-9678-4ee7-9c67-e7e5fc306112: Mwari anoziva moyo wako. Mazwi aunotaura
+        haakoshi kupfuura zvaunoreva mumwoyo mako.
+      5ec11b23-302b-4c55-90d5-ed810f297757: "Ishe Jesu\n\nNdinokudai.Ndinobvuma kuti
+        ndakatadza uye kuti ndiri kure naMwari. Ndinozarura mwoyo wangu, uye ndinokugamuchirai
+        saIshe noMuponesi.\n                \nNdinokutendai nokundifira kuti mundikanganwire
+        zvivi zvangu nokundipa hupenyu husingaperi. Tongai hupenyu hwangu, mundibatsire
+        kurarama hupenyu hwamunoda kuti ndirarame."
+      b4334eea-9d8c-484f-b919-7fed2d5fc635: "Kristu achapinda muhupenyu hwako \nsokuvimbisa
+        kwake."
+      ba926c37-e783-42bd-868a-7894c6c54088: Munamato uyu unoratidza chido chemwoyo
+        wako here? Kana zviri izvo namata munamato uyu iye zvino.
+      e8a4256e-ce69-42d2-b9f9-9d54c90e762a: UNGAGAMUCHIRA KRISTU IYE ZVINO NOKUTENDA
+        KUBURIKIDZA NEMUNAMATO
+    page_7:
+      title: Ungava nechokwadi sei kuti izvi zvose zvaitika?
+      filename: 066686e1-1d28-43d8-8be7-223b57a126ac
+      0b6ed82c-75e3-4597-a8b5-94958dd9bb89: NZIRA YEKUZIVA KUTI KRISTU ARI MUHUPENYU
+        HWAKO
+      ed474402-3427-48f6-920d-39a798dfcd58: Usavimba nezvaunonzwa mumuviri (feelings)
+      15912814-cb40-467a-b4ae-354c367a273a: "Sokureva kwechivimbiso chake muna Zvakazarurwa
+        3:20, Kristu ari kupi iyezvino?\n                \nKristu ati achauya muhupenyu
+        hwako. Angakunyengedza here?\n                \nUnoziva sei kuti Mwari apindura
+        munamato wako? (Kuvimbika kwaMwari pachake neShoko rake)"
+      994db774-8810-46ca-bee3-e817c4c249cd: "“Kupupura ndiko kuti, Mwari wakatipa
+        hupenyu husingaperi, zvino hupenyu uhwu hwuri muMwanakomana wake. unoMwanakoman
+        unohupenyu; usino Mwanakomana waMwari haanoupenyu. Ndakakunyorerai zvinhu
+        izvi kuti mugoziva kuti munohupenyu husingaperi; iyemi munotenda kuzita roMwanakomana
+        waMwari.” (1 Johane 5:11-13)"
+      d8911e6a-8df6-4c5b-96c5-527905f1db22: Tenda Mwari nguva dzose kutiKristu ari
+        muhupenyu hwako uye kuti haatongokusiyi. (VaHeberu 13:5). Ungaziva kuti mupenyu
+        ari mauri, uye kuti unohupenyu husingaperi nokuda kwezvivimbiso zvake, kubvira
+        panguva yaunomukoka kupinda muupenyu hwako. Haangakunyengedzi.
+      6128a2c8-82c6-4dc8-bf8c-e378c3851410: "... kuna vose vanogamuchira Kristu"
+      3002cd11-c590-4790-981e-cee28a661270: Mukristu anorarama nokutenda muna Mwari
+        nekuvimba kuti zvaanotaura muBhaibheri ichokwadi. Zvivimbiso zveShoko raMwari
+        ndiro simba redu. Mumufananidzo wechitima uri apa unoratidza chokwadi cheBhaibheri
+        neRutendo neZvaunonzwa mumuviri wako mashandiro azvo muhupenyu. (Verenga Johane
+        14:21)
+      652832bd-f9ae-4fb7-aaf4-16ef584d2cdd: "[ Chokwadi ] - [ Rutendo ] - [ Kunzwa
+        mumuviri ]"
+      2a3b40b5-2249-4f0b-9aa5-ac2f83c7ab46: Bhaibheri rinovimbisa hupenyu husingaperi
+        ...
+      84999bcf-a404-436e-9454-5c70ebb88c84: Chiziviso chinokosha...
+      7733f716-949b-405f-8de9-7771b9320068: Chokwadi chine simba rekutitugamirira.
+        Tinobatana nesimba rechokwadi nekutenda. Patinoterera chokwadi zvatinonzwa
+        mumuviri zvinozotevera munzira kwayo. Tinovimba naMwari neChokwadi chake,
+        kwete zvatinonzwa.
+      666b553f-d0f5-437e-a0fa-b421a724707c: Wagamuchira Kristu here?
+    page_8:
+      title: 'Zvawagamuchira Kristu, zvinhu zvakawanda zvaitika kwauri zvinosanganisira:'
+      filename: d6563c22-973e-45ce-ad79-1cad63ed5c28
+      ce4d73ae-eae9-4ad1-b75f-5cf467bf0b1b: "- Kristu apinda muhupenyu hwako"
+      75179d85-6fd4-4470-b988-63a46b3c5a41: "(vaKorose 1:14)"
+      628af499-ee4d-41f4-ad13-2b7404128b02: 'Zvawagamuchira Kristu, zvinhu zvakawanda
+        zvaitika kwauri, zvinosanganisira:'
+      8ce2b3fa-848d-457c-a447-98a6181ffa67: "...urwo Mwari akakusikira."
+      43e2d065-da26-4aab-845c-9218d0783f36: "- Wava nehupenyu husingaperi"
+      bdd7d7ed-d61f-4f66-baee-e0596a5084c0: "(Johane 1:12)"
+      5d752762-ccd9-4bff-b5af-50dc164c27e2: ZVINO ZVAWAGAMUCHIRA KRISTU
+      18787c88-3b76-4cf9-a836-393bee4d1e0f: Ungafunge kuti...
+      581a6b5d-6674-404d-979b-74f35da8b7c4: "(Johane 5:24)"
+      8e5c37e2-50ad-4175-aeff-be8cf80232cb: |-
+        kune chimwe chinhu chingaitike kwauri chinopfuura kugamuchira Kristu here?
+        Ungada kutenda Mwari mumunamato iye zvino here pamusoro pezvaakuyitira?
+        Kutenda Mwari kunoratidza rutendo rwako.
+      ea3dba44-0a91-4b06-b7a8-a3b6323339da: |-
+        Kurarama hupenyu hwako hutsva
+        zvakazara
+      f1cdce10-eae2-45b6-9e1b-f025e32811d7: "(Johane 10:10; 2 VaKorinte 5:17; 1 VaTesaronika
+        5:18)"
+      441ed36e-4ae1-483b-b367-c17f7a6adb4d: "- Wabva wava mwana waMwari"
+      ce80b468-1f47-405e-b4df-b3f17d3c5917: "(Zvakazarurwa 3:20; VaKorose 1:27)"
+      b78fe8ac-800d-4c9c-8f58-720685ad52c5: "- Zvivi zvako zvaregererwa"
+      c8367e87-901c-4196-bef7-5073bbd350f0: "- Watanga rwendo rwunofadza..."
+    page_9:
+      title: Ungakura sei somuteveri waJesu
+      filename: 82583f32-627d-47d2-afb6-89eea4f9e71a
+      6f9899a7-1198-4146-a3da-85b7af126829: Tanga nevhangeri yaJohane
+      6371b963-8350-425a-b4db-4b29b4809eab: ZVINGAKUBATSIRA PAKUKURA PAMWEYA
+      c625a988-dd7d-44ae-af59-9e4baed5677c: "(Johane 15:7)"
+      6e5ffc21-1b31-44a9-aba9-973d875e6d6b: Kuteerera
+      9c196e7c-7cfe-4b3a-892d-3db23bb024a4: |-
+        Kana matanda ehuni ari pamwechete anobaka zvakajeka. Isa danda rimwechete paro rega panotonhora nemoto wacho unobva watanga kudzima. Nenzira imwecheteyo zvinozova zvakaoma kuti iwe urarame hupenyu hwechiKristu wega.
+        Zvinokosha kwazvo kuti usangane nevamwe vakagamuchira Jesu Kristu saIshe naMuponesi wavo. (VaHeberu 10:25)
+      2c3474ae-287b-4467-b904-b67fa0375fc1: Anotonga -
+      913b2c56-7095-4048-a960-7d378ded7b07: Uverenge
+      e5687d09-9a26-4195-8855-5be15b04665e: Kuenda ...
+      5f832e24-e77c-4f36-be13-d0eaebda2a84: Kuteerera Mwari nguva nenguva.
+      980518ae-87f0-48cf-9548-fba01ffdf721: "(tarisa Mabasa 17:11)"
+      b248716d-7246-45e2-b3a4-ad2f4a5c32e8: Ramba uchivimba naMwari pazvinhu zvose
+        zvaunoita muhupenyu hwako.
+      9094027f-4dbc-4fd0-928e-934e71463dbe: Ramba uchivimba ...
+      93f73e0d-9e71-4be1-a640-c8a4043afcff: "(tarisa Johane 14:21)"
+      7d5e8f33-b4ba-4d4e-9f01-729a4692729a: "(tarisa vaGaratia 5:16,17 uye Mabasa
+        1:8)"
+      f9391851-9dd4-4ee7-9721-206aa0c5863d: "(tarisa Mateo 4:19 na Johane 15:8)"
+      bf9cefbd-6010-4a4d-9803-717737671c45: Anotonga nekusimbisa hupenyu hwako hwamazuva
+        ose nehuchapupu hwako ndiMwari.
+      15bbe563-7469-4f41-900a-dd1e438b034b: Chechi inokosha
+      1318c4c5-f382-4592-8194-e4c439422b6f: Upupure Kristu nematauriro ako uyezve
+        nehupenyu hwako.
+      46d0a51a-f2d1-4e3a-8eac-6be571dd8547: "Kukura pamweya zvibereko zvokuvimba naJesu
+        Kristu. \"....Vakarurama vachararama nokutenda\" (VaGaratia 3:11).\n            \nHupenyu
+        hwekutenda hunokubatsira kuti uvimbe naMwari zvakanyanya nechipi nechipi choupenyu
+        hwako, uye kuita zvinotevera:"
+      88ec181e-a31f-4fe5-b75a-324dac335249: "(tarisa 1 Petro 5:7)"
+      141466f7-fb7f-44e3-90a6-b98978615965: Upupure
+      e735a5c3-f155-4255-82d6-dce217ad1d85: Kana pasina chechi yauri nhengo, usamirira
+        kukokwa. Tora danho rokutanga; fonera mufundisi wechechi iri pedyo uko vanhu
+        vanotenda kuti Bhaibheri ndere chokwadi, uyezve uko vanoterera Jesu Kristu.
+        Tanga svondo rino uye uve nehurongwa wekuendako nguva imwe neimwe.
+      90bef6b5-c6f8-4a3d-ab1a-9fbd75660743: Kuenda kuna Mwari mumunamato mazuva ose
+      7561abb4-d54b-4bd4-96a6-bd6e7d102489: Uverenge Shoko raMwari mazuva ose.
+    page_10:
+      title: Zvokushandisa zvakakosha
+      filename: ca4102b9-a950-4c4e-a67f-d498ece61b55
+      5e21ea17-05e2-4347-ab7c-01da48a90ed0: www.whoisJesus-really.com
+      b3c11ca8-82f0-4176-8000-a73f80ab3303: www.startingwithGod.com
+      2dfaef4c-0ce9-4152-b4b3-947af7dceea3: www.growinginChrist.com
+      80356d92-6553-4291-9464-c7542bbbbb30: 'Kana wapinda muhukama naMwari kuburikidza
+        nekugoverwa kwaitwa vhangeri kana kuti unoda rubatsiro kuti ukure mukuziva
+        Kristu idzi ndedzimwe nzvimbo dzatinokurudzira kuti ushanyire:'
+      ae643d40-90ac-44d3-bba0-d27c285508e5: www.everystudent.com
+      b6949652-efbd-447f-aa62-fd9cb87d2e46: ZVIMWE ZVAKAKOSHA ZVAUNGASHANDISE PAKUKURA
+        KWAKO MUCHIKRISTU
