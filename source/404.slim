@@ -1,0 +1,11 @@
+- current_page.add_metadata(initialize_locale: false)
+
+- content_for :article_header do
+  h1.text-danger.text-center
+    .fa.fa-exclamation-triangle
+    '
+    '404
+
+h2.text-center
+  = link_to '/', class: 'btn btn-primary btn-lg' do
+    .fa.fa-home.fa-lg

@@ -25,11 +25,13 @@ html.no-js class=yield_content(:html_class)
     == javascript_include_tag "base.js", "bootstrap-includes.js", "main.js"
 
   body class="#{page_classes}"
-    javascript:
-      // Reload these JS vars from the Ruby helpers on every page load.
-      gt.current_locale = "#{ current_locale }";
-      gt.current_booklet = "#{ current_booklet }";
-      gt.initialize_locale();
+    - if current_page.metadata[:initialize_locale] != false
+      javascript:
+        // This JS should execute right away in case we need to redirect.
+        // Load these JS vars from the Ruby helpers for each page.
+        gt.current_locale = "#{ current_locale }";
+        gt.current_booklet = "#{ current_booklet }";
+        gt.initialize_locale();
 
     /[if lte IE 8]
       p.chromeframe.alert.alert-warning

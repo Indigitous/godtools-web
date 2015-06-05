@@ -71,6 +71,8 @@ end
 
 page '*/embed/*', layout: :embed
 
+page '/404.html', directory_index: false # For Github Pages custom 404
+
 
 # ========================================================================
 # Helpers
