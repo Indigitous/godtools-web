@@ -21,7 +21,7 @@ namespace :locales do
     puts 'Writing translated strings to new locale files ...'
     locales_hash.each do |locale, hash|
       print "  #{ locale }.yml ... "
-      open("locales/#{ locale }.yml", 'w') do |file|
+      open "locales/#{ locale }.yml", 'w' do |file|
         file.write Psych.dump(locale => hash)
       end
       puts 'done writing.'

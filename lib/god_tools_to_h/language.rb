@@ -17,7 +17,7 @@ module GodToolsToH
     end
 
     def code
-      language_meta['code']
+      language_meta['code'].downcase
     end
 
     def name
