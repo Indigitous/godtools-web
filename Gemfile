@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 # Core
 gem 'middleman', '3.3.10'
-gem 'god_tools', git: 'https://github.com/Indigitous/godtools-gem.git', branch: 'master', ref: '07ea3de5a502d6c52b4a9aabdf5a505c7a4fb1e6'
+gem 'god_tools', git: 'https://github.com/Indigitous/godtools-gem.git', branch: 'master', ref: 'd00753e52e31111959e0ea83d4a985adc4a22cef'
 gem 'i18n_data', '0.7.0'
 
 # Assets
