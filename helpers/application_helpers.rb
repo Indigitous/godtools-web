@@ -69,9 +69,21 @@ module ApplicationHelpers
   end
 
   def language_name_in_locale(language, locale = language)
-    language_code = language.to_s[0..1].upcase
-    locale_code = locale.to_s[0..1].upcase
-    I18nData.languages(locale_code)[language_code] rescue I18nData.languages('EN')[language_code].presence || I18n.t('language_name_in_english', locale: language)
+    # We use the library I18nData to localize language names.
+    language_code = language.to_s[0..1].upcase # The language code is the code of language that we want to output. Only two letter codes are supported.
+    locale_code = locale.to_s.upcase.gsub('-', '_') # The locale code is the language that we want to display the language in. Two or four letter codes are supported (like "zh" or "zh_tw").
+
+    begin
+      name = I18nData.languages(locale_code)[language_code]
+    rescue I18nData::NoTranslationAvailable
+      if locale_code.length > 2 # If the translation wasn't available fallback to the two letter code.
+        locale_code = locale_code[0..1]
+        retry
+      end
+    end
+
+    # If the translation is still not available fallback to English.
+    name.presence || I18nData.languages('EN')[language_code].presence || I18n.t('language_name_in_english', locale: language)
   end
 
   def booklet_nav(page)
