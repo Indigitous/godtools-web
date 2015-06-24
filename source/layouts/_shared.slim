@@ -14,21 +14,20 @@ html.no-js class=yield_content(:html_class)
 
     // Check frontmatter meta description; fallback to value in config.rb
     - if current_page.data.meta_description
-      meta content="#{current_page.data.meta_description}" name="description"
+      meta content="#{ current_page.data.meta_description }" name="description"
     - else
-      meta content="#{site_description}" name="description"
+      meta content="#{ site_description }" name="description"
 
     // Canonical URL
-    link href="#{site_url+current_page.url}" rel="canonical"
+    link href="#{ site_url + current_page.url }" rel="canonical"
 
     == stylesheet_link_tag "main"
     == javascript_include_tag "base.js", "bootstrap-includes.js", "main.js"
 
-  body class="#{page_classes}"
+  body class=body_classes
     - if current_page.metadata[:initialize_locale] != false
       javascript:
         // This JS should execute right away in case we need to redirect.
-        // Load these JS vars from the Ruby helpers for each page.
         gt.current_locale = "#{ current_locale }";
         gt.current_booklet = "#{ current_booklet }";
         gt.initialize_locale();

@@ -125,4 +125,11 @@ module ApplicationHelpers
     content_tag :iframe, '', src: "#{ site_url }#{ path }", height: 900, width: 768, frameborder: 0, allowfullscreen: ''
   end
 
+  def body_classes
+    [page_classes,
+     yield_content(:body_class),
+     "booklet-#{ current_booklet.presence || 'none' }",
+     "locale-#{ current_locale.presence || 'unspecified' }"].join ' '
+  end
+
 end
