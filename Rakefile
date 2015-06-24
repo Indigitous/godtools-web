@@ -8,10 +8,11 @@ namespace :locales do
     puts 'Fetching translated strings from the God Tools API (this can take awhile) ...'
     GodToolsToH.live_languages.each do |language|
       print "  #{ language.name } ... "
-      sleep 1 # API rate limiting.
+      sleep 2 # API rate limiting.
       locales_hash[language.code] = language.to_h
       puts 'done fetching.'
     end
+    raise 'Expected API to return more language!' unless locales_hash.size > 1
     locales_hash['unspecified'] = locales_hash['en']
 
     print 'Removing all existing yml files in locales dir ... '
