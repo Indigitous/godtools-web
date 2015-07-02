@@ -1,2 +1,7 @@
-*
-!/scripts/*
+bower_components/
+helpers/
+lib/
+locales/
+source/
+Gemfile*
+config.rb
