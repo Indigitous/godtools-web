@@ -62,8 +62,10 @@ task :deploy do
   Rake::Task['locales:update'].invoke
 
   puts 'Committing the updated locale files to git ...'
+  # Use ruby 'sh' so that the task aborts if the command fails
   sh 'git add --all locales/'
-  sh "git commit --allow-empty -m 'Update locale files - automated commit by rake deploy task'"
+  # If there is nothing new to commit then git commit will exit with an error, use ruby 'system' call so that the task continues even if the commit fails
+  system "git commit -m 'Update locale files - automated commit by rake deploy task'"
   sh 'git push origin master'
 
   puts 'Building and deploying the site with middleman ...'
