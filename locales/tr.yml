@@ -1,93 +1,102 @@
 ---
 tr:
-  language_name_in_english: Turkish
   fourlaws:
-    title: Dört Ruhsal Kural
     page_0:
-      title: Ana
-      filename: 941fc3b8-a1e8-4316-91a7-203248aa28f3
       404edd90-1aff-4bb9-83a2-f0d15c46a6e8: KURALLAR?
+      be73de97-89fe-4490-a686-220546e2592c: Dört Ruhsal
       d4b40701-5929-498b-b96e-cc6796d76771: Evreni yönlendiren fiziksel kurallar olduğu
         gibi, Tanrı ile ilişkimizi yönlendiren ruhsal kurallar da vardır.
-      be73de97-89fe-4490-a686-220546e2592c: Dört Ruhsal
       da76705f-187d-4083-8677-593a1b7c58fd: Daha önce aşağıdakiler hakkında duymuş
         muydunuz?
+      filename: 941fc3b8-a1e8-4316-91a7-203248aa28f3
+      title: Ana
     page_1:
-      title: 1 Tanrı Sizi Seviyor ve Onu Kişisel Tanımanız İçin Sizi Yarattı
-      filename: eabc2828-9e86-48ca-afd4-d600e08ba508
-      af82e3fd-b785-4363-9349-21a3e9f63645: Tanrı'nın Sevgisi
-      f2abcea4-074e-4b1a-9c80-651adab20f1b: Tanrı'nın Planı
-      abdb2fc7-049c-4c24-9853-1ad59ac55e64: TANRI SİZİ SEVİYOR VE YAŞAMINIZ İÇİN HARİKA
-        BİR PLANI VAR.
-      1148c3e0-879f-4ba3-96a8-d4b48adf64b0: "(Yuhanna 3:16)"
-      681e6951-6be7-4956-ad03-b499d8415575: "(Yuhanna 10:10)"
       01278aca-0fc9-4bb4-bb50-a387d3b0fd21: '"[Mesih İsa konuşuyor] "Bense insanlar
         yaşama, bol yaşama sahip olsunlar diye geldim.""'
-      8602c78c-1795-4857-9195-026f69badf19: '"Çünkü Tanrı dünyayı öyle sevdi ki, biricik
-        Oğlunu verdi. Öyle ki , O''na iman edenlerin hiçbiri mahvolmasın, ama hepsi
-        sonsuz yaşama kavuşsun."'
+      1148c3e0-879f-4ba3-96a8-d4b48adf64b0: "(Yuhanna 3:16)"
       19d44e41-72ca-48f2-acad-c68b383a86e0: |-
         Neden birçok kişi
         bu bol yaşama sahip olamıyor?
         Çünkü...
+      681e6951-6be7-4956-ad03-b499d8415575: "(Yuhanna 10:10)"
+      8602c78c-1795-4857-9195-026f69badf19: '"Çünkü Tanrı dünyayı öyle sevdi ki, biricik
+        Oğlunu verdi. Öyle ki , O''na iman edenlerin hiçbiri mahvolmasın, ama hepsi
+        sonsuz yaşama kavuşsun."'
+      abdb2fc7-049c-4c24-9853-1ad59ac55e64: TANRI SİZİ SEVİYOR VE YAŞAMINIZ İÇİN HARİKA
+        BİR PLANI VAR.
+      af82e3fd-b785-4363-9349-21a3e9f63645: Tanrı'nın Sevgisi
+      f2abcea4-074e-4b1a-9c80-651adab20f1b: Tanrı'nın Planı
+      filename: eabc2828-9e86-48ca-afd4-d600e08ba508
+      title: 1 Tanrı Sizi Seviyor ve Onu Kişisel Tanımanız İçin Sizi Yarattı
+    page_10:
+      2dfaef4c-0ce9-4152-b4b3-947af7dceea3: www.growinginChrist.com
+      5e21ea17-05e2-4347-ab7c-01da48a90ed0: http://whoisjesus-really.com/turkish/whoisjesus.htm
+      80356d92-6553-4291-9464-c7542bbbbb30: 'Eğer bu sunum aracılıgıyla İsa Mesih''i
+        kabul ettiyseniz ve İsa Mesih hakkında daha çok bilgi almak istiyorsanız,
+        aşağıdaki siteleri tavsiye ederiz:'
+      ae643d40-90ac-44d3-bba0-d27c285508e5: www.kampusweb.com
+      b3c11ca8-82f0-4176-8000-a73f80ab3303: www.tanriylayurumek.com
+      b6949652-efbd-447f-aa62-fd9cb87d2e46: "İSA MESİH'TE OLGUNLAŞMANIZ İÇİN ÖZEL
+        MATERYALLER MEVCUTTUR"
+      filename: 081464c7-2aa7-4499-b96c-60fe7fa2cb43
+      title: "Özel Materyaller"
     page_2:
-      title: 2 İnsan Günahlıdır ve Tanrı'dan Ayrı Düşmüştür.Bu Nedenle Tanrı'nın Sevgisini
-        ve Yaşamımız İçin Olan Planını Bilemez ve Uygulayamayız.
-      filename: 286d1298-bb03-49e3-972f-266f1e850835
-      9a4916f5-1434-48c4-87df-2e87de3b2323: "İnsan Günahlıdır"
+      42753c84-8cff-4627-860d-976efcc662eb: "İNSAN GÜNAHLIDIR VE TANRI'DAN AYRI DÜŞMÜŞTÜR.
+        BU NEDENLE TANRI'NIN SEVGİSİNİ VE YAŞAMI İÇİN OLAN PLANINI BİLEMEZ VE UYGULAYAMAZ."
       45d18f06-a17d-4ed2-8803-94dca1c4b080: "▲ - Kutsal Tanrı  |  ★ - Günahlı İnsan"
+      78aec617-7d69-48b4-bf83-bfa3d3ccb853: '"Çünkü herkes günah işledi ve Tanrı''nın
+        yüceliğinden yoksun kaldı."  (Romalılar 3:23)'
+      9a4916f5-1434-48c4-87df-2e87de3b2323: "İnsan Günahlıdır"
+      adffc84d-d051-405f-b453-60c064e9448f: '"Günah''ın ücreti ölümdür" [Tanrı''dan
+        Ruhsal Kopuş].  (Romalılar 6:23)'
       dcac979a-271a-4f7c-971a-659d7c9792e0: Yukarıdaki çizim kutsal olan Tanrı ile
         günahlı insanın konumunu göstermektedir. Arada büyük bir boşluk göze çarpmaktadır.
         Oklar ise günahlı insanın Tanrı'ya ve O'nun bize sunduğu bol yaşama ulaşmak
         için gösterdiği çabayı simgelemektedir. Bu çaba Tanrı'dan karşılık bekleyerek
         yapılan iyilikler,arayış içinde felsefeden felseye koşmak ya da dinsel inanç
         biçiminde kendini gösterir.
-      adffc84d-d051-405f-b453-60c064e9448f: '"Günah''ın ücreti ölümdür" [Tanrı''dan
-        Ruhsal Kopuş].  (Romalılar 6:23)'
-      e59d5be7-5b2b-465f-87de-f8cca0e542d2: "Üçüncü kural bize aradaki bu ayrılığı
-        kapatacak tek yolu açıklamaktadır..."
-      f3a999ea-e95d-4653-99fb-f8094b720c6b: "İnsan Ayrı Düşmüştür"
-      78aec617-7d69-48b4-bf83-bfa3d3ccb853: '"Çünkü herkes günah işledi ve Tanrı''nın
-        yüceliğinden yoksun kaldı."  (Romalılar 3:23)'
       e3986ec1-8a59-4a9a-bcb4-a6d666bb13e4: "İnsan, Tanrı ile sevgi bağı içinde bulunması
         için yaratıldı.Ama insan inatçılığı ve bencilliği sonucunda kendi bağımsız
         yolunda yürümeyi seçti. Böylelikle Tanrı ile olan ilişkisini koparmış oldu."
-      42753c84-8cff-4627-860d-976efcc662eb: "İNSAN GÜNAHLIDIR VE TANRI'DAN AYRI DÜŞMÜŞTÜR.
-        BU NEDENLE TANRI'NIN SEVGİSİNİ VE YAŞAMI İÇİN OLAN PLANINI BİLEMEZ VE UYGULAYAMAZ."
+      e59d5be7-5b2b-465f-87de-f8cca0e542d2: "Üçüncü kural bize aradaki bu ayrılığı
+        kapatacak tek yolu açıklamaktadır..."
+      f3a999ea-e95d-4653-99fb-f8094b720c6b: "İnsan Ayrı Düşmüştür"
+      filename: 286d1298-bb03-49e3-972f-266f1e850835
+      title: 2 İnsan Günahlıdır ve Tanrı'dan Ayrı Düşmüştür.Bu Nedenle Tanrı'nın Sevgisini
+        ve Yaşamımız İçin Olan Planını Bilemez ve Uygulayamayız.
     page_3:
-      title: 3 İsa Mesih İnsanın Günahını Ortadan Kaldırmak İçin Tanrı'nın Sağladığı
-        Tek Çaredir. Ancak O'nun ile Tanrı'nın Sevgisini ve Yaşamımız İçin Olan Planını
-        Bilebilir ve Uygulayabiliriz.
-      filename: 8993d55d-52c9-4293-b776-be7bdfc581dc
+      22839228-d950-45b7-a873-ea05192a139c: "İsa, “Yol, gerçek ve yaşam Ben’im” dedi.
+        “Benim aracılığım olmadan Baba’ya kimse gelemez.  (Yuhanna 14:6)"
+      250ec919-c645-4cfc-9c55-c8189dee2a28: O Ölümden Dirildi
+      34b4af0a-66f4-4666-8e7f-d99284127f40: Bu şekil Tanrı ve insanı ayıran bu boşluğu
+        Oğlu İsa Mesih'i göndererek kapatmasını temsil ediyor. İsa Mesih çarmıhta
+        ölerek günahlarımızın cezasını kendi üzerine aldı.
       35da1297-b80c-4111-b55b-45c22c4d248c: '"Kutsal Yazılar uyarınca Mesih günahlarımıza
         karşılık öldü, gömüldü ve Kutsal Yazılar uyarınca üçüncü gün ölümden dirildi.
         Kefas''a, sonra Onikiler''e göründü. Daha sonra da beş yüzden çok kardeşe
         aynı anda göründü."'
-      dcad7fa5-67ea-44b9-a814-1aa08d62604e: "İSA MESİH İNSANIN GÜNAHINI ORTADAN KALDIRMAK
-        İÇİN TANRI'NIN SAĞLADIĞI TEK ÇAREDİR. ANCAK O'NUN İLE TANRI'NIN SEVGİSİNİ
-        VE YAŞAMIMIZ İÇİN OLAN PLANINI BİLEBİLİR VE UYGULAYABİLİRİZ."
-      c5657019-0dca-4748-90fe-399144e31db4: "▲ - Tanrı |  † - İsa Mesih  |  ★ - İnsan"
-      b1fdf550-98d6-4f05-acef-f0d9a8e64eaf: '"Tanrı bize olan sevgisini şununla kanıtlıyor:
-        Biz daha günahkarken İsa Mesih bizim için öldü"'
-      34b4af0a-66f4-4666-8e7f-d99284127f40: Bu şekil Tanrı ve insanı ayıran bu boşluğu
-        Oğlu İsa Mesih'i göndererek kapatmasını temsil ediyor. İsa Mesih çarmıhta
-        ölerek günahlarımızın cezasını kendi üzerine aldı.
-      22839228-d950-45b7-a873-ea05192a139c: "İsa, “Yol, gerçek ve yaşam Ben’im” dedi.
-        “Benim aracılığım olmadan Baba’ya kimse gelemez.  (Yuhanna 14:6)"
-      dacb2032-d5ca-4117-9763-83f41db46186: "(1.Korintliler 15:3-6)"
-      cb327c83-aaee-418c-8754-e977434d9737: O Bizim Yerimize Öldü
+      3fcf1d5f-45e2-4eb8-861c-b7e64b98b073: O Tanrı'ya Giden Tek Yoldur
       9310dd00-7066-4304-8a5e-8ad520506982: |-
         Yalnız bu üç kuralı
         bilmek yetmiyor...
       9d5152c5-cf21-421f-85a8-c3101d949190: "(Romalılar 5:8)"
-      250ec919-c645-4cfc-9c55-c8189dee2a28: O Ölümden Dirildi
-      3fcf1d5f-45e2-4eb8-861c-b7e64b98b073: O Tanrı'ya Giden Tek Yoldur
+      b1fdf550-98d6-4f05-acef-f0d9a8e64eaf: '"Tanrı bize olan sevgisini şununla kanıtlıyor:
+        Biz daha günahkarken İsa Mesih bizim için öldü"'
+      c5657019-0dca-4748-90fe-399144e31db4: "▲ - Tanrı |  † - İsa Mesih  |  ★ - İnsan"
+      cb327c83-aaee-418c-8754-e977434d9737: O Bizim Yerimize Öldü
+      dacb2032-d5ca-4117-9763-83f41db46186: "(1.Korintliler 15:3-6)"
+      dcad7fa5-67ea-44b9-a814-1aa08d62604e: "İSA MESİH İNSANIN GÜNAHINI ORTADAN KALDIRMAK
+        İÇİN TANRI'NIN SAĞLADIĞI TEK ÇAREDİR. ANCAK O'NUN İLE TANRI'NIN SEVGİSİNİ
+        VE YAŞAMIMIZ İÇİN OLAN PLANINI BİLEBİLİR VE UYGULAYABİLİRİZ."
+      filename: 8993d55d-52c9-4293-b776-be7bdfc581dc
+      title: 3 İsa Mesih İnsanın Günahını Ortadan Kaldırmak İçin Tanrı'nın Sağladığı
+        Tek Çaredir. Ancak O'nun ile Tanrı'nın Sevgisini ve Yaşamımız İçin Olan Planını
+        Bilebilir ve Uygulayabiliriz.
     page_4:
-      title: 4 İsa Mesih'i Rabbimiz ve Kurtarıcımız Olarak Kabul Etmeliyiz. Bundan
-        Sonra Tanrı'nın Sevgisini ve Yaşamımız İçin Olan Planını Bilebilir ve Uygulayabiliriz.
-      filename: 796588c0-530d-45de-a370-f27680f686c3
-      b6ad5fd1-162a-45c6-8200-8ef227d83a08: Yeniden doğarız.
-      c499a322-ef95-4627-8513-f07a16770087: "(Yuhanna 3:1-8 'i okuyun)"
+      080fc752-9ca8-4b90-af6a-9a5e1591ffa4: "İsa Mesih'i İman Yoluyla Kabul Ederiz"
+      25a0cf14-9e81-43cf-97f2-e99f3d88d2c2: "(Efesliler 2:8,9)"
+      2b0efb4f-25d9-4fb8-85c4-66002459db8a: "İsa Mesih'i yaşamımıza aldığımızda..."
+      98f37160-ecd4-4fdd-8d87-aad66cef826d: "İsa Mesihi Kabul Etmeliyiz"
       a00c7635-f82a-4dce-bd48-059a50ec1492: "İSA MESİH'İ RABBİMİZ VE KURTARICIMIZ
         OLARAK KABUL ETMELİYİZ; BUNDAN SONRA TANRI'NIN SEVGİSİNİ VE YAŞAMIMIZ İÇİN
         OLAN PLANINI BİLEBİLİR VE UYGULAYABİLİRİZ."
@@ -95,52 +104,48 @@ tr:
         sözü olduğunu, günahlarımız için öldüğünü kabul etmek yeterli değilidir. Duygularımızla
         da O'nu kabul etmemizin bir anlamı yoktur. İsa Mesih'i ancak istemimizin bir
         eylemi olan iman yoluyla kabul ederiz.
-      d73f49ed-3185-4385-84c0-456a65514a52: '[Mesih İsa şöyle diyor] "İşte kapıda
-        durmuş kapıyı çalıyorum. Eğer biri sesimi işitir ve kapıyı açarsa onun yanına
-        gireceğim"'
+      b6ad5fd1-162a-45c6-8200-8ef227d83a08: Yeniden doğarız.
       b80fa33f-a46d-4723-ad8f-b8c23142cd1d: "(Vahiy 3:20)"
+      bd2663ba-ccd1-4400-a89c-5ff0582e4f8d: "İsa Mesih'i Kişisel Olarak Çağırmalıyız."
       be59c51a-cb27-485f-b89a-7c5a427729fd: "...kendi benliğimizden Tanrı'ya dönmemiz
         (tövbe) ve yaşamımıza girerek günahlarımızı bağışlaması ve bizi kendi istediği
         gibi bir kişi yapması konusunda Mesih İsa'ya tam olarak güvenmemiz demektir."
-      e5fc852d-7718-4206-b328-785def7ae592: "İsa Mesihi kabul etmemiz demek ..."
-      e6f40dd1-5cc3-40d4-b749-351e01974b8c: "(Yuhanna 1:12)"
-      98f37160-ecd4-4fdd-8d87-aad66cef826d: "İsa Mesihi Kabul Etmeliyiz"
-      080fc752-9ca8-4b90-af6a-9a5e1591ffa4: "İsa Mesih'i İman Yoluyla Kabul Ederiz"
-      bd2663ba-ccd1-4400-a89c-5ff0582e4f8d: "İsa Mesih'i Kişisel Olarak Çağırmalıyız."
+      c499a322-ef95-4627-8513-f07a16770087: "(Yuhanna 3:1-8 'i okuyun)"
+      cab22c4e-4ccc-4d7d-8100-64a438306d3c: '""Ancak kendisini kabul edip adına iman
+        edenlerin hepsine Tanrı''nın çocukları olma hakkını verdi"."'
       d1ccf916-a3fb-4abc-9dce-6ffa8e7a2e1d: '"İman yoluyla lütufla kurtuldunuz. Bu
         sizin başarınız değil, Tanrı''nın armağanıdır. Kimse övünmesin diye iyi işlerin
         sonucu değildir."'
-      2b0efb4f-25d9-4fb8-85c4-66002459db8a: "İsa Mesih'i yaşamımıza aldığımızda..."
-      25a0cf14-9e81-43cf-97f2-e99f3d88d2c2: "(Efesliler 2:8,9)"
-      cab22c4e-4ccc-4d7d-8100-64a438306d3c: '""Ancak kendisini kabul edip adına iman
-        edenlerin hepsine Tanrı''nın çocukları olma hakkını verdi"."'
+      d73f49ed-3185-4385-84c0-456a65514a52: '[Mesih İsa şöyle diyor] "İşte kapıda
+        durmuş kapıyı çalıyorum. Eğer biri sesimi işitir ve kapıyı açarsa onun yanına
+        gireceğim"'
+      e5fc852d-7718-4206-b328-785def7ae592: "İsa Mesihi kabul etmemiz demek ..."
+      e6f40dd1-5cc3-40d4-b749-351e01974b8c: "(Yuhanna 1:12)"
+      filename: 796588c0-530d-45de-a370-f27680f686c3
+      title: 4 İsa Mesih'i Rabbimiz ve Kurtarıcımız Olarak Kabul Etmeliyiz. Bundan
+        Sonra Tanrı'nın Sevgisini ve Yaşamımız İçin Olan Planını Bilebilir ve Uygulayabiliriz.
     page_5:
-      title: Bu Daireler İki Ayrı Yaşamı Simgelemektedir.
-      filename: 1a4f9e12-a9bb-4ceb-8a16-ad49e4632565
-      8b7f7645-fb10-4e50-8986-cd88503d2e67: Hangi dairenin yaşamınızı tanımlamasını
-        istersiniz ?
       001f5c24-aabd-483b-ab6c-b9e064a09375: "† - Mesih yaşamın dışında."
-      f45a6a36-dd42-468a-9dbb-f704788a806d: o - Bütün ilgi alanları Mesih'e yöneldiği
-        için, kişinin yaşamında Tanrı'nın planı doğrultusunda bir düzen görülüyor.
+      01d03eb0-56f2-488e-abb2-c688cea52cf1: Bedendeki Yaşam
       24b57ef6-b963-4b44-ac98-4f1af8f82d55: s - Benlik tamamen Tanrı Sözü olan Mesih'e
         boyun eğmiş.
+      8906846a-09d9-4cd3-83fd-879d59e20b62: o - Bütün ilgi alanları benlikçe yönlendirildiğinden
+        bir karmaşa var.
+      8b7f7645-fb10-4e50-8986-cd88503d2e67: Hangi dairenin yaşamınızı tanımlamasını
+        istersiniz ?
+      b5c91ec7-6c1b-4090-83fb-ac1e07590101: s - Benlik yaşam tahtında.
+      c0775670-8920-4b66-8cc9-c4a6bc87656d: Bundan sonraki bölüm İsa Mesih'i nasıl
+        kabul edeceğinizi açıklıyor...
+      db583108-9103-4819-b351-8bffb74bba8c: "† - Mesih yaşam tahtında."
+      f45a6a36-dd42-468a-9dbb-f704788a806d: o - Bütün ilgi alanları Mesih'e yöneldiği
+        için, kişinin yaşamında Tanrı'nın planı doğrultusunda bir düzen görülüyor.
       f4d5bc34-ad41-415b-af49-0e1a8d9529e1: Mesihteki Yaşam
-      01d03eb0-56f2-488e-abb2-c688cea52cf1: Bedendeki Yaşam
       f5322d88-80e2-4da9-8ae3-6af2f464a30d: Hangi daire yaşamınızı en güzel bir biçimde
         tanımlıyor ?
       f65b2688-f83a-4121-8c82-57f9e889586b: "İKİ DAİRE, İKİ AYRI YAŞAMI SİMGELEMEKTEDİR."
-      db583108-9103-4819-b351-8bffb74bba8c: "† - Mesih yaşam tahtında."
-      b5c91ec7-6c1b-4090-83fb-ac1e07590101: s - Benlik yaşam tahtında.
-      8906846a-09d9-4cd3-83fd-879d59e20b62: o - Bütün ilgi alanları benlikçe yönlendirildiğinden
-        bir karmaşa var.
-      c0775670-8920-4b66-8cc9-c4a6bc87656d: Bundan sonraki bölüm İsa Mesih'i nasıl
-        kabul edeceğinizi açıklıyor...
+      filename: 1a4f9e12-a9bb-4ceb-8a16-ad49e4632565
+      title: Bu Daireler İki Ayrı Yaşamı Simgelemektedir.
     page_6:
-      title: Dua Aracılığıyla Tanrı İle Olan İlişkimizi Sağlayabiliriz.
-      filename: 9fcfe8a8-1756-43ff-9bb0-86af1eb44782
-      9087f3c4-35c7-47d0-b621-cbc835b014be: "İsa Mesih'i yaşamınıza çağırmanız için:"
-      62b35212-dc4e-4e2e-a7ac-09a68537c6f5: "(Dua Tanrı ile konuşmaktır)"
-      d7df22f4-9678-4ee7-9c67-e7e5fc306112: Tanrı sözlerinizden çok kalbinize bakar.
       5ec11b23-302b-4c55-90d5-ed810f297757: "Sevgili Rabbim,\n\nSana ihtiyacım var.
         Çünkü Senin bana olan sevginden ötürü benim günahlarımın karşılığı olarak
         kendini kurban olarak sundun.\n                \nBu nedenle sana sonsuz teşekkürler
@@ -148,125 +153,120 @@ tr:
         kabul ediyorum. Günahlarımı bağışlayıp bana sonsuz yaşam sunduğun için sana
         çok teşekkür ederim.Yaşamımın yönetimini benden al ve beni kendi istediğin
         gibi bir kişi yap.AMİN"
+      62b35212-dc4e-4e2e-a7ac-09a68537c6f5: "(Dua Tanrı ile konuşmaktır)"
+      9087f3c4-35c7-47d0-b621-cbc835b014be: "İsa Mesih'i yaşamınıza çağırmanız için:"
       b4334eea-9d8c-484f-b919-7fed2d5fc635: "İsa Mesih söz verdiği gibi o anda yaşamınıza
         gelecektir."
       ba926c37-e783-42bd-868a-7894c6c54088: Bu dua kalbinizin arzusunu dile getiriyor
         mu ? Eğer dile getiriyorsa şimdi hemen bu şekilde bir dua ile İsa Mesih'i
         yaşamınıza çağırabilirsiniz.
+      d7df22f4-9678-4ee7-9c67-e7e5fc306112: Tanrı sözlerinizden çok kalbinize bakar.
       e8a4256e-ce69-42d2-b9f9-9d54c90e762a: "İSA MESİH'İ, ŞİMDİ İMAN İLE DUA EDEREK
         YAŞAMINIZA ALABİLİRSİNİZ"
+      filename: 9fcfe8a8-1756-43ff-9bb0-86af1eb44782
+      title: Dua Aracılığıyla Tanrı İle Olan İlişkimizi Sağlayabiliriz.
     page_7:
-      title: Bütün Bu Şeylerin Gerçekten Olduğuna Nasıl Emin Olabiliriz ?
-      filename: f640fb69-a0d3-4fdb-841a-28edb804df9b
       0b6ed82c-75e3-4597-a8b5-94958dd9bb89: "İSA MESİH'İN YAŞAMINIZDA OLDUĞUNU NASIL
         BİLİRSİNİZ"
-      ed474402-3427-48f6-920d-39a798dfcd58: Duygulara Bağlı Kalmayın
       15912814-cb40-467a-b4ae-354c367a273a: "İsa Mesih, Vahiy 3:20'de verdiği söze
         göre sizinle ilşki amacı ile şimdi nerede ?\nİsa Mesih yaşamınıza geleceğini
         söylüyor. O söylüyorsa yalan olabilir mi? \n                \nMesih İsa'nın
         yaşamınıza gelmesi konusunda neye dayanarak duanızın cevaplandığını söylüyorsunuz
         ? (Tanrı'nın kendisine ve sözünün güvenilirliğine dayanarak, başka bir deyişle
         Tanrı verdiği sözü tutar.)"
-      d8911e6a-8df6-4c5b-96c5-527905f1db22: İsa Mesih'in yaşamınızda olduğu ve sizi
-        hiçbir zaman terketmeyeceği konusunda Tanrı'ya sürekli olarak teşekkür edin.
-        "Seni asla terk etmem, seni asla bırakmam." (İbraniler 13:5)
-      994db774-8810-46ca-bee3-e817c4c249cd: |-
-        "Tanıklık da şudur: Tanrı bize sonsuz yaşam verdi, bu yaşam O’nun Oğlu’ndadır.
-        12Kendisinde Tanrı Oğlu bulunanda yaşam vardır, kendisinde Tanrı Oğlu bulunmayanda yaşam yoktur."
-        (1 Yuhanna 5:11-13)
-      6128a2c8-82c6-4dc8-bf8c-e378c3851410: Sonsuz Yaşam Sözü Veriyor.
-      652832bd-f9ae-4fb7-aaf4-16ef584d2cdd: "[ Gerçek ] - [ İman ] - [ Duygular ]"
+      2a3b40b5-2249-4f0b-9aa5-ac2f83c7ab46: Kutsal Kitap Mesih İsa'yı Kabul Edene...
       3002cd11-c590-4790-981e-cee28a661270: "İsa Mesih'e inanmış olan kişi Tanrı'nın
         kendisine ve Sözüne iman (Güven)etmelidir. Bu tren örneği Gerçek (Tanrı ve
         Sözü),İman (Tanrı'ya ve Sözüne güvenmemiz) ve Duygu (İman ve Sözdinlerliğimizin
         sonuzcu)arasındaki ilişkiyi simgelemektedir. (Yuhanna 14:21'i okuyunuz)"
-      2a3b40b5-2249-4f0b-9aa5-ac2f83c7ab46: Kutsal Kitap Mesih İsa'yı Kabul Edene...
-      84999bcf-a404-436e-9454-5c70ebb88c84: "Önemli bir uyarı..."
+      6128a2c8-82c6-4dc8-bf8c-e378c3851410: Sonsuz Yaşam Sözü Veriyor.
+      652832bd-f9ae-4fb7-aaf4-16ef584d2cdd: "[ Gerçek ] - [ İman ] - [ Duygular ]"
+      666b553f-d0f5-437e-a0fa-b421a724707c: Dua ettiğinizde İsa Mesih'i kabul ettiniz
+        mi?
       7733f716-949b-405f-8de9-7771b9320068: Trenin arkasındaki ek römork olmaksızında
         gidebilir. Ama ek römork ile treni sürmek herhalde düşünülemez bile. Bu örnekte
         olduğu gibi Mesih'teki kişinin durumu da böyledir. Duyguları ile harekete
         kalkışması ek römork ile treni sürmeye benzer. Mesih'teki kişi tamamen Tanrı'ya
         ve Sözü'ne güvenmelidir.
-      666b553f-d0f5-437e-a0fa-b421a724707c: Dua ettiğinizde İsa Mesih'i kabul ettiniz
-        mi?
+      84999bcf-a404-436e-9454-5c70ebb88c84: "Önemli bir uyarı..."
+      994db774-8810-46ca-bee3-e817c4c249cd: |-
+        "Tanıklık da şudur: Tanrı bize sonsuz yaşam verdi, bu yaşam O’nun Oğlu’ndadır.
+        12Kendisinde Tanrı Oğlu bulunanda yaşam vardır, kendisinde Tanrı Oğlu bulunmayanda yaşam yoktur."
+        (1 Yuhanna 5:11-13)
+      d8911e6a-8df6-4c5b-96c5-527905f1db22: İsa Mesih'in yaşamınızda olduğu ve sizi
+        hiçbir zaman terketmeyeceği konusunda Tanrı'ya sürekli olarak teşekkür edin.
+        "Seni asla terk etmem, seni asla bırakmam." (İbraniler 13:5)
+      ed474402-3427-48f6-920d-39a798dfcd58: Duygulara Bağlı Kalmayın
+      filename: f640fb69-a0d3-4fdb-841a-28edb804df9b
+      title: Bütün Bu Şeylerin Gerçekten Olduğuna Nasıl Emin Olabiliriz ?
     page_8:
-      title: "İsteğinizle İsa Mesih'i imanla yaşamınıza aldığınız an birçok şey yaşamınızda
-        değişti, bunlar aşağıdakilerdir:"
-      filename: bbba4b9d-a70f-4a60-9dd8-a15de52a7c1f
-      ce4d73ae-eae9-4ad1-b75f-5cf467bf0b1b: "- Mesih İsa yaşamınıza geldi"
-      75179d85-6fd4-4470-b988-63a46b3c5a41: "(Koloseliler 1:14)"
-      8ce2b3fa-848d-457c-a447-98a6181ffa67: "...serüven dolu bir yaşama başladınız."
+      18787c88-3b76-4cf9-a836-393bee4d1e0f: Bu durumda...
+      43e2d065-da26-4aab-845c-9218d0783f36: "- Sonsuz yaşamı elde ettiniz."
+      441ed36e-4ae1-483b-b367-c17f7a6adb4d: "- Tanrı'nın çocuğu oldunuz."
+      581a6b5d-6674-404d-979b-74f35da8b7c4: "(Yuhanna 5:24)"
+      5d752762-ccd9-4bff-b5af-50dc164c27e2: "ŞİMDİ İSA MESİHİ KABUL ETTİNİZ"
       628af499-ee4d-41f4-ad13-2b7404128b02: "İsteğinizle İsa Mesih'i imanla yaşamınıza
         aldığınız an birçok şey yaşamınızda değişti, bunlar aşağıdakilerdir:"
-      43e2d065-da26-4aab-845c-9218d0783f36: "- Sonsuz yaşamı elde ettiniz."
-      bdd7d7ed-d61f-4f66-baee-e0596a5084c0: "(Yuhanna 1:12)"
-      5d752762-ccd9-4bff-b5af-50dc164c27e2: "ŞİMDİ İSA MESİHİ KABUL ETTİNİZ"
-      18787c88-3b76-4cf9-a836-393bee4d1e0f: Bu durumda...
-      581a6b5d-6674-404d-979b-74f35da8b7c4: "(Yuhanna 5:24)"
+      75179d85-6fd4-4470-b988-63a46b3c5a41: "(Koloseliler 1:14)"
+      8ce2b3fa-848d-457c-a447-98a6181ffa67: "...serüven dolu bir yaşama başladınız."
       8e5c37e2-50ad-4175-aeff-be8cf80232cb: "... İsa Mesih'i kabul etmekten daha düzel
         bir şey olabilir mi? Tanrı'ya bizim için yaptıklarından ötürü şimdi kısa bir
         dua ile teşekkür sunmak ister misiniz? O'na hamd etmekle aynı zamanda imanınızı
         açıklamış olursunuz."
-      441ed36e-4ae1-483b-b367-c17f7a6adb4d: "- Tanrı'nın çocuğu oldunuz."
+      b78fe8ac-800d-4c9c-8f58-720685ad52c5: "- Günahlarınız bağışlandı"
+      bdd7d7ed-d61f-4f66-baee-e0596a5084c0: "(Yuhanna 1:12)"
+      c8367e87-901c-4196-bef7-5073bbd350f0: "- Tanrı'nın sizin için oluşturduğu..."
+      ce4d73ae-eae9-4ad1-b75f-5cf467bf0b1b: "- Mesih İsa yaşamınıza geldi"
+      ce80b468-1f47-405e-b4df-b3f17d3c5917: "(Vahiy 3:20 and Koloseliler 1:27)"
+      ea3dba44-0a91-4b06-b7a8-a3b6323339da: Yeni yaşamınızı tüm doluluğuyla yaşayın...
       f1cdce10-eae2-45b6-9e1b-f025e32811d7: "(Yuhanna 10:10; 2 Korintliler 5:17; 1
         Selanikliler 5:18)"
-      ea3dba44-0a91-4b06-b7a8-a3b6323339da: Yeni yaşamınızı tüm doluluğuyla yaşayın...
-      ce80b468-1f47-405e-b4df-b3f17d3c5917: "(Vahiy 3:20 and Koloseliler 1:27)"
-      b78fe8ac-800d-4c9c-8f58-720685ad52c5: "- Günahlarınız bağışlandı"
-      c8367e87-901c-4196-bef7-5073bbd350f0: "- Tanrı'nın sizin için oluşturduğu..."
+      filename: bbba4b9d-a70f-4a60-9dd8-a15de52a7c1f
+      title: "İsteğinizle İsa Mesih'i imanla yaşamınıza aldığınız an birçok şey yaşamınızda
+        değişti, bunlar aşağıdakilerdir:"
     page_9:
-      title: "İsa Mesih'in Takipçisi Olarak Nasıl Olgunlaşabilirim"
-      filename: 209b8c35-fb8c-4fb6-bc45-e8a5dff4928c
-      6f9899a7-1198-4146-a3da-85b7af126829: Mümkünse Müjde'nin Yuhanna bölümünden
-        başlayın.
-      6371b963-8350-425a-b4db-4b29b4809eab: "İSA MESİH'TE OLGUNLAŞMANIZ İÇİN ÖNERİLER"
-      6e5ffc21-1b31-44a9-aba9-973d875e6d6b: "İ taat ..."
-      c625a988-dd7d-44ae-af59-9e4baed5677c: "(Yuhanna 15:7)"
-      9c196e7c-7cfe-4b3a-892d-3db23bb024a4: Tanrı sözü, toplantıları ihmal etmememiz
-        konusunda bizi uyarmaktadır. "Bir araya gelmekten vazgeçmeyelim" (İbraniler
-        10:25). Birçok odun bir arada güzel bir şekilde yanar,ama tek bir odun parçasının
-        ateşi hemen sönüverir.İşte bizim diğer imanlılarla olan ilişkimizde böyledir.
-      2c3474ae-287b-4467-b904-b67fa0375fc1: K utsal Ruh -
-      913b2c56-7095-4048-a960-7d378ded7b07: O kuyun ...
-      5f832e24-e77c-4f36-be13-d0eaebda2a84: Tanrı'ya her an itaat edin.
-      e5687d09-9a26-4195-8855-5be15b04665e: G idin ...
-      980518ae-87f0-48cf-9548-fba01ffdf721: "(bakınız Elçilerin İşleri 17:11)"
-      b248716d-7246-45e2-b3a4-ad2f4a5c32e8: Yaşamınızın tüm ayrıntılarında Tanrı'ya
-        güvenin.
-      9094027f-4dbc-4fd0-928e-934e71463dbe: G üven ...
-      93f73e0d-9e71-4be1-a640-c8a4043afcff: "(bakınız Yuhanna 14:21)"
-      7d5e8f33-b4ba-4d4e-9f01-729a4692729a: "(bakınız Galatyalılar 5:16,17 ve Elçilerin
-        İşleri 1:8)"
-      f9391851-9dd4-4ee7-9721-206aa0c5863d: "(bakınız Matta 4:19 ve Yuhanna 15:8)"
-      bf9cefbd-6010-4a4d-9803-717737671c45: Kutsal Ruh'un sizi yönetimi altında tutmasına
-        ve günlük yaşantınız ve tanıklığınızda güçlenmesine izin verin.
-      15bbe563-7469-4f41-900a-dd1e438b034b: "İYİ BİR TOPLULUĞA KATILIN"
       1318c4c5-f382-4592-8194-e4c439422b6f: Sözleriniz ve yaşantınızla İsa Mesih için
         tanıklıkta bulunun.
+      141466f7-fb7f-44e3-90a6-b98978615965: T anıklık ...
+      15bbe563-7469-4f41-900a-dd1e438b034b: "İYİ BİR TOPLULUĞA KATILIN"
+      2c3474ae-287b-4467-b904-b67fa0375fc1: K utsal Ruh -
       46d0a51a-f2d1-4e3a-8eac-6be571dd8547: "Ruhta olgunlaşma İsa Mesih'e sürekli
         olarak tam bir güvenin sonucudur. \"İmanla aklanan insan yaşayacaktır.\"(Galatyalılar
         3:11).\n            \n            İman yaşamı, sizin yaşamınızın her ayrıntısında
         günbegün artarak Rab'be güvenmenizi bu pratik uygulamalarla daha düzenli bir
         biçimde izlemenizi sağlayacaktır:"
-      141466f7-fb7f-44e3-90a6-b98978615965: T anıklık ...
+      5f832e24-e77c-4f36-be13-d0eaebda2a84: Tanrı'ya her an itaat edin.
+      6371b963-8350-425a-b4db-4b29b4809eab: "İSA MESİH'TE OLGUNLAŞMANIZ İÇİN ÖNERİLER"
+      6e5ffc21-1b31-44a9-aba9-973d875e6d6b: "İ taat ..."
+      6f9899a7-1198-4146-a3da-85b7af126829: Mümkünse Müjde'nin Yuhanna bölümünden
+        başlayın.
+      7561abb4-d54b-4bd4-96a6-bd6e7d102489: Rab'bin Sözünü her gün okuyun.
+      7d5e8f33-b4ba-4d4e-9f01-729a4692729a: "(bakınız Galatyalılar 5:16,17 ve Elçilerin
+        İşleri 1:8)"
       88ec181e-a31f-4fe5-b75a-324dac335249: "(bakınız 1 Petrus 5:7)"
+      9094027f-4dbc-4fd0-928e-934e71463dbe: G üven ...
+      90bef6b5-c6f8-4a3d-ab1a-9fbd75660743: Her gün Rab'be dua ile gidin
+      913b2c56-7095-4048-a960-7d378ded7b07: O kuyun ...
+      93f73e0d-9e71-4be1-a640-c8a4043afcff: "(bakınız Yuhanna 14:21)"
+      980518ae-87f0-48cf-9548-fba01ffdf721: "(bakınız Elçilerin İşleri 17:11)"
+      9c196e7c-7cfe-4b3a-892d-3db23bb024a4: Tanrı sözü, toplantıları ihmal etmememiz
+        konusunda bizi uyarmaktadır. "Bir araya gelmekten vazgeçmeyelim" (İbraniler
+        10:25). Birçok odun bir arada güzel bir şekilde yanar,ama tek bir odun parçasının
+        ateşi hemen sönüverir.İşte bizim diğer imanlılarla olan ilişkimizde böyledir.
+      b248716d-7246-45e2-b3a4-ad2f4a5c32e8: Yaşamınızın tüm ayrıntılarında Tanrı'ya
+        güvenin.
+      bf9cefbd-6010-4a4d-9803-717737671c45: Kutsal Ruh'un sizi yönetimi altında tutmasına
+        ve günlük yaşantınız ve tanıklığınızda güçlenmesine izin verin.
+      c625a988-dd7d-44ae-af59-9e4baed5677c: "(Yuhanna 15:7)"
+      e5687d09-9a26-4195-8855-5be15b04665e: G idin ...
       e735a5c3-f155-4255-82d6-dce217ad1d85: Eğer Rab'bi kabul etmiş ama henüz bir
         topluluğa (Kilise) katılmıyorsanız, çağrılmak için beklemeyin. Bu sorumluluğu
         kendiniz için yüklenin.En yakınınızda tanıdığınız gerçek bir Mesih inanlısına
         katılabileceğiniz topluluğu sorun. Bu topluluk İsa Mesih'in yüceltildiği O'nun
         sözünün vaaz edildiği bir topluluksa hiç kuşku duymadan sürekli katılmaya
         karar verin.
-      90bef6b5-c6f8-4a3d-ab1a-9fbd75660743: Her gün Rab'be dua ile gidin
-      7561abb4-d54b-4bd4-96a6-bd6e7d102489: Rab'bin Sözünü her gün okuyun.
-    page_10:
-      title: "Özel Materyaller"
-      filename: 081464c7-2aa7-4499-b96c-60fe7fa2cb43
-      5e21ea17-05e2-4347-ab7c-01da48a90ed0: http://whoisjesus-really.com/turkish/whoisjesus.htm
-      b3c11ca8-82f0-4176-8000-a73f80ab3303: www.tanriylayurumek.com
-      2dfaef4c-0ce9-4152-b4b3-947af7dceea3: www.growinginChrist.com
-      80356d92-6553-4291-9464-c7542bbbbb30: 'Eğer bu sunum aracılıgıyla İsa Mesih''i
-        kabul ettiyseniz ve İsa Mesih hakkında daha çok bilgi almak istiyorsanız,
-        aşağıdaki siteleri tavsiye ederiz:'
-      ae643d40-90ac-44d3-bba0-d27c285508e5: www.kampusweb.com
-      b6949652-efbd-447f-aa62-fd9cb87d2e46: "İSA MESİH'TE OLGUNLAŞMANIZ İÇİN ÖZEL
-        MATERYALLER MEVCUTTUR"
+      f9391851-9dd4-4ee7-9721-206aa0c5863d: "(bakınız Matta 4:19 ve Yuhanna 15:8)"
+      filename: 209b8c35-fb8c-4fb6-bc45-e8a5dff4928c
+      title: "İsa Mesih'in Takipçisi Olarak Nasıl Olgunlaşabilirim"
+    title: Dört Ruhsal Kural
+  language_name_in_english: Turkish
