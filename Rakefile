@@ -1,6 +1,10 @@
+# Add our lib folder to the load path
+lib = File.expand_path('../lib', __FILE__)
+$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+
 require 'fileutils'
 require 'i18n_yaml_sorter'
-require_relative 'lib/god_tools_to_h'
+require 'god_tools_to_h'
 
 namespace :locales do
 
@@ -16,7 +20,8 @@ namespace :locales do
       puts 'done fetching.'
     end
     raise 'Expected API to return more language!' unless locales_hash.size > 1
-    locales_hash['unspecified'] = locales_hash['en']
+
+    locales_hash['unspecified'] = locales_hash['en'] # Use english as the unspecified locale
 
     print 'Removing all existing yml files in locales dir ... '
     FileUtils.rm Dir.glob('locales/**/*.yml')
@@ -57,7 +62,7 @@ task :deploy do
   Rake::Task['locales:update'].invoke
 
   puts 'Building and deploying the site with middleman ...'
-  sh 'bundle exec middleman build'
+  sh 'bundle exec middleman deploy'
 
   puts 'Deploy task finished!'
 end
