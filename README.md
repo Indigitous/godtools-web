@@ -44,9 +44,7 @@ The [godtools-gem](https://github.com/Indigitous/godtools-gem) is used to read t
 
 Translation updates can automated using a service like Heroku. Create a new Heroku app based on this repo, then add the Heroku Scheduler addon and schedule the following script to run every day (you can disable the web server dyno, since it's not needed):
 
-`GITHUB_USERNAME=your_github_username GITHUB_PERSONAL_ACCESS_TOKEN=your_personal_access_token_created_at_github.com ./scripts/heroku_deploy.sh`
+`GITHUB_USERNAME=your_github_username GITHUB_PERSONAL_ACCESS_TOKEN=your_personal_access_token_created_at_github.com /app/scripts/heroku_deploy.sh`
 
-See the Heroku logs with `heroku logs --ps scheduler --app your-app-name`
-
-At the time of writing there is a Heroku app named "godtoolswebapp" already setup to automate the translation updates.
+At the time of writing there is a Heroku app named "godtoolswebapp" already setup to automate the translation updates. Tail the Heroku logs with `heroku logs --tail --app godtoolswebapp`
 
