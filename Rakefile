@@ -63,7 +63,7 @@ task :deploy do
 
   puts 'Committing the updated locale files to git ...'
   sh 'git add --all locales/'
-  sh "git commit -m 'Update locale files - automated commit by rake deploy task'"
+  sh "git commit --allow-empty -m 'Update locale files - automated commit by rake deploy task'"
   sh 'git push origin master'
 
   puts 'Building and deploying the site with middleman ...'
