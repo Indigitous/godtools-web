@@ -49,3 +49,5 @@ Use the custom deploy rake task to update the locale files and deploy the Middle
 This can be automated using a service like Heroku. Create a new Heroku app based on this repo, then add the Heroku Scheduler addon. Schedule the rake task to run every day. You can disable the web server dyno, since it's not needed.
 
 See the Heroku logs with `heroku logs --ps scheduler --app your-app-name`
+
+At the time of writing there is a Heroku app named "godtoolswebapp" already setup to automate the translation updates.
