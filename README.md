@@ -28,6 +28,8 @@ Then run `bundle exec middleman deploy` to deploy your changes to the live site.
 
 The deploy will first run the Middleman build process, if the build is successful then it will upload the build to the `gh-pages` branch and the changes will be live. If the build process is not successful you will need to investigate and fix the build problem.
 
+If you want to update the locale files and deploy the Middleman app in one command then you may use the custom rake task: `bundle exec rake deploy`
+
 ### Updating the Translation Strings from the GodTools API
 
 The translation strings originate from the GodTools API. These strings can be read from the API and then written to locale files that Middleman uses for localization ([see Middleman doc on localization](https://middlemanapp.com/advanced/localization/)). In this manner the translation strings are cached. If the translation strings need to be updated then you need to perform a manual update process.
@@ -38,3 +40,12 @@ The rake task will read all of the translation strings in the API and write them
 
 The [godtools-gem](https://github.com/Indigitous/godtools-gem) is used to read the API.
 
+## Automating Translation Updates
+
+Use the custom deploy rake task to update the locale files and deploy the Middleman app.
+
+`bundle exec rake deploy`
+
+This can be automated using a service like Heroku. Create a new Heroku app based on this repo, then add the Heroku Scheduler addon. Schedule the rake task to run every day. You can disable the web server dyno, since it's not needed.
+
+See the Heroku logs with `heroku logs --ps scheduler --app your-app-name`
