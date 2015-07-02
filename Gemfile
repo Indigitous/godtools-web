@@ -1,5 +1,6 @@
-# Source
 source 'https://rubygems.org'
+
+ruby '2.2.2'
 
 # Core
 gem 'middleman', '3.3.10'
