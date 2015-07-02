@@ -5,15 +5,16 @@
 
 echo 'Starting Heroku deploy script ...'
 
+# Git needs to know who we are
+git config --global user.email "$GITHUB_USERNAME@users.noreply.github.com"
+git config --global user.name "$GITHUB_USERNAME"
+
 cd /tmp/
 
 echo 'Cloning Github repo ...'
 git clone --depth 1 "https://$GITHUB_USERNAME:$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/Indigitous/godtools-web.git"
 
 cd ./godtools-web/
-
-git config user.email "$GITHUB_USERNAME@users.noreply.github.com"
-git config user.name "$GITHUB_USERNAME"
 
 echo 'Bundling ...'
 # This bundle command mimicks the one that Heroku uses when it builds the app
