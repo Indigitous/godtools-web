@@ -90,6 +90,7 @@ GEM
       multi_xml (>= 0.5.2)
     i18n (0.7.0)
     i18n_data (0.7.0)
+    i18n_yaml_sorter (0.2.0)
     json (1.8.2)
     kramdown (1.6.0)
     listen (2.10.0)
@@ -214,6 +215,7 @@ DEPENDENCIES
   god_tools!
   handlebars_assets (~> 0.20.1)
   i18n_data (= 0.7.0)
+  i18n_yaml_sorter (~> 0.2.0)
   middleman (= 3.3.10)
   middleman-autoprefixer (~> 2.4.3)
   middleman-deploy (~> 1.0.0)
@@ -226,3 +228,6 @@ DEPENDENCIES
   pry (~> 0.10.1)
   pry-stack_explorer (~> 0.4.9.2)
   slim (~> 3.0.2)
+
+BUNDLED WITH
+   1.10.5

@@ -1,7 +1,10 @@
 require 'fileutils'
+require 'i18n_yaml_sorter'
 require_relative 'lib/god_tools_to_h'
 
 namespace :locales do
+
+  desc 'Rewrite the locale files from the GodTools api'
   task :update do
     locales_hash = {} # We'll store all the data in a hash, and then output the hash to yml files.
 
@@ -16,7 +19,7 @@ namespace :locales do
     locales_hash['unspecified'] = locales_hash['en']
 
     print 'Removing all existing yml files in locales dir ... '
-    FileUtils.rm Dir.glob('locales/*.yml')
+    FileUtils.rm Dir.glob('locales/**/*.yml')
     puts 'done.'
 
     puts 'Writing translated strings to new locale files ...'
@@ -28,9 +31,24 @@ namespace :locales do
       puts 'done writing.'
     end
 
+    puts 'Sorting the locale file contents ...'
+    Rake::Task['locales:sort'].invoke
+
     puts 'Finished updating locale files!'
   end
+
+
+  desc 'Sort all the locale yml files using gem i18n_yaml_sorter'
+  task :sort do
+    locale_files = Dir.glob('locales/**/*.yml')
+    locale_files.each do |locale_path|
+      sorted_contents = File.open(locale_path) { |f| I18nYamlSorter::Sorter.new(f).sort }
+      File.open(locale_path, 'w') { |f|  f << sorted_contents}
+    end
+  end
+
 end
+
 
 task :deploy do
   puts 'Starting deploy task ...'

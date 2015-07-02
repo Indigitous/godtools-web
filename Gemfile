@@ -23,6 +23,7 @@ gem 'middleman-jquery', '~> 2.1.1'
 gem 'middleman-minify-html', '~> 3.4.0'
 gem 'builder', '~> 3.2.2'
 gem 'middleman-sitemap', '~> 0.0.13'
+gem 'i18n_yaml_sorter', '~> 0.2.0'
 
 # Development
 gem 'middleman-livereload', '~> 3.4.2'
