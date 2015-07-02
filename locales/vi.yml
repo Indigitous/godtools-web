@@ -1,308 +1,287 @@
 ---
 vi:
   language_name_in_english: Vietnamese
-  fourlaws:
-    title: Bốn Định Luật Thuộc Linh
+  satisfied:
+    title: Thỏa Mãn?
     page_0:
       title: Trang Chủ
-      filename: ee08d075-e99b-4aee-90ae-dbcaf8a63f2b
-      404edd90-1aff-4bb9-83a2-f0d15c46a6e8: CHƯA?
-      d4b40701-5929-498b-b96e-cc6796d76771: Vũ trụ được chi phối bởi những định luật
-        vật lý, cũng vậy có những định luật thuộc linh chi phối mối quan hệ giữa bạn
-        và Đức Chúa Trời.
-      be73de97-89fe-4490-a686-220546e2592c: BỐN ĐỊNH LUẬT THUỘC LINH
-      da76705f-187d-4083-8677-593a1b7c58fd: Bạn đã từng nghe về
+      filename: 62fb1e4d-8f09-431c-93d3-2f905baa3f0f
+      a3049b50-0a42-46f1-a286-179c8dea2ee6: satisfied?
     page_1:
-      title: 1 Đức Chúa Trời YÊU THƯƠNG bạn và đã hoạch định một CHƯƠNG TRÌNH kỳ diệu
-        cho đời sống bạn.
-      filename: 7d219b11-776d-4df8-a838-90a7e7958266
-      f2abcea4-074e-4b1a-9c80-651adab20f1b: CHƯƠNG TRÌNH của Đức Chúa Trời
-      af82e3fd-b785-4363-9349-21a3e9f63645: TÌNH YÊU THƯƠNG của Đức Chúa Trời
-      abdb2fc7-049c-4c24-9853-1ad59ac55e64: "ĐỨC CHÚA TRỜI YÊU THƯƠNG BẠN VÀ ĐÃ HOẠCH
-        ĐỊNH MỘT CHƯƠNG TRÌNH KỲ DIỆU CHO ĐỜI SỐNG BẠN."
-      1148c3e0-879f-4ba3-96a8-d4b48adf64b0: "(Giăng 3:16)"
-      681e6951-6be7-4956-ad03-b499d8415575: "(Giăng 10:10)"
-      01278aca-0fc9-4bb4-bb50-a387d3b0fd21: '"Chúa Cứu Thế Jesus phán rằng: “…Ta đến
-        để cho nhân loại được sự sống, và được sự sống dư dật” [nghĩa là được sự sống
-        sung mãn và đầy ý nghĩa]."'
-      8602c78c-1795-4857-9195-026f69badf19: '"Vì Đức Chúa Trời yêu thương nhân loại,
-        đến nỗi đã ban Con Một của Ngài (Chúa Cứu Thế Jesus), để ai tin Con ấy không
-        bị hư mất mà được sự sống đời đời."'
-      19d44e41-72ca-48f2-acad-c68b383a86e0: "Tại sao nhiều người \nvẫn chưa kinh nghiệm
-        được\nsự sống sung mãn và đầy ý nghĩa? Tại vì…"
+      title: Thỏa Mãn?
+      filename: a382ced6-d1af-41ab-b001-34fdf48f59fb
+      61d05ed8-8f4a-4767-bf2b-1a4065d5a71e: Chúa Jesus muốn nói điều gì?
+      7a7255e6-74cb-46c3-8847-df73976a1a0f: "..rằng Thánh Linh của Đức Chúa Trời sẽ
+        làm thỏa mãn cơn khát hay niềm khát khao sâu xa nhất của tất cả những ai tin
+        Chúa Cứu Thế Jesus."
+      734c56ea-ffc1-4a0a-b298-4e1d635b7708: Đức Chúa Jesus phán rằng "Nếu người nào
+        khát, hãy đến với Ta mà uống. Người nào tin Ta, thì những sông nước sự sống
+        sẽ tuôn tràn từ lòng mình, đúng như Kinh Thánh đã nói.” (Giăng 7:37, 38)
+      c97fec59-c592-4fe1-9cd1-4c66d4cdd1f6: Bạn có mong muốn nhiều hơn không?
+      645af94c-eee7-4096-bbef-b4ac93f4e1fe: Bạn sẽ dùng từ nào để mô tả kinh nghiệm
+        hiện tại của bạn là Cơ-Đốc-Nhân?
+      a8fc5a97-efb6-42c7-a408-9ded8b20fdbe: '"Ngài nói điều nầy chỉ về Thánh Linh
+        mà những người tin Ngài sẽ nhận được; bởi Thánh Linh chưa giáng xuống, vì
+        Đức Chúa Giê-xu chưa được tôn vinh." (Giăng 7:39)'
+      c01db8f9-37be-4f6b-9a0c-a10d5f2d56ec: Thỏa Mãn?
+      c9315a8e-c6b4-4396-809c-fc7036fd8aae: |-
+        Tăng trưởng | Nãn lòng
+        Thất vọng | Mãn nguyện
+        Tha thứ | Bị sa lầy | tranh đấu
+        Vui mừng | Thất bại | Hứng thú
+        Trồi sụt | Trống rỗng
+        Chán nãn| Bổn phận
+        Thân mật | Tầm thường
+        Đau đớn | Năng động | Mặc cảm tội lỗi
+        Đầy sức sống | Tàm tạm | Những điều khác?
+      35ac14b0-fc1b-4598-b233-74c1cd37187d: Giăng, một trước giả Kinh Thánh, tiếp
+        tục giải thích,
+      be5e8347-5b45-4167-9e25-5bd1c0479cc9: Chúa Jesus hứa...
+      c41367b1-591b-48c1-8940-f8d7c619009c: Tuy nhiên, nhiều Cơ Đốc Nhân không hiểu
+        Đức Thánh Linh hay không kinh nghiệm Ngài trong đời sống hằng ngày.
+      3c1f29e9-25ee-49ef-96f5-eec2ca101a6b: Những nguyên tắc sau đây sẽ giúp bạn hiểu
+        và tận hưởng Thánh Linh của Đức Chúa Trời.
     page_2:
-      title: 2 Loài người TỘI LỖI và bị PHÂN CÁCH với Đức Chúa Trời nên không thể
-        hiểu biết và kinh nghiệm được tình yêu thương cùng chương trình kỳ diệu của
-        Ngài dành cho đời sống mình.
-      filename: 2aa0d3fb-3c23-4d77-92af-c096ab58ce6a
-      9a4916f5-1434-48c4-87df-2e87de3b2323: Loài người TỘI LỖI
-      45d18f06-a17d-4ed2-8803-94dca1c4b080: "▲ - Đức Chúa Trời Thánh Khiết | ★ - Con
-        Người Tội Lỗi"
-      dcac979a-271a-4f7c-971a-659d7c9792e0: Biểu đồ bên đây mô tả rằng Đức Chúa Trời
-        là thánh khiết còn loài người thì tội lỗi. Một vực sâu thăm thẳm phân cách
-        hai bên. Những mũi tên chỉ về việc loài người liên tục cố gắng để vươn đến
-        cùng Đức Chúa Trời và mong muốn có được sự sống sung mãn bằng những nỗ lực
-        riêng như nếp sống đạo đức, triết lý hoặc tôn giáo, nhưng đều thất bại.
-      adffc84d-d051-405f-b453-60c064e9448f: "“Vì tiền công của tội lỗi là sự chết”
-        – tức là bị phân cách phần tâm linh khỏi Đức Chúa Trời (Rô-ma 6:23)."
-      f3a999ea-e95d-4653-99fb-f8094b720c6b: Loài người bị PHÂN CÁCH
-      e59d5be7-5b2b-465f-87de-f8cca0e542d2: "Định luật thứ ba giải thích cho chúng
-        ta biết chiếc cầu duy nhất nối liền vực sâu phân cách này…"
-      78aec617-7d69-48b4-bf83-bfa3d3ccb853: "“Vì mọi người đều đã phạm tội, thiếu
-        mất sự vinh hiển của Đức Chúa Trời.” (Rô-ma 3:23)."
-      e3986ec1-8a59-4a9a-bcb4-a6d666bb13e4: Loài người được tạo dựng để tương giao
-        với Đức Chúa Trời; nhưng vì ý riêng bướng bỉnh, ương ngạnh, loài người đã
-        chọn lấy con đường riêng của mình, do đó sự tương giao với Đức Chúa Trời đã
-        bị gãy đổ. Ý riêng ấy thể hiện bằng sự chống đối hoặc bằng thái độ hững hờ,
-        không thờ phượng Đấng Tạo Hóa, có suy nghĩ, lời nói, và hành động sai trái,
-        đi ngược với bản tính thánh khiết của Ngài, là bằng chứng của điều mà Kinh
-        Thánh gọi là tội lỗi.
-      42753c84-8cff-4627-860d-976efcc662eb: LOÀI NGƯỜI TỘI LỖI VÀ BỊ PHÂN CÁCH VỚI
-        ĐỨC CHÚA TRỜI, NÊN KHÔNG THỂ HIỂU BIẾT VÀ KINH NGHIỆM ĐƯỢC TÌNH YÊU THƯƠNG
-        CÙNG CHƯƠNG TRÌNH KỲ DIỆU CủA NGÀI DÀNH CHO ĐỜI SỐNG MÌNH.
+      title: Món Quà Thiên Thượng
+      filename: e293b8b9-7c9e-4299-a48f-a6fbfeeadbff
+      42c03470-bc54-4e96-98eb-475bf8bf2b03: "Đức Chúa Trời đã ban Thánh Linh Ngài
+        cho chúng ta để chúng ta có thể kinh nghiệm sự thân mật với Ngài và tận hưởng
+        tất cả những gì Ngài dành sẵn cho chúng ta."
+      7df4495b-3f37-4e30-b5df-21772c5aebef: '"người sống theo Thánh Linh chú tâm đến
+        điều Thánh Linh đẹp lòng." (Rô-ma 8:5, HĐ)'
+      27164f05-daa5-401c-ac2d-24ecdfe73b06: "...hiểu..."
+      7ef2d3f0-3908-474b-84d2-0fab8073e59e: |-
+        - Một đời sống tâm linh mới thực sự
+        (Giăng 3:1-8)
+        - Sự đảm bảo chắc chắn rằng chúng ta là con của Đức Chúa Trời (Rô-ma 8:15, 16)
+        - Tình yêu mật thiết của Đức Chúa Trời
+        (Rô-ma 5:5; Ê-phê-sô 3:18,19)
+      7e0239cf-c583-4a70-9034-0443215d36bb: satisfied_diagram_01.png
+      e8dffc68-6ad0-43da-8f41-5aaabf4f580b: "...và kinh nghiệm được tất cả những gì
+        Đức Chúa Trời ban cho chúng ta."
+      108e9d2e-6865-4b13-8b0e-79090aca8c6c: "Đức Thánh Linh là nguồn thỏa mãn sâu
+        sắc nhất của chúng ta."
+      fcee3f74-d7ee-480b-b7df-ba700fa84183: Tại sao nhiều Cơ Đốc Nhân không thỏa mãn
+        trong kinh nghiệm của họ với Đức Chúa Trời?
+      5c29963b-baf9-449c-a2d1-82c9fed5122f: "Đời Sống không có Đức Thánh Linh"
+      1d9eb041-3db8-477f-a02e-08a1a1323e76: Người không có Thánh Linh không nhận được
+        những điều từ Thánh Linh của Đức Chúa Trời, vì người ấy xem những điều nầy
+        là điên rồ, và không thể hiểu được, vì phải được phán đoán cách thuộc linh.
+        (1 Cô-rinh-tô 2:14)
+      4dae880d-34ee-450f-8743-b69a4941621e: |-
+        "Nhưng, chúng ta không nhận lấy linh của thế gian, mà là Thánh Linh từ Đức Chúa Trời, để có thể hiểu được những ân tứ Đức Chúa Trời ban cho chúng ta."
+        (1 Cô-rinh-tô 2:12)
+      829e23f2-9409-4a02-a1af-4c624ffc83f0: |-
+        Người thuộc linh suy xét mọi điều... chúng ta có tâm trí của Chúa Cứu Thế.
+        (1 Cô-rinh-tô 2:15,16)
+      e33fd2e5-df96-49ff-bd56-9de4242ed1ed: Đức Chúa Jesus phán rằng "Ta sẽ cầu xin
+        Cha, Ngài sẽ ban cho các con một Đấng An Ủi khác, để ở với các con đời đời,
+        tức là Thần Chân Lý." (Giăng 14:16,17)
+      06daebb2-36c6-4a4c-a458-7da93340d01b: Món Quà Thiên Thượng
+      c08044ea-df68-425e-b61c-8eeb350a3520: "Đức Thánh Linh giúp cho chúng ta có thể..."
+      4a943b48-0a8d-4ebd-8d8b-7c13ca0628b2: "Đời Sống Có Đức Thánh Linh"
+      e56bfff7-8e11-453d-a816-b751f0b2e156: "Đức Thánh Linh là sự hiện diện đời đời..."
+      1bce670f-3a5c-4ccd-936a-262049fac207: "...của Đức Chúa Trời với chúng ta."
+      8cf2fbc8-4585-4702-a210-56aa55691124: satisfied_diagram_01.png
     page_3:
-      title: 3 Chúa Cứu Thế Jesus là giải pháp DUY NHẤT của Đức Chúa Trời cho vấn
-        đề tội lỗi. Chỉ qua Chúa Cứu Thế, bạn mới có thể hiểu biết và kinh nghiệm
-        được tình yêu thương cùng chương trình kỳ diệu của Ngài dành cho đời sống
-        bạn.
-      filename: 86bcc83f-b389-424a-b94f-fc772a470f73
-      35da1297-b80c-4111-b55b-45c22c4d248c: '"Chúa Cứu Thế chịu chết vì tội chúng
-        ta…Ngài đã bị chôn, đến ngày thứ ba, Ngài sống lại, theo lời Kinh Thánh và
-        Ngài đã hiện ra cho Phi-e-rơ, sau lại hiện ra cho mười hai sứ đồ. Rồi Ngài
-        hiện ra cho hơn năm trăm anh em xem thấy…"'
-      dcad7fa5-67ea-44b9-a814-1aa08d62604e: CHÚA CỨU THẾ JESUS LÀ GIẢI PHÁP DUY NHẤT
-        CỦA ĐỨC CHÚA TRỜI CHO VẤN ĐỀ TỘI LỖI. CHỈ QUA CHÚA CỨU THẾ, BẠN MỚI CÓ THỂ
-        HIỂU BIẾT VÀ KINH NGHIỆM ĐƯỢC TÌNH YÊU THƯƠNG CÙNG CHƯƠNG TRÌNH KỲ DIỆU CỦA
-        NGÀI DÀNH CHO ĐỜI SỐNG BẠN.
-      c5657019-0dca-4748-90fe-399144e31db4: "▲ - Đức Chúa Trời | † - Chúa Jesus |
-        ★ - Con Người"
-      b1fdf550-98d6-4f05-acef-f0d9a8e64eaf: '"Đức Chúa Trời tỏ lòng yêu thương Ngài
-        đối với chúng ta, khi chúng ta còn là người có tội thì Chúa Cứu Thế đã chết
-        thay cho chúng ta."'
-      34b4af0a-66f4-4666-8e7f-d99284127f40: Biểu đồ bên đây mô tả rằng Đức Chúa Trời
-        đã nối liền vực sâu phân cách chúng ta với Ngài bằng cách sai Chúa Cứu Thế
-        Jesus đến thế gian chịu chết trên thập tự giá để đền tội thay cho chúng ta.
-      22839228-d950-45b7-a873-ea05192a139c: "“Chúa Cứu Thế Jesus phán rằng: Ta chính
-        là Con Đường, Chân Lý, và Nguồn Sống; chẳng bởi Ta thì không ai đến cùng Cha
-        được.” (Giăng 14:6)"
-      dacb2032-d5ca-4117-9763-83f41db46186: "(1 Cô-rinh-tô 15:3-6)"
-      cb327c83-aaee-418c-8754-e977434d9737: Chúa đã CHẾT THAY cho chúng ta
-      9310dd00-7066-4304-8a5e-8ad520506982: "Biết ba định luật trên \nvẫn chưa đủ…"
-      9d5152c5-cf21-421f-85a8-c3101d949190: "(Rô-ma 5:8)"
-      250ec919-c645-4cfc-9c55-c8189dee2a28: Ngài đã SỐNG LẠI từ cõi chết
-      3fcf1d5f-45e2-4eb8-861c-b7e64b98b073: Ngài là CON ĐƯỜNG DUY NHẤT đến cùng Đức
-        Chúa Trời
+      title: Mối Đe Dọa Hiện Tại
+      filename: c8109aa3-b193-4181-a781-8d37f475252e
+      44377ff5-2b02-409a-b169-eaa9a1dfdb1f: |-
+        Bạn có phải là người dại dột không? Sau khi bắt đầu với Đức Thánh Linh, bây giờ bạn có cố gắng để đạt được mục tiêu của mình bằng nổ lực con người không?
+        (Ga-la-ti 3:3)
+      f606f6fd-8443-44f1-9cea-b5a38e00577e: Chúng ta có thể kinh nghiệm sự thân mật
+        trong mối quan hệ với Đức Chúa Trời và tận hưởng tất cả những gì Ngài dành
+        sẵn cho chúng ta nếu chúng ta không ngừng nương dựa nơi Đức Thánh Linh.
+      9c8cfc32-6c7f-4516-8d3a-03cea8ff7b03: Chúng ta không thể sống...
+      92cfd63b-4da6-481f-887e-eec3784f5335: Những người dựa vào nỗ lực và sức riêng
+        để sống đời sống Cơ Đốc Nhân sẽ gặp phải sự thất bại và thất vọng, cũng tương
+        tự như những người sống để làm hài lòng chính mình thay vì sống để làm vui
+        lòng Đức Chúa Trời.
+      f735b4aa-5691-4d83-861e-f6c98f721f90: "đời sống Cơ Đốc Nhân bằng sức riêng của
+        chúng ta."
+      7cf39e0e-9ad6-48a5-8e4f-c9452b5e6569: Làm thế nào để chúng ta có thể phát triển
+        một lối sống nương dựa nơi Đức Thánh Linh?
+      55c57d61-164a-4d08-8ff2-0ae0e14cee68: |-
+        Thưa anh em, về phần tôi, tôi không thể nói với anh em như với những người thuộc linh, nhưng như với người xác thịt, như những trẻ sơ sinh trong Đấng Christ. Tôi đã nuôi anh em bằng sữa, chứ không bằng thức ăn cứng, vì anh em chưa thích ứng được. Ngay đến bây giờ anh em vẫn chưa thích ứng được, vì anh em vẫn còn thuộc về xác thịt. Bởi trong anh em vẫn có sự ganh tị, tranh chấp; như vậy, chẳng phải anh em thuộc về xác thịt và cư xử như người đời sao?
+        (1 Cô-rinh-tô 3:1-3)
+      b5ee2cdd-eb40-47a4-a6a4-610a079f04ee: satisfied_diagram_02.png
+      131044e1-064a-4e57-accd-4bca7a0917d8: Mối Đe Dọa Hiện Tại
+      11bb73ff-f34a-462f-a866-c4004ef31c3b: "... tất cả những gì Đức Chúa Trời dành
+        sẵn cho chúng ta nếu chúng ta sống bằng những ham muốn tập trung vào chính
+        mình."
+      051243f6-8d73-4caf-a8f5-4facf1b3ed0b: |-
+        Vì xác thịt có những dục vọng trái ngược với Thánh Linh, và Thánh Linh có những ước muốn trái ngược với xác thịt; hai bên đối nghịch nhau như vậy, nên anh em không làm được điều mình muốn.
+        (Ga-la-ti 5:17)
+      41f67dd2-f053-4a81-900c-09363e0d3934: Chúng ta không thể vui hưởng...
+      bc49a797-0467-46af-b836-10f930962859: Ba Loại Lối Sống
     page_4:
-      title: 4 Mỗi người chúng ta phải đích thân TIẾP NHẬN Chúa Jesus làm Cứu Chúa
-        và Chủ của đời mình; như vậy, chúng ta mới có thể hiểu biết và kinh nghiệm
-        được tình yêu thương cùng chương trình kỳ diệu của Đức Chúa Trời dành cho
-        đời sống chúng ta.
-      filename: 0da2e3a9-5449-420f-85e6-d831ee7d080f
-      b6ad5fd1-162a-45c6-8200-8ef227d83a08: Chúng ta kinh nghiệm sự tái sinh.
-      c499a322-ef95-4627-8513-f07a16770087: "(Đọc Giăng 3:1-8)"
-      a00c7635-f82a-4dce-bd48-059a50ec1492: MỖI NGƯỜI CHÚNG TA PHẢI ĐÍCH THÂN TIẾP
-        NHẬN CHÚA JESUS LÀM CỨU CHÚA VÀ CHỦ CỦA ĐỜI MÌNH; NHƯ VẬY, CHÚNG TA MỚI CÓ
-        THẺ HIỂU BIẾT VÀ KINH NGHIỆM ĐƯỜC TÌNH YÊU THƯƠNG CÙNG CHƯƠNG TRÌNH KỲ DIỆU
-        CỦA ĐỨC CHÚA TRỜI DÀNH CHO ĐỜI SỐNG CHÚNG TA.
-      d73f49ed-3185-4385-84c0-456a65514a52: 'Chúa Cứu Thế Jesus phán rằng: “Nầy, Ta
-        đứng ngoài cửa mà gõ; nếu ai nghe tiếng Ta mà mở cửa cho thì Ta sẽ vào cùng
-        người ấy.”'
-      b1a2624c-3f58-4648-9843-59a841890f3b: Nếu chỉ bằng lý trí cho rằng Chúa Cứu
-        Thế Jesus là Con Đức Chúa Trời và Ngài đã chết trên thập tự giá để đền tội
-        thế cho chúng ta hoặc chỉ kinh nghiệm bằng cảm xúc thì chưa đủ. Chúng ta phải
-        tiếp nhận Chúa Cứu Thế bằng đức tin như một hành động của ý chí.
-      b80fa33f-a46d-4723-ad8f-b8c23142cd1d: "(Khải huyền 3:20)"
-      be59c51a-cb27-485f-b89a-7c5a427729fd: "...chúng ta phải từ bỏ bản ngã để quay
-        về cùng Đức Chúa Trời, tin cậy Chúa Cứu Thế để mời Ngài ngự vào đời sống chúng
-        ta, xin Ngài tha thứ tội lỗi và biến đổi chúng ta trở nên người Chúa muốn."
-      e5fc852d-7718-4206-b328-785def7ae592: Tiếp nhận Chúa Cứu Thế Jesus nghĩa là...
-      e6f40dd1-5cc3-40d4-b749-351e01974b8c: "(Giăng 1:12)"
-      98f37160-ecd4-4fdd-8d87-aad66cef826d: Chúng ta phải TIẾP NHẬN Chúa Cứu Thế Jesus
-      080fc752-9ca8-4b90-af6a-9a5e1591ffa4: Chúng ta TIẾP NHẬN Chúa Cứu Thế Jesus
-        bằng ĐỨC TIN
-      bd2663ba-ccd1-4400-a89c-5ff0582e4f8d: Chúng ta tiếp nhận Chúa Cứu Thế Jesus
-        bằng cách ĐÍCH THÂN MỜI Ngài ngự vào lòng
-      d1ccf916-a3fb-4abc-9dce-6ffa8e7a2e1d: '"“Thật vậy, nhờ ân sủng, bởi đức tin
-        mà anh chị em được cứu rỗi, đây không phải tự sức anh chị em, nhưng là tặng
-        phẩm Đức Chúa Trời ban, cũng không do công đức anh chị em làm, để không ai
-        có thể khoe mình.”"'
-      2b0efb4f-25d9-4fb8-85c4-66002459db8a: Khi tiếp nhận Chúa Cứu Thế...
-      25a0cf14-9e81-43cf-97f2-e99f3d88d2c2: "(Ê-phê-sô 2:8-9)"
-      cab22c4e-4ccc-4d7d-8100-64a438306d3c: '""Bất cứ ai tiếp nhận Ngài, tức là tin
-        danh Ngài, thì Ngài ban cho họ quyền trở nên con của Đức Chúa Trời”"'
+      title: Hành Trình Mật Thiết
+      filename: ef5a080b-1f20-490d-82df-5fc49b017839
+      c8aa10b8-b386-44eb-ad1b-50c2c35a1d4f: với Đức Chúa Trời và tất cả những gì Ngài
+        dành cho chúng ta.
+      b2c4df2b-77b2-4f57-84ef-1ad7bef3fbc8: 'Khi chúng ta bước đi trong Thánh Linh:'
+      27d8462f-d1bf-4766-b216-46a311e98e62: Trao quyền điều khiển cuộc đời mình cho
+        Chúa Cứu Thế và lấy đức tin nương dựa nơi Đức Thánh Linh để Ngài đầy dẫy bạn
+        bằng sự hiện diện và quyền năng của Ngài theo như mạng lệnh (Ê-phê-sô 5:18)
+        và lời hứa của Ngài (1 Giăng 5:14, 15).
+      969dae75-22ac-476d-a662-6f3858cc12fe: satisfied_diagram_03.png
+      7e6b0467-6ab2-4231-a233-be8299667e17: Bước đi trong Thánh Linh từng giây từng
+        phút là một lối sống. Điều này có nghĩa là nương dựa nơi Đức Thánh Linh để
+        tận hưởng nguồn tài nguyên vô tận của Ngài như một lối sống của chúng ta.
+      61343899-7cb0-4202-8a5e-fb5b40696141: 'Vậy tôi nói rằng: Hãy bước đi theo Thánh
+        Linh, chớ hề làm trọn những điều ưa muốn của xác thịt…Nếu chúng ta nhờ Thánh
+        Linh mà sống, thì cũng hãy bước theo Thánh Linh vậy. (Ga-la-ti 5:16, 25)'
+      f3803aae-3a90-4636-b56c-0f9e97ce670e: "Đức Tin (sự tin cậy nơi Đức Chúa Trời
+        và lời hứa của Ngài) là cách duy nhất để một Cơ Đốc Nhân có thể sống bởi Thánh
+        Linh."
+      f05d29b9-0831-47e7-a550-ea6849d1902c: Thở Ra...
+      dce3ce01-daf0-4f58-9db9-e8efdd44892d: Hô Hấp Thuộc Linh...
+      a73de09d-73f6-4866-a0b7-b3ff61d847a1: Nhờ bước đi trong Thánh Linh, chúng ta
+        kinh nghiệm sự mật thiết với Đức Chúa Trời mỗi lúc càng thêm và tận hưởng
+        tất cả những gì Ngài dành sẵn cho chúng ta.
+      762387bf-0b85-4962-b5b2-8a493a25f60b: "Đức Thánh Linh đầy dẫy chúng ta bằng
+        quyền năng của Ngài như thế nào?"
+      76732ef2-2bf1-447e-8c15-bf34e41dcf06: Hít Vào...
+      7db0e7cc-7948-4b0b-8116-f480c8015a6b: Chúng ta kinh nghiệm sự mật thiết...
+      9f90ed09-ddb4-4dd3-a225-3e7dd13d94fd: "Đời Sống Có Đấng Christ Làm Trung Tâm"
+      e56048dc-f8f8-458b-bde9-85ca03e3ee42: Chúng ta có khả năng...
+      8f0728a6-e931-4d73-991e-408c03aeea7c: "để sống một đời sống đẹp lòng Đức Chúa
+        Trời."
+      2171d7ee-d346-417e-ac4b-ca8ad3c9e906: Hành Trình Mật Thiết
+      ae703380-9fa2-47fc-bd72-d4ecd01b8f0c: |-
+        Xưng nhận tội lỗi của bạn ngay khi bạn nhận ra nó – đồng ý với Đức Chúa Trời về tội lỗi đó và tạ ơn Ngài về sự tha thứ của Ngài theo như 1 Giăng 1:9 và Hê-bơ-rơ 10: 1-25.
+        Xựng nhận tội lỗi đòi hỏi phải ăn năn – sự thay đổi trong thái độ và hành động.
+      750195c7-587d-4e6f-af81-f383b5fc0016: "...là bức tranh ngôn từ đầy sức mạnh
+        có thể giúp bạn kinh nghiệm sự nương dựa nơi Đức Thánh Linh từng giây từng
+        phút."
+      54969da5-4168-43df-be20-9818641d4c6a: Nhưng trái của Thánh Linh, ấy là lòng
+        yêu thương, sự vui mừng, bình an, nhịn nhục, nhân từ, hiền lành, trung tín,
+        mềm mại, tiết độ. (Ga-la-ti 5:22,23)
     page_5:
-      title: Hai vòng tròn dưới đây tượng trưng cho hai loại đời sống
-      filename: bb860152-e0bc-4513-a201-0472fe2deb7f
-      001f5c24-aabd-483b-ab6c-b9e064a09375: Chúa Cứu Thế ở bên ngoài đời sống.
-      8b7f7645-fb10-4e50-8986-cd88503d2e67: Bạn muốn vòng tròn nào tượng trưng cho
-        đời sống của mình?
-      f45a6a36-dd42-468a-9dbb-f704788a806d: o -  Những sở thích ở dưới sự dẫn dắt
-        của Chúa. Kết quả là hòa hợp với chương trình của Chúa.
-      24b57ef6-b963-4b44-ac98-4f1af8f82d55: s -  Bản ngã đầu phục Chúa Cứu Thế
-      f4d5bc34-ad41-415b-af49-0e1a8d9529e1: "Đời sống do Chúa Cứu Thế làm chủ"
-      01d03eb0-56f2-488e-abb2-c688cea52cf1: "Đời sống do bản ngã làm chủ"
-      f65b2688-f83a-4121-8c82-57f9e889586b: HAI VÒNG TRÒN DƯỚI ĐÂY TƯỢNG TRƯNG CHO
-        HAI LOẠI ĐỜI SỐNG.
-      f5322d88-80e2-4da9-8ae3-6af2f464a30d: Vòng tròn nào đang tượng trưng cho đời
-        sống bạn?
-      b5c91ec7-6c1b-4090-83fb-ac1e07590101: s - Bản ngã (tức là cái tôi) ngự trên
-        ngai lòng.
-      db583108-9103-4819-b351-8bffb74bba8c: "† - Chúa Cứu Thế ngự trong đời sống và
-        trên ngai lòng."
-      8906846a-09d9-4cd3-83fd-879d59e20b62: Những sở thích dưới quyền điều khiển của
-        bản ngã. Kết quả thường là hỗn loạn và thất vọng.
-      c0775670-8920-4b66-8cc9-c4a6bc87656d: Phần sau đây giải thích cho bạn biết cách
-        tiếp nhận Chúa Cứu Thế ...
+      title: Sự Hiện Diện Ban Quyền Năng
+      filename: 9cab226a-0df6-4d01-9c61-a487673f1c05
+      f9b99750-f8a9-4cea-8629-4ca0f235ccf0: 3. Tôi có thành thật khao khát được Đức
+        Thánh Linh điều khiển và ban quyền năng hay không? (Giăng 7:37-39)
+      44e85f5c-fcaa-401b-8d91-ffbb57be4e58: Chúng ta được đầy dẫy Đức Thánh Linh bằng
+        đức tin, giúp chúng ta có thể kinh nghiệm được sự thân mật với Đức Chúa Trời
+        và tận hưởng tất cả những gì Ngài dành sẵn cho chúng ta.
+      ac4c13ef-2d9e-4ef2-bd43-1a8d1e0a2014: Thực chất của đời sống Cơ Đốc Nhân là
+        những gì Đức Chúa Trời làm trong và qua chúng ta, không phải là những gì chúng
+        ta làm cho Đức Chúa Trời. Sự sống của Đấng Christ được sản sinh trong tín
+        hữu thông qua quyền năng của Đức Thánh Linh. Được đầy dẫy Đức Thánh Linh là
+        được Ngài dẫn dắt và ban quyền năng.
+      70dfee15-929a-4e29-8dc8-4b3953e8f0ed: |-
+        1. Bây giờ tôi có sẵn sàng để xưng nhận tội lỗi của tôi không? (1 Giăng 1:9) Tội lỗi làm buồn Thánh Linh của Đức Chúa Trời. (Ê-phê-sô 4:30)
+        Nhưng Đức Chúa Trời với tình yêu của Ngài đã tha thứ tất cả tội lỗi của bạn - tội quá khứ, hiện tại và tương lai - bởi vì Đấng Christ đã chết thay cho bạn.
+      7797bdce-943d-4bae-bb89-49805235eb5c: "...sự đầy dẫy Thánh Linh theo như mạng
+        lệnh và lời hứa của Ngài:"
+      28700be5-6a75-41cb-bd90-8f4d969c06f5: "...quyền năng của Đức Chúa Trời thông
+        qua Đức Thánh Linh."
+      d70fdc91-1e3f-4572-945d-4fd178e3ae6c: Sự Hiện Diện Đầy Quyền Năng
+      114dd44f-c151-421f-96f3-4f9f79de679f: 1. Bây giờ tôi có sẵn sàng trao quyền
+        khiển đời sống mình cho Chúa Cứu Thế Jesus không? (Rô-ma 12:1,2)
+      df11e7e7-ad66-4e68-b4d7-e5583ecd7f4b: Tôi cầu xin Ngài, tùy sự phong phú của
+        vinh quang Ngài, ban cho anh em năng lực bởi Thánh Linh Ngài, để con người
+        bên trong của anh em trở nên mạnh mẽ, và bởi đức tin, Đấng Christ ngự trong
+        lòng anh em. (Ê-phê-sô 3:16, 17)
+      1896d705-2cee-498b-92ae-e2d8d4700e00: Cách cầu nguyện để được đầy dẫy Đức Thánh
+        Linh...
+      de604537-b463-4504-9b01-0a1faeecfb78: Bởi đức tin, hãy công bố...
+      a1a719a6-7d23-4da8-a180-6a91b5d37741: Bởi đức tin, chúng ta kinh nghiệm...
+      009fc75e-1c0c-4277-93e8-ba1d1ab577d5: "Đức Chúa Trời TRUYỀN LỆNH cho chúng ta
+        phải đầy dẫy Đức Thánh Linh."
+      a9407d04-e046-4dd2-af24-ff3b543332b2: "Đức Chúa Trời HỨA rằng Ngài sẽ luôn luôn
+        nhậm lời cầu nguyện khi chúng ta cầu xin theo ý Ngài."
+      b4592c25-9a30-4fee-94b5-52f944477efe: "...để hỏi chính mình:"
+      03fe26e8-78c4-484c-aeb4-62192fe14853: '"...nhưng phải đầy dẫy Đức Thánh Linh."
+        (Ê-phê-sô 5:18)'
+      f2b405d1-53ce-4152-9b11-b23a327c811b: '"Đây là sự đảm bảo mà chúng ta có được
+        trước mặt Ngài: Ấy là nếu chúng ta cầu xin điều gì theo ý muốn Ngài, thì Ngài
+        nghe chúng ta. Và nếu chúng ta biết Ngài nghe bất cứ điều gì chúng ta cầu
+        xin, thì chúng ta biết chúng ta đã nhận được điều mình cầu xin rồi." (1 Giăng
+        5:14, 15)'
+      3ea26042-4cda-4986-9435-dd96e3e13604: Ba câu hỏi quan trọng...
     page_6:
-      title: Bạn có thể lấy đức tin tiếp nhận Chúa Cứu Thế ngay bây giờ bằng LỜI CẦU
-        NGUYỆN.
-      filename: 29d816d1-8816-4479-a347-1432ed893c30
-      9087f3c4-35c7-47d0-b621-cbc835b014be: 'Sau đây là lời cầu nguyện đề nghị:'
-      62b35212-dc4e-4e2e-a7ac-09a68537c6f5: "(Cầu nguyện là nói chuyện với Đức Chúa
-        Trời)"
-      d7df22f4-9678-4ee7-9c67-e7e5fc306112: "Đức Chúa Trời biết rõ tấm lòng bạn. Ngài
-        quan tâm đến thái độ của lòng bạn hơn là những lời nói của bạn."
-      5ec11b23-302b-4c55-90d5-ed810f297757: "“Kính lạy Chúa Jesus,\n\nCon cần Ngài.
-        Con tạ ơn Chúa vì Ngài đã chết thay trên thập tự giá vì tội của con. Con xin
-        mở cửa lòng con tiếp nhận Ngài làm Cứu Chúa và Chủ của con. \n                \nCon
-        cảm ơn Ngài đã tha tội cho con và ban cho con sự sống đời đời. Xin Chúa ngự
-        trên ngai của đời sống con. Xin biến đổi con trở nên người Chúa muốn. Amen."
-      b4334eea-9d8c-484f-b919-7fed2d5fc635: "Chúa Cứu Thế sẽ ngự vào đời sống của
-        bạn ngay \nnhư Lời Ngài đã hứa."
-      ba926c37-e783-42bd-868a-7894c6c54088: Lời cầu nguyện trên đây có bày tỏ nguyện
-        vọng của lòng bạn không? Nếu có, ngay bây giờ xin bạn hãy thành khẩn lặp lại
-        lời cầu nguyện như trên.
-      e8a4256e-ce69-42d2-b9f9-9d54c90e762a: BẠN CÓ THỂ LẤY ĐỨC TIN TIẾP NHẬN CHÚA
-        CỨU THẾ NGAY BÂY GIỜ BẰNG LỜI CẦU NGUYỆN
-    page_7:
-      title: Làm thế nào bạn có thể biết chắc rằng tất cả những điều này thực sự đã
-        xảy ra?
-      filename: 2dc9a76d-1fe8-4e35-97d0-ae0cb59bc05b
-      0b6ed82c-75e3-4597-a8b5-94958dd9bb89: LÀM THẾ NÀO ĐỂ BIẾT RẰNG CHÚA CỨU THẾ
-        JESUS ĐANG NGỰ TRỊ TRONG ĐỜI SỐNG BẠN
-      ed474402-3427-48f6-920d-39a798dfcd58: "Đừng nương dựa vào CẢM GIÁC"
-      15912814-cb40-467a-b4ae-354c367a273a: "Theo lời Chúa hứa trong Khải huyền 3:20
-        thì bây giờ Chúa Cứu Thế đang ở đâu trong mối liên hệ với bạn?\n                \nChúa
-        Cứu Thế đã phán rằng Ngài sẽ ngự vào đời sống bạn, Ngài có hứa sai với bạn
-        không?\n                \nNhư vậy làm thế nào để bạn biết rằng Đức Chúa Trời
-        đã nhậm lời cầu nguyện của bạn? (Sự đáng tin cậy của chính Đức Chúa Trời và
-        Lời Ngài.)"
-      994db774-8810-46ca-bee3-e817c4c249cd: '"Đây là lời chứng: Đức Chúa Trời đã ban
-        sự sống đời đời cho chúng ta, và sự sống nầy ở trong Con Ngài. Ai có Đức Chúa
-        Con thì có sự sống; ai không có Con Đức Chúa Trời thì không có sự sống. Tôi
-        viết điều nầy cho anh em là những người đã tin đến danh Con Đức Chúa Trời,
-        để anh em biết mình có sự sống đời đời." (1 Giăng 5: 11-13)'
-      d8911e6a-8df6-4c5b-96c5-527905f1db22: 'Hãy thường xuyên tạ ơn Chúa Cứu Thế vì
-        Ngài đang ngự trong đời sống bạn và Ngài không bao giờ lìa bỏ bạn. Đức Chúa
-        Trời phán: “Ta không bao giờ lìa con, chẳng bao giờ bỏ con!” (Hê-bơ-rơ 13:5).
-        Ngay chính giờ phút bạn căn cứ trên lời hứa của Chúa để mời Ngài ngự vào lòng
-        bạn thì bạn có thể biết chắc rằng Chúa Cứu Thế đang sống trong bạn và bạn
-        đang có sự sống đời đời. Ngài không lừa dối bạn đâu.'
-      6128a2c8-82c6-4dc8-bf8c-e378c3851410: "... cho những ai tiếp nhận Chúa Cứu Thế
-        Jesus."
-      652832bd-f9ae-4fb7-aaf4-16ef584d2cdd: "[ Sự Kiện ] - [Đức Tin ] - [ Cảm Giác
-        ]"
-      3002cd11-c590-4790-981e-cee28a661270: Lời hứa của Đức Chúa Trời, Kinh Thánh
-        mới là uy quyền của chúng ta chứ không phải là cảm giác. Cơ Đốc Nhân (người
-        tin Chúa Cứu Thế Jesus) sống bởi đức tin (tin cậy) nơi sự thành tín của chính
-        Đức Chúa Trời và Lời Ngài. Mô hình đoàn tàu lửa dưới đây minh họa mối tương
-        quan giữa sự kiện (Đức Chúa Trời và Lời Ngài), đức tin (sự tin cậy của chúng
-        ta nơi Đức Chúa Trời và Lời Ngài) và cảm giác (kết quả của đức tin và sự vâng
-        lời của chúng ta) (Đọc Giăng 14:21).
-      2a3b40b5-2249-4f0b-9aa5-ac2f83c7ab46: Kinh Thánh hứa ban SỰ SỐNG ĐỜI ĐỜI ...
-      84999bcf-a404-436e-9454-5c70ebb88c84: Còn về cảm giác thì sao...?
-      7733f716-949b-405f-8de9-7771b9320068: "Đầu máy tàu lửa cứ chạy mặc dù có hay
-        không có toa hành khách. Tuy nhiên, nếu cố gắng dùng toa hành khách để đẩy
-        con tàu chạy thì thật là vô ích. Cũng vậy, là Cơ Đốc Nhân, chúng ta không
+      title: Bước Ngoặt
+      filename: a780910c-0fee-4778-a7ab-535cd1745d08
+      3629b7f7-7ea7-4cf7-a3cc-0f7a0c56644d: Tin cậy nơi sự kiện, không phải nơi cảm
+        giác
+      81cb4f6c-5ad8-4752-aced-ace06052db69: Lời cầu nguyện chân thành là cách để bày
+        tỏ đức tin của chúng ta.
+      8bb2c274-f56e-4390-9315-e5993dfee529: Lời cầu nguyện này có bày tỏ nguyện vọng
+        của lòng bạn không? Nếu có, bạn hãy cầu nguyện ngay bây giờ và tin cậy Đức
+        Chúa Trời đầy dẫy Thánh Linh Ngài trong bạn.
+      5d35e2dc-526b-4d74-b3b3-a3d5eb7ce7e9: "Đừng nương dựa nơi cảm giác"
+      bb0d27de-90e6-4e49-9b82-0892d7e0d44e: Cũng vậy, là Cơ Đốc Nhân, chúng ta không
         nên nương dựa vào cảm giác hay cảm xúc. Nhưng hãy đặt đức tin (lòng tin cậy)
-        của chúng ta nơi sự thành tín của Đức Chúa Trời và những lời hứa của Ngài."
-      666b553f-d0f5-437e-a0fa-b421a724707c: Bạn đã mời Chúa Cứu Thế Jesus ngự vào
-        đời sống bạn chưa?
-    page_8:
-      title: 'Nếu bạn đã mở cửa lòng tiếp nhận Chúa Jesus làm Cứu Chúa và Chủ, có
-        nhiều việc lạ lùng đã xảy ra cho bạn, bao gồm những việc sau đây:'
-      filename: d72c3fb2-f4b2-4330-af7c-af6f1866d559
-      ce4d73ae-eae9-4ad1-b75f-5cf467bf0b1b: "- Chúa Cứu Thế đã ngự vào đời sống bạn"
-      75179d85-6fd4-4470-b988-63a46b3c5a41: "(Cô-lô-se 1:14)"
-      8ce2b3fa-848d-457c-a447-98a6181ffa67: "...theo đúng mục đích mà Đức Chúa Trời
-        tạo dựng nên bạn."
-      628af499-ee4d-41f4-ad13-2b7404128b02: 'Ngay lúc bạn mở lòng tiếp nhận Chúa Cứu
-        Thế Jesus bằng đức tin như một hành động của ý chí, có nhiều việc lạ lùng
-        xảy ra cho bạn, bao gồm những việc sau đây:'
-      43e2d065-da26-4aab-845c-9218d0783f36: "- Bạn đã có sự sống đời đời"
-      bdd7d7ed-d61f-4f66-baee-e0596a5084c0: "(Giăng 1:12)"
-      5d752762-ccd9-4bff-b5af-50dc164c27e2: BÂY GIỜ BẠN ĐÃ TIẾP NHẬN CHÚA CỨU THẾ
-        JESUS
-      18787c88-3b76-4cf9-a836-393bee4d1e0f: Bạn có thể tưởng tượng ...
-      581a6b5d-6674-404d-979b-74f35da8b7c4: "(Giăng 5:24)"
-      8e5c37e2-50ad-4175-aeff-be8cf80232cb: một việc nào kỳ diệu hơn việc bạn tiếp
-        nhận Chúa Cứu Thế Jesus hay không? Bạn có muốn dâng lên Đức Chúa Trời lời
-        tạ ơn về những điều Ngài đã làm cho bạn không? Chính hành động tạ ơn Đức Chúa
-        Trời biểu lộ đức tin của bạn.
-      ea3dba44-0a91-4b06-b7a8-a3b6323339da: "Để tận hưởng sự sống mới \nđến mức đầy
-        trọn nhất..."
-      f1cdce10-eae2-45b6-9e1b-f025e32811d7: "(Giăng 10:10; 2 Cô-rinh-tô 5:17; 1 Tê-sa-lô-ni-ca
-        5:18)"
-      441ed36e-4ae1-483b-b367-c17f7a6adb4d: "- Bạn đã trở thành con của Đức Chúa Trời"
-      ce80b468-1f47-405e-b4df-b3f17d3c5917: "(Khải huyền 3:20 và Cô-lô-se 1:27)"
-      b78fe8ac-800d-4c9c-8f58-720685ad52c5: "- Mọi tội lỗi của bạn đã được tha thứ"
-      c8367e87-901c-4196-bef7-5073bbd350f0: "- Bạn đã bắt đầu một cuộc hành trình
-        thú vị..."
-    page_9:
-      title: Cách Để Tăng Trưởng Khi Làm Môn Đồ Chúa Jesus
-      filename: e4857861-c1f1-442d-bf50-1f82cede1eac
-      6f9899a7-1198-4146-a3da-85b7af126829: Nên bắt đầu đọc sách Tin Lành Giăng.
-      6371b963-8350-425a-b4db-4b29b4809eab: NHỮNG ĐỀ NGHỊ GIÚP CƠ ĐỐC NHÂN TĂNG TRƯỞNG
-      c625a988-dd7d-44ae-af59-9e4baed5677c: "(Giăng 15:7)"
-      6e5ffc21-1b31-44a9-aba9-973d875e6d6b: Vâng phục ...
-      9c196e7c-7cfe-4b3a-892d-3db23bb024a4: Lời Chúa trong Kinh Thánh Hê-bơ-rơ 10:25
-        khuyên chúng ta “đừng bỏ sự nhóm họp…” Nhiều thanh củi nhóm lại trong lò lửa
-        sẽ cháy sáng thêm, nhưng nếu lấy một thanh ra khỏi lò thì nó sẽ tàn. Mối liên
-        hệ giữa bạn với các Cơ Đốc Nhân khác cũng vậy.
-      2c3474ae-287b-4467-b904-b67fa0375fc1: Chúa Thánh Linh -
-      913b2c56-7095-4048-a960-7d378ded7b07: "Đọc ..."
-      5f832e24-e77c-4f36-be13-d0eaebda2a84: Vâng phục Đức Chúa Trời từng giây từng
-        phút.
-      e5687d09-9a26-4195-8855-5be15b04665e: "Đến ..."
-      980518ae-87f0-48cf-9548-fba01ffdf721: "(xem Công vụ 17:11)"
-      9094027f-4dbc-4fd0-928e-934e71463dbe: Tin cậy ...
-      b248716d-7246-45e2-b3a4-ad2f4a5c32e8: Tin cậy Đức Chúa Trời trong mọi chi tiết
-        của đời sống bạn.
-      93f73e0d-9e71-4be1-a640-c8a4043afcff: "(xem Giăng 14:21)"
-      7d5e8f33-b4ba-4d4e-9f01-729a4692729a: "(xem Ga-la-ti 5:16, 17 và Công vụ 1:8)"
-      f9391851-9dd4-4ee7-9721-206aa0c5863d: "(xem Ma-thi-ơ 4:19 và Giăng 15:8)"
-      bf9cefbd-6010-4a4d-9803-717737671c45: Hãy để Chúa Thánh Linh điều khiển và ban
-        quyền năng cho đời sống và sự làm chứng hằng ngày của bạn.
-      15bbe563-7469-4f41-900a-dd1e438b034b: Sự nhóm lại với một Hội Thánh Chân Chính
-        Đầy Ơn
-      1318c4c5-f382-4592-8194-e4c439422b6f: Làm chứng về Chúa Cứu Thế bằng chính nếp
-        sống và lời nói của bạn.
-      46d0a51a-f2d1-4e3a-8eac-6be571dd8547: "Sự tăng trưởng thuộc linh là kết quả
-        của việc đặt lòng tin cậy nơi Chúa Cứu Thế Jesus. “...Người công chính sẽ
-        sống bởi đức tin.” (Ga-la-ti 3:11). \n            \nMột đời sống đức tin sẽ
-        giúp bạn có thể tin cậy Đức Chúa Trời mỗi lúc càng hơn trong mọi chi tiết
-        của đời sống bạn, đồng thời giúp bạn thực hành những điều sau đây:"
-      88ec181e-a31f-4fe5-b75a-324dac335249: "(xem 1 Phi-e-rơ 5:7)"
-      141466f7-fb7f-44e3-90a6-b98978615965: Làm chứng ...
-      e735a5c3-f155-4255-82d6-dce217ad1d85: Nếu bạn chưa tham gia một hội thánh nào,
-        xin đừng chờ đợi được mời. Hãy chủ động đến một hội thánh gần nhà bạn nếu
-        hội thánh đó tôn thờ Chúa Cứu Thế Jesus và rao giảng Lời Chúa trong Kinh Thánh.
-        Hãy bắt đầu ngay từ tuần này và lên kế hoạch đi nhóm đều đặn hàng tuần.
-      90bef6b5-c6f8-4a3d-ab1a-9fbd75660743: "Đến với Đức Chúa Trời bằng sự cầu nguyện
-        hằng ngày"
-      7561abb4-d54b-4bd4-96a6-bd6e7d102489: "Đọc Lời Chúa mỗi ngày."
-    page_10:
-      title: Những Tài Liệu Đặc Biệt
-      filename: 3a261bfa-65bf-4ce4-8e40-71231abefbbe
-      5e21ea17-05e2-4347-ab7c-01da48a90ed0: www.whoisJesus-really.com
-      b3c11ca8-82f0-4176-8000-a73f80ab3303: www.startingwithGod.com
-      2dfaef4c-0ce9-4152-b4b3-947af7dceea3: www.growinginChrist.com
-      80356d92-6553-4291-9464-c7542bbbbb30: 'Nếu bạn đã tin nhận Chúa Cứu Thế một
-        cách cá nhân qua sự trình bày Tin Lành này hoặc muốn được giúp đỡ để hiểu
-        rõ hơn về Chúa Cứu Thế, đây là những trang web bạn cần:'
-      ae643d40-90ac-44d3-bba0-d27c285508e5: www.everystudent.com
-      b6949652-efbd-447f-aa62-fd9cb87d2e46: NHỮNG TÀI LIỆU ĐẶC BIỆT DÀNH CHO SỰ TĂNG
-        TRƯỞNG
+        của chúng ta nơi sự đáng tin cậy của Đức Chúa Trời và những lời hứa của Ngài.
+      82594133-e1aa-49bc-b1f9-49ed6aa19143: Lạy Cha kính yêu, con cần Ngài. Con thừa
+        nhận rằng con đã phạm tội với Ngài vì con đã tự điều khiển đời sống mình.
+        Con cảm ơn vì Ngài đã tha thứ tội lỗi của con thông qua sự chết của Đấng Christ
+        trên thập tự giá vì con. Bây giờ con xin mời Đấng Christ tái điều khiển ngai
+        lòng của đời con. Xin hãy đầy dẫy Thánh Linh cho con theo như mạng lệnh của
+        Ngài truyền con phải đầy dẫy và lời hứa Ngài trong Kinh Thánh rằng Ngài sẽ
+        nhậm lời con khi con lấy đức tin cầu xin theo ý Ngài. Để bày tỏ đức tin của
+        con, bây giờ con xin cảm tạ Chúa vì Ngài đang đầy dẫy Đức Thánh Linh trong
+        con và đang điều khiển đời sống con. Nhân Danh Chúa Jesus Christ. Amen.
+      9bec6779-5db6-4d2c-b7ae-863439079c97: Lời hứa của Đức Chúa Trời, Kinh Thánh
+        mới là uy quyền của chúng ta chứ không phải là cảm giác. Cơ Đốc Nhân sống
+        bởi đức tin (tin cậy) nơi sự thành tín của chính Đức Chúa Trời và Lời Ngài.
+      60178e6a-473c-43c6-948a-9ff550e3ee8d: Làm thế nào để biết...
+      ba9b9748-6af2-4b79-930e-4a9bc2e6351f: "- Bạn có biết rằng bây giờ bạn đang được
+        đầy dẫy Đức Thánh Linh không?"
+      506d2e46-577c-4cf1-92c8-957152126a64: "Để đi lại bằng máy bay, chúng ta phải
+        đặt đức tin vào sự đáng tin cậy của chiếc máy bay và người phi công điều khiển
+        máy bay. Cảm giác của chúng ta tự tin hay lo sợ không ảnh hưởng đến chiếc
+        máy bay đang chuyên chở chúng ta, mặc dù cảm giác đó ảnh hưởng đến mức độ
+        chúng ta tận hưởng chuyến đi."
+      9f42b753-db57-4a8f-992e-03a6fdb41cb0: Việc đi máy bay có thể minh họa mối quan
+        hệ giữa sự kiện (Đức Chúa Trời và Lời Ngài), đức tin (sự tin cậy của chúng
+        ta nơi Đức Chúa Trời và Lời Ngài), và cảm xúc (kết quả của đức tin và sự vâng
+        lời của chúng ta). (Giăng 14:21)
+      7f75f499-eee1-4fbb-b710-45a69090ecc3: Chúng ta được đầy dẫy Đức Thánh Linh chỉ
+        bởi đức tin.
+      9b84b400-7b9e-46ac-87c1-0b461afe4be7: "- Bạn có cầu xin Đức Chúa Trời đầy dẫy
+        Đức Thánh Linh trong bạn không?"
+      337761fe-a53d-45f6-9671-7730fc6b22c9: 'Lời cầu nguyện đề nghị:'
+      48666f77-a858-4c91-b7e6-8bff7505190a: "- Căn cứ trên uy quyền nào? (căn cứ trên
+        sự đáng tin cậy của chính Đức Chúa Trời và Lời Ngài: Hê-bơ-rơ 11:6; Rô-ma
+        14:22, 23.)"
+      461b6b59-7a42-4909-9c1b-4b27b3d089aa: 'Lời nhắc nhở quan trọng:'
+      42678b4c-638c-4bec-b79b-1fd986687f4f: Bước Ngoặt
+      1bb84af2-b3ad-4c74-b41d-6ee180624873: Bây giờ bạn đang được đầy dẫy Đức Thánh
+        Linh.
+      8eb0d1e4-28b0-4197-b91f-0a17f1783efb: "...rằng bạn đang được đầy dẫy Đức Thánh
+        Linh?"
+      668c73bf-960e-43c7-8d44-098435d4e3ea: Khi bạn tiếp tục nương dựa nơi Thánh Linh
+        của Đức Chúa Trời từng giây từng phút, bạn sẽ kinh nghiệm và vui hưởng sự
+        thân mật với Đức Chúa Trời và tất cả những gì Ngài dành cho bạn – một đời
+        sống thỏa mãn và thực sự dư dật.
+    page_7:
+      title: Bây giờ bạn đang được đầy dẫy...
+      filename: 29624420-4a33-42f0-97bd-0e4758d5f62f
+      d2f2a155-10f6-4ab6-9e91-0da19a7df2f4: |-
+        - Để làm vinh hiển Đấng Christ bằng đời sống của bạn.
+        (Giăng 16:14)
+      65b67b82-8fd8-4f2b-8f9d-313b2e836f75: Tạ ơn Đức Chúa Trời...
+      5c1304fd-0833-4120-b892-581edc3f6e6a: http://www.cru.org/training-and-growth/classics/index.htm
+      7741d4c6-433c-492c-9eee-473ee301b116: 'Nếu bạn muốn có thêm nguồn tài liệu về
+        Đức Thánh Linh, xin vui lòng truy cập vào trang:'
+      7b3d2b5e-478f-4be0-be58-11e357ba2993: |-
+        - Để tăng trưởng trong sự hiểu biết Đức Chúa Trời và Lời Ngài.
+        (1 Cô-rinh-tô 2:14,15)
+      976ef295-46ce-4c79-afa7-0c6e141eda35: Sự Khởi Đầu Mới
+      1639f0d8-571d-472d-a15a-4fbe00bc7330: 'Hãy nhớ lời hứa của Chúa Jesus:'
+      e2a274bf-1107-4bf1-a355-6b2883c99e35: 'Bây giờ bạn đang được đầy dẫy Đức Thánh
+        Linh:'
+      7dd80a72-7ebf-41f7-9387-2bf3a7650786: |-
+        "Nhưng khi Đức Thánh Linh giáng trên các con, thì các con sẽ nhận lấy quyền năng và làm chứng nhân cho Ta tại thành Giê-ru-sa-lem, cả xứ Giu-đê, xứ Sa-ma-ri, cho đến cùng trái đất.”
+        (Công vụ 1:8)"
+      8cc0562b-c4e4-4db2-bb10-ed6f5440632c: "...vì Đức Thánh Linh sẽ ban cho bạn quyền
+        năng:"
+      4f7ddd54-0d79-436d-af0d-8730b03b2015: |-
+        - Để sống đời sống đẹp lòng Đức Chúa Trời.
+        (Ga-la-ti 5:16-23)
   kgp:
     title: Biết Đức Chúa Trời Một Cách Cá Nhân
     page_0:
@@ -634,284 +613,305 @@ vi:
       99627019-e11a-4678-bc23-0cfcd5a6ed62: NHỮNG TRANG WED HỖ TRỢ BẠN
       1065a75a-70fa-469e-a978-0d2a93d9c0d2: Bạn cần được giúp đỡ về Kinh Thánh?
       f1225cff-2834-486a-a93e-b8dd4efd7a5c: www.startingwithgod.com
-  satisfied:
-    title: Thỏa Mãn?
+  fourlaws:
+    title: Bốn Định Luật Thuộc Linh
     page_0:
       title: Trang Chủ
-      filename: 62fb1e4d-8f09-431c-93d3-2f905baa3f0f
-      a3049b50-0a42-46f1-a286-179c8dea2ee6: satisfied?
+      filename: ee08d075-e99b-4aee-90ae-dbcaf8a63f2b
+      404edd90-1aff-4bb9-83a2-f0d15c46a6e8: CHƯA?
+      d4b40701-5929-498b-b96e-cc6796d76771: Vũ trụ được chi phối bởi những định luật
+        vật lý, cũng vậy có những định luật thuộc linh chi phối mối quan hệ giữa bạn
+        và Đức Chúa Trời.
+      be73de97-89fe-4490-a686-220546e2592c: BỐN ĐỊNH LUẬT THUỘC LINH
+      da76705f-187d-4083-8677-593a1b7c58fd: Bạn đã từng nghe về
     page_1:
-      title: Thỏa Mãn?
-      filename: a382ced6-d1af-41ab-b001-34fdf48f59fb
-      61d05ed8-8f4a-4767-bf2b-1a4065d5a71e: Chúa Jesus muốn nói điều gì?
-      7a7255e6-74cb-46c3-8847-df73976a1a0f: "..rằng Thánh Linh của Đức Chúa Trời sẽ
-        làm thỏa mãn cơn khát hay niềm khát khao sâu xa nhất của tất cả những ai tin
-        Chúa Cứu Thế Jesus."
-      734c56ea-ffc1-4a0a-b298-4e1d635b7708: Đức Chúa Jesus phán rằng "Nếu người nào
-        khát, hãy đến với Ta mà uống. Người nào tin Ta, thì những sông nước sự sống
-        sẽ tuôn tràn từ lòng mình, đúng như Kinh Thánh đã nói.” (Giăng 7:37, 38)
-      c97fec59-c592-4fe1-9cd1-4c66d4cdd1f6: Bạn có mong muốn nhiều hơn không?
-      645af94c-eee7-4096-bbef-b4ac93f4e1fe: Bạn sẽ dùng từ nào để mô tả kinh nghiệm
-        hiện tại của bạn là Cơ-Đốc-Nhân?
-      a8fc5a97-efb6-42c7-a408-9ded8b20fdbe: '"Ngài nói điều nầy chỉ về Thánh Linh
-        mà những người tin Ngài sẽ nhận được; bởi Thánh Linh chưa giáng xuống, vì
-        Đức Chúa Giê-xu chưa được tôn vinh." (Giăng 7:39)'
-      c01db8f9-37be-4f6b-9a0c-a10d5f2d56ec: Thỏa Mãn?
-      c9315a8e-c6b4-4396-809c-fc7036fd8aae: |-
-        Tăng trưởng | Nãn lòng
-        Thất vọng | Mãn nguyện
-        Tha thứ | Bị sa lầy | tranh đấu
-        Vui mừng | Thất bại | Hứng thú
-        Trồi sụt | Trống rỗng
-        Chán nãn| Bổn phận
-        Thân mật | Tầm thường
-        Đau đớn | Năng động | Mặc cảm tội lỗi
-        Đầy sức sống | Tàm tạm | Những điều khác?
-      35ac14b0-fc1b-4598-b233-74c1cd37187d: Giăng, một trước giả Kinh Thánh, tiếp
-        tục giải thích,
-      be5e8347-5b45-4167-9e25-5bd1c0479cc9: Chúa Jesus hứa...
-      c41367b1-591b-48c1-8940-f8d7c619009c: Tuy nhiên, nhiều Cơ Đốc Nhân không hiểu
-        Đức Thánh Linh hay không kinh nghiệm Ngài trong đời sống hằng ngày.
-      3c1f29e9-25ee-49ef-96f5-eec2ca101a6b: Những nguyên tắc sau đây sẽ giúp bạn hiểu
-        và tận hưởng Thánh Linh của Đức Chúa Trời.
+      title: 1 Đức Chúa Trời YÊU THƯƠNG bạn và đã hoạch định một CHƯƠNG TRÌNH kỳ diệu
+        cho đời sống bạn.
+      filename: 7d219b11-776d-4df8-a838-90a7e7958266
+      f2abcea4-074e-4b1a-9c80-651adab20f1b: CHƯƠNG TRÌNH của Đức Chúa Trời
+      af82e3fd-b785-4363-9349-21a3e9f63645: TÌNH YÊU THƯƠNG của Đức Chúa Trời
+      abdb2fc7-049c-4c24-9853-1ad59ac55e64: "ĐỨC CHÚA TRỜI YÊU THƯƠNG BẠN VÀ ĐÃ HOẠCH
+        ĐỊNH MỘT CHƯƠNG TRÌNH KỲ DIỆU CHO ĐỜI SỐNG BẠN."
+      1148c3e0-879f-4ba3-96a8-d4b48adf64b0: "(Giăng 3:16)"
+      681e6951-6be7-4956-ad03-b499d8415575: "(Giăng 10:10)"
+      01278aca-0fc9-4bb4-bb50-a387d3b0fd21: '"Chúa Cứu Thế Jesus phán rằng: “…Ta đến
+        để cho nhân loại được sự sống, và được sự sống dư dật” [nghĩa là được sự sống
+        sung mãn và đầy ý nghĩa]."'
+      8602c78c-1795-4857-9195-026f69badf19: '"Vì Đức Chúa Trời yêu thương nhân loại,
+        đến nỗi đã ban Con Một của Ngài (Chúa Cứu Thế Jesus), để ai tin Con ấy không
+        bị hư mất mà được sự sống đời đời."'
+      19d44e41-72ca-48f2-acad-c68b383a86e0: "Tại sao nhiều người \nvẫn chưa kinh nghiệm
+        được\nsự sống sung mãn và đầy ý nghĩa? Tại vì…"
     page_2:
-      title: Món Quà Thiên Thượng
-      filename: e293b8b9-7c9e-4299-a48f-a6fbfeeadbff
-      42c03470-bc54-4e96-98eb-475bf8bf2b03: "Đức Chúa Trời đã ban Thánh Linh Ngài
-        cho chúng ta để chúng ta có thể kinh nghiệm sự thân mật với Ngài và tận hưởng
-        tất cả những gì Ngài dành sẵn cho chúng ta."
-      7df4495b-3f37-4e30-b5df-21772c5aebef: '"người sống theo Thánh Linh chú tâm đến
-        điều Thánh Linh đẹp lòng." (Rô-ma 8:5, HĐ)'
-      27164f05-daa5-401c-ac2d-24ecdfe73b06: "...hiểu..."
-      7ef2d3f0-3908-474b-84d2-0fab8073e59e: |-
-        - Một đời sống tâm linh mới thực sự
-        (Giăng 3:1-8)
-        - Sự đảm bảo chắc chắn rằng chúng ta là con của Đức Chúa Trời (Rô-ma 8:15, 16)
-        - Tình yêu mật thiết của Đức Chúa Trời
-        (Rô-ma 5:5; Ê-phê-sô 3:18,19)
-      7e0239cf-c583-4a70-9034-0443215d36bb: satisfied_diagram_01.png
-      e8dffc68-6ad0-43da-8f41-5aaabf4f580b: "...và kinh nghiệm được tất cả những gì
-        Đức Chúa Trời ban cho chúng ta."
-      108e9d2e-6865-4b13-8b0e-79090aca8c6c: "Đức Thánh Linh là nguồn thỏa mãn sâu
-        sắc nhất của chúng ta."
-      fcee3f74-d7ee-480b-b7df-ba700fa84183: Tại sao nhiều Cơ Đốc Nhân không thỏa mãn
-        trong kinh nghiệm của họ với Đức Chúa Trời?
-      5c29963b-baf9-449c-a2d1-82c9fed5122f: "Đời Sống không có Đức Thánh Linh"
-      1d9eb041-3db8-477f-a02e-08a1a1323e76: Người không có Thánh Linh không nhận được
-        những điều từ Thánh Linh của Đức Chúa Trời, vì người ấy xem những điều nầy
-        là điên rồ, và không thể hiểu được, vì phải được phán đoán cách thuộc linh.
-        (1 Cô-rinh-tô 2:14)
-      4dae880d-34ee-450f-8743-b69a4941621e: |-
-        "Nhưng, chúng ta không nhận lấy linh của thế gian, mà là Thánh Linh từ Đức Chúa Trời, để có thể hiểu được những ân tứ Đức Chúa Trời ban cho chúng ta."
-        (1 Cô-rinh-tô 2:12)
-      829e23f2-9409-4a02-a1af-4c624ffc83f0: |-
-        Người thuộc linh suy xét mọi điều... chúng ta có tâm trí của Chúa Cứu Thế.
-        (1 Cô-rinh-tô 2:15,16)
-      e33fd2e5-df96-49ff-bd56-9de4242ed1ed: Đức Chúa Jesus phán rằng "Ta sẽ cầu xin
-        Cha, Ngài sẽ ban cho các con một Đấng An Ủi khác, để ở với các con đời đời,
-        tức là Thần Chân Lý." (Giăng 14:16,17)
-      06daebb2-36c6-4a4c-a458-7da93340d01b: Món Quà Thiên Thượng
-      c08044ea-df68-425e-b61c-8eeb350a3520: "Đức Thánh Linh giúp cho chúng ta có thể..."
-      4a943b48-0a8d-4ebd-8d8b-7c13ca0628b2: "Đời Sống Có Đức Thánh Linh"
-      e56bfff7-8e11-453d-a816-b751f0b2e156: "Đức Thánh Linh là sự hiện diện đời đời..."
-      1bce670f-3a5c-4ccd-936a-262049fac207: "...của Đức Chúa Trời với chúng ta."
-      8cf2fbc8-4585-4702-a210-56aa55691124: satisfied_diagram_01.png
+      title: 2 Loài người TỘI LỖI và bị PHÂN CÁCH với Đức Chúa Trời nên không thể
+        hiểu biết và kinh nghiệm được tình yêu thương cùng chương trình kỳ diệu của
+        Ngài dành cho đời sống mình.
+      filename: 2aa0d3fb-3c23-4d77-92af-c096ab58ce6a
+      9a4916f5-1434-48c4-87df-2e87de3b2323: Loài người TỘI LỖI
+      45d18f06-a17d-4ed2-8803-94dca1c4b080: "▲ - Đức Chúa Trời Thánh Khiết | ★ - Con
+        Người Tội Lỗi"
+      dcac979a-271a-4f7c-971a-659d7c9792e0: Biểu đồ bên đây mô tả rằng Đức Chúa Trời
+        là thánh khiết còn loài người thì tội lỗi. Một vực sâu thăm thẳm phân cách
+        hai bên. Những mũi tên chỉ về việc loài người liên tục cố gắng để vươn đến
+        cùng Đức Chúa Trời và mong muốn có được sự sống sung mãn bằng những nỗ lực
+        riêng như nếp sống đạo đức, triết lý hoặc tôn giáo, nhưng đều thất bại.
+      adffc84d-d051-405f-b453-60c064e9448f: "“Vì tiền công của tội lỗi là sự chết”
+        – tức là bị phân cách phần tâm linh khỏi Đức Chúa Trời (Rô-ma 6:23)."
+      f3a999ea-e95d-4653-99fb-f8094b720c6b: Loài người bị PHÂN CÁCH
+      e59d5be7-5b2b-465f-87de-f8cca0e542d2: "Định luật thứ ba giải thích cho chúng
+        ta biết chiếc cầu duy nhất nối liền vực sâu phân cách này…"
+      78aec617-7d69-48b4-bf83-bfa3d3ccb853: "“Vì mọi người đều đã phạm tội, thiếu
+        mất sự vinh hiển của Đức Chúa Trời.” (Rô-ma 3:23)."
+      e3986ec1-8a59-4a9a-bcb4-a6d666bb13e4: Loài người được tạo dựng để tương giao
+        với Đức Chúa Trời; nhưng vì ý riêng bướng bỉnh, ương ngạnh, loài người đã
+        chọn lấy con đường riêng của mình, do đó sự tương giao với Đức Chúa Trời đã
+        bị gãy đổ. Ý riêng ấy thể hiện bằng sự chống đối hoặc bằng thái độ hững hờ,
+        không thờ phượng Đấng Tạo Hóa, có suy nghĩ, lời nói, và hành động sai trái,
+        đi ngược với bản tính thánh khiết của Ngài, là bằng chứng của điều mà Kinh
+        Thánh gọi là tội lỗi.
+      42753c84-8cff-4627-860d-976efcc662eb: LOÀI NGƯỜI TỘI LỖI VÀ BỊ PHÂN CÁCH VỚI
+        ĐỨC CHÚA TRỜI, NÊN KHÔNG THỂ HIỂU BIẾT VÀ KINH NGHIỆM ĐƯỢC TÌNH YÊU THƯƠNG
+        CÙNG CHƯƠNG TRÌNH KỲ DIỆU CủA NGÀI DÀNH CHO ĐỜI SỐNG MÌNH.
     page_3:
-      title: Mối Đe Dọa Hiện Tại
-      filename: c8109aa3-b193-4181-a781-8d37f475252e
-      44377ff5-2b02-409a-b169-eaa9a1dfdb1f: |-
-        Bạn có phải là người dại dột không? Sau khi bắt đầu với Đức Thánh Linh, bây giờ bạn có cố gắng để đạt được mục tiêu của mình bằng nổ lực con người không?
-        (Ga-la-ti 3:3)
-      f606f6fd-8443-44f1-9cea-b5a38e00577e: Chúng ta có thể kinh nghiệm sự thân mật
-        trong mối quan hệ với Đức Chúa Trời và tận hưởng tất cả những gì Ngài dành
-        sẵn cho chúng ta nếu chúng ta không ngừng nương dựa nơi Đức Thánh Linh.
-      9c8cfc32-6c7f-4516-8d3a-03cea8ff7b03: Chúng ta không thể sống...
-      92cfd63b-4da6-481f-887e-eec3784f5335: Những người dựa vào nỗ lực và sức riêng
-        để sống đời sống Cơ Đốc Nhân sẽ gặp phải sự thất bại và thất vọng, cũng tương
-        tự như những người sống để làm hài lòng chính mình thay vì sống để làm vui
-        lòng Đức Chúa Trời.
-      f735b4aa-5691-4d83-861e-f6c98f721f90: "đời sống Cơ Đốc Nhân bằng sức riêng của
-        chúng ta."
-      7cf39e0e-9ad6-48a5-8e4f-c9452b5e6569: Làm thế nào để chúng ta có thể phát triển
-        một lối sống nương dựa nơi Đức Thánh Linh?
-      55c57d61-164a-4d08-8ff2-0ae0e14cee68: |-
-        Thưa anh em, về phần tôi, tôi không thể nói với anh em như với những người thuộc linh, nhưng như với người xác thịt, như những trẻ sơ sinh trong Đấng Christ. Tôi đã nuôi anh em bằng sữa, chứ không bằng thức ăn cứng, vì anh em chưa thích ứng được. Ngay đến bây giờ anh em vẫn chưa thích ứng được, vì anh em vẫn còn thuộc về xác thịt. Bởi trong anh em vẫn có sự ganh tị, tranh chấp; như vậy, chẳng phải anh em thuộc về xác thịt và cư xử như người đời sao?
-        (1 Cô-rinh-tô 3:1-3)
-      b5ee2cdd-eb40-47a4-a6a4-610a079f04ee: satisfied_diagram_02.png
-      131044e1-064a-4e57-accd-4bca7a0917d8: Mối Đe Dọa Hiện Tại
-      11bb73ff-f34a-462f-a866-c4004ef31c3b: "... tất cả những gì Đức Chúa Trời dành
-        sẵn cho chúng ta nếu chúng ta sống bằng những ham muốn tập trung vào chính
-        mình."
-      051243f6-8d73-4caf-a8f5-4facf1b3ed0b: |-
-        Vì xác thịt có những dục vọng trái ngược với Thánh Linh, và Thánh Linh có những ước muốn trái ngược với xác thịt; hai bên đối nghịch nhau như vậy, nên anh em không làm được điều mình muốn.
-        (Ga-la-ti 5:17)
-      41f67dd2-f053-4a81-900c-09363e0d3934: Chúng ta không thể vui hưởng...
-      bc49a797-0467-46af-b836-10f930962859: Ba Loại Lối Sống
+      title: 3 Chúa Cứu Thế Jesus là giải pháp DUY NHẤT của Đức Chúa Trời cho vấn
+        đề tội lỗi. Chỉ qua Chúa Cứu Thế, bạn mới có thể hiểu biết và kinh nghiệm
+        được tình yêu thương cùng chương trình kỳ diệu của Ngài dành cho đời sống
+        bạn.
+      filename: 86bcc83f-b389-424a-b94f-fc772a470f73
+      35da1297-b80c-4111-b55b-45c22c4d248c: '"Chúa Cứu Thế chịu chết vì tội chúng
+        ta…Ngài đã bị chôn, đến ngày thứ ba, Ngài sống lại, theo lời Kinh Thánh và
+        Ngài đã hiện ra cho Phi-e-rơ, sau lại hiện ra cho mười hai sứ đồ. Rồi Ngài
+        hiện ra cho hơn năm trăm anh em xem thấy…"'
+      dcad7fa5-67ea-44b9-a814-1aa08d62604e: CHÚA CỨU THẾ JESUS LÀ GIẢI PHÁP DUY NHẤT
+        CỦA ĐỨC CHÚA TRỜI CHO VẤN ĐỀ TỘI LỖI. CHỈ QUA CHÚA CỨU THẾ, BẠN MỚI CÓ THỂ
+        HIỂU BIẾT VÀ KINH NGHIỆM ĐƯỢC TÌNH YÊU THƯƠNG CÙNG CHƯƠNG TRÌNH KỲ DIỆU CỦA
+        NGÀI DÀNH CHO ĐỜI SỐNG BẠN.
+      c5657019-0dca-4748-90fe-399144e31db4: "▲ - Đức Chúa Trời | † - Chúa Jesus |
+        ★ - Con Người"
+      b1fdf550-98d6-4f05-acef-f0d9a8e64eaf: '"Đức Chúa Trời tỏ lòng yêu thương Ngài
+        đối với chúng ta, khi chúng ta còn là người có tội thì Chúa Cứu Thế đã chết
+        thay cho chúng ta."'
+      34b4af0a-66f4-4666-8e7f-d99284127f40: Biểu đồ bên đây mô tả rằng Đức Chúa Trời
+        đã nối liền vực sâu phân cách chúng ta với Ngài bằng cách sai Chúa Cứu Thế
+        Jesus đến thế gian chịu chết trên thập tự giá để đền tội thay cho chúng ta.
+      22839228-d950-45b7-a873-ea05192a139c: "“Chúa Cứu Thế Jesus phán rằng: Ta chính
+        là Con Đường, Chân Lý, và Nguồn Sống; chẳng bởi Ta thì không ai đến cùng Cha
+        được.” (Giăng 14:6)"
+      dacb2032-d5ca-4117-9763-83f41db46186: "(1 Cô-rinh-tô 15:3-6)"
+      cb327c83-aaee-418c-8754-e977434d9737: Chúa đã CHẾT THAY cho chúng ta
+      9310dd00-7066-4304-8a5e-8ad520506982: "Biết ba định luật trên \nvẫn chưa đủ…"
+      9d5152c5-cf21-421f-85a8-c3101d949190: "(Rô-ma 5:8)"
+      250ec919-c645-4cfc-9c55-c8189dee2a28: Ngài đã SỐNG LẠI từ cõi chết
+      3fcf1d5f-45e2-4eb8-861c-b7e64b98b073: Ngài là CON ĐƯỜNG DUY NHẤT đến cùng Đức
+        Chúa Trời
     page_4:
-      title: Hành Trình Mật Thiết
-      filename: ef5a080b-1f20-490d-82df-5fc49b017839
-      c8aa10b8-b386-44eb-ad1b-50c2c35a1d4f: với Đức Chúa Trời và tất cả những gì Ngài
-        dành cho chúng ta.
-      b2c4df2b-77b2-4f57-84ef-1ad7bef3fbc8: 'Khi chúng ta bước đi trong Thánh Linh:'
-      27d8462f-d1bf-4766-b216-46a311e98e62: Trao quyền điều khiển cuộc đời mình cho
-        Chúa Cứu Thế và lấy đức tin nương dựa nơi Đức Thánh Linh để Ngài đầy dẫy bạn
-        bằng sự hiện diện và quyền năng của Ngài theo như mạng lệnh (Ê-phê-sô 5:18)
-        và lời hứa của Ngài (1 Giăng 5:14, 15).
-      969dae75-22ac-476d-a662-6f3858cc12fe: satisfied_diagram_03.png
-      7e6b0467-6ab2-4231-a233-be8299667e17: Bước đi trong Thánh Linh từng giây từng
-        phút là một lối sống. Điều này có nghĩa là nương dựa nơi Đức Thánh Linh để
-        tận hưởng nguồn tài nguyên vô tận của Ngài như một lối sống của chúng ta.
-      61343899-7cb0-4202-8a5e-fb5b40696141: 'Vậy tôi nói rằng: Hãy bước đi theo Thánh
-        Linh, chớ hề làm trọn những điều ưa muốn của xác thịt…Nếu chúng ta nhờ Thánh
-        Linh mà sống, thì cũng hãy bước theo Thánh Linh vậy. (Ga-la-ti 5:16, 25)'
-      f3803aae-3a90-4636-b56c-0f9e97ce670e: "Đức Tin (sự tin cậy nơi Đức Chúa Trời
-        và lời hứa của Ngài) là cách duy nhất để một Cơ Đốc Nhân có thể sống bởi Thánh
-        Linh."
-      f05d29b9-0831-47e7-a550-ea6849d1902c: Thở Ra...
-      dce3ce01-daf0-4f58-9db9-e8efdd44892d: Hô Hấp Thuộc Linh...
-      a73de09d-73f6-4866-a0b7-b3ff61d847a1: Nhờ bước đi trong Thánh Linh, chúng ta
-        kinh nghiệm sự mật thiết với Đức Chúa Trời mỗi lúc càng thêm và tận hưởng
-        tất cả những gì Ngài dành sẵn cho chúng ta.
-      762387bf-0b85-4962-b5b2-8a493a25f60b: "Đức Thánh Linh đầy dẫy chúng ta bằng
-        quyền năng của Ngài như thế nào?"
-      76732ef2-2bf1-447e-8c15-bf34e41dcf06: Hít Vào...
-      7db0e7cc-7948-4b0b-8116-f480c8015a6b: Chúng ta kinh nghiệm sự mật thiết...
-      9f90ed09-ddb4-4dd3-a225-3e7dd13d94fd: "Đời Sống Có Đấng Christ Làm Trung Tâm"
-      e56048dc-f8f8-458b-bde9-85ca03e3ee42: Chúng ta có khả năng...
-      8f0728a6-e931-4d73-991e-408c03aeea7c: "để sống một đời sống đẹp lòng Đức Chúa
-        Trời."
-      2171d7ee-d346-417e-ac4b-ca8ad3c9e906: Hành Trình Mật Thiết
-      ae703380-9fa2-47fc-bd72-d4ecd01b8f0c: |-
-        Xưng nhận tội lỗi của bạn ngay khi bạn nhận ra nó – đồng ý với Đức Chúa Trời về tội lỗi đó và tạ ơn Ngài về sự tha thứ của Ngài theo như 1 Giăng 1:9 và Hê-bơ-rơ 10: 1-25.
-        Xựng nhận tội lỗi đòi hỏi phải ăn năn – sự thay đổi trong thái độ và hành động.
-      750195c7-587d-4e6f-af81-f383b5fc0016: "...là bức tranh ngôn từ đầy sức mạnh
-        có thể giúp bạn kinh nghiệm sự nương dựa nơi Đức Thánh Linh từng giây từng
-        phút."
-      54969da5-4168-43df-be20-9818641d4c6a: Nhưng trái của Thánh Linh, ấy là lòng
-        yêu thương, sự vui mừng, bình an, nhịn nhục, nhân từ, hiền lành, trung tín,
-        mềm mại, tiết độ. (Ga-la-ti 5:22,23)
+      title: 4 Mỗi người chúng ta phải đích thân TIẾP NHẬN Chúa Jesus làm Cứu Chúa
+        và Chủ của đời mình; như vậy, chúng ta mới có thể hiểu biết và kinh nghiệm
+        được tình yêu thương cùng chương trình kỳ diệu của Đức Chúa Trời dành cho
+        đời sống chúng ta.
+      filename: 0da2e3a9-5449-420f-85e6-d831ee7d080f
+      b6ad5fd1-162a-45c6-8200-8ef227d83a08: Chúng ta kinh nghiệm sự tái sinh.
+      c499a322-ef95-4627-8513-f07a16770087: "(Đọc Giăng 3:1-8)"
+      a00c7635-f82a-4dce-bd48-059a50ec1492: MỖI NGƯỜI CHÚNG TA PHẢI ĐÍCH THÂN TIẾP
+        NHẬN CHÚA JESUS LÀM CỨU CHÚA VÀ CHỦ CỦA ĐỜI MÌNH; NHƯ VẬY, CHÚNG TA MỚI CÓ
+        THẺ HIỂU BIẾT VÀ KINH NGHIỆM ĐƯỜC TÌNH YÊU THƯƠNG CÙNG CHƯƠNG TRÌNH KỲ DIỆU
+        CỦA ĐỨC CHÚA TRỜI DÀNH CHO ĐỜI SỐNG CHÚNG TA.
+      d73f49ed-3185-4385-84c0-456a65514a52: 'Chúa Cứu Thế Jesus phán rằng: “Nầy, Ta
+        đứng ngoài cửa mà gõ; nếu ai nghe tiếng Ta mà mở cửa cho thì Ta sẽ vào cùng
+        người ấy.”'
+      b1a2624c-3f58-4648-9843-59a841890f3b: Nếu chỉ bằng lý trí cho rằng Chúa Cứu
+        Thế Jesus là Con Đức Chúa Trời và Ngài đã chết trên thập tự giá để đền tội
+        thế cho chúng ta hoặc chỉ kinh nghiệm bằng cảm xúc thì chưa đủ. Chúng ta phải
+        tiếp nhận Chúa Cứu Thế bằng đức tin như một hành động của ý chí.
+      b80fa33f-a46d-4723-ad8f-b8c23142cd1d: "(Khải huyền 3:20)"
+      be59c51a-cb27-485f-b89a-7c5a427729fd: "...chúng ta phải từ bỏ bản ngã để quay
+        về cùng Đức Chúa Trời, tin cậy Chúa Cứu Thế để mời Ngài ngự vào đời sống chúng
+        ta, xin Ngài tha thứ tội lỗi và biến đổi chúng ta trở nên người Chúa muốn."
+      e5fc852d-7718-4206-b328-785def7ae592: Tiếp nhận Chúa Cứu Thế Jesus nghĩa là...
+      e6f40dd1-5cc3-40d4-b749-351e01974b8c: "(Giăng 1:12)"
+      98f37160-ecd4-4fdd-8d87-aad66cef826d: Chúng ta phải TIẾP NHẬN Chúa Cứu Thế Jesus
+      080fc752-9ca8-4b90-af6a-9a5e1591ffa4: Chúng ta TIẾP NHẬN Chúa Cứu Thế Jesus
+        bằng ĐỨC TIN
+      bd2663ba-ccd1-4400-a89c-5ff0582e4f8d: Chúng ta tiếp nhận Chúa Cứu Thế Jesus
+        bằng cách ĐÍCH THÂN MỜI Ngài ngự vào lòng
+      d1ccf916-a3fb-4abc-9dce-6ffa8e7a2e1d: '"“Thật vậy, nhờ ân sủng, bởi đức tin
+        mà anh chị em được cứu rỗi, đây không phải tự sức anh chị em, nhưng là tặng
+        phẩm Đức Chúa Trời ban, cũng không do công đức anh chị em làm, để không ai
+        có thể khoe mình.”"'
+      2b0efb4f-25d9-4fb8-85c4-66002459db8a: Khi tiếp nhận Chúa Cứu Thế...
+      25a0cf14-9e81-43cf-97f2-e99f3d88d2c2: "(Ê-phê-sô 2:8-9)"
+      cab22c4e-4ccc-4d7d-8100-64a438306d3c: '""Bất cứ ai tiếp nhận Ngài, tức là tin
+        danh Ngài, thì Ngài ban cho họ quyền trở nên con của Đức Chúa Trời”"'
     page_5:
-      title: Sự Hiện Diện Ban Quyền Năng
-      filename: 9cab226a-0df6-4d01-9c61-a487673f1c05
-      f9b99750-f8a9-4cea-8629-4ca0f235ccf0: 3. Tôi có thành thật khao khát được Đức
-        Thánh Linh điều khiển và ban quyền năng hay không? (Giăng 7:37-39)
-      44e85f5c-fcaa-401b-8d91-ffbb57be4e58: Chúng ta được đầy dẫy Đức Thánh Linh bằng
-        đức tin, giúp chúng ta có thể kinh nghiệm được sự thân mật với Đức Chúa Trời
-        và tận hưởng tất cả những gì Ngài dành sẵn cho chúng ta.
-      ac4c13ef-2d9e-4ef2-bd43-1a8d1e0a2014: Thực chất của đời sống Cơ Đốc Nhân là
-        những gì Đức Chúa Trời làm trong và qua chúng ta, không phải là những gì chúng
-        ta làm cho Đức Chúa Trời. Sự sống của Đấng Christ được sản sinh trong tín
-        hữu thông qua quyền năng của Đức Thánh Linh. Được đầy dẫy Đức Thánh Linh là
-        được Ngài dẫn dắt và ban quyền năng.
-      70dfee15-929a-4e29-8dc8-4b3953e8f0ed: |-
-        1. Bây giờ tôi có sẵn sàng để xưng nhận tội lỗi của tôi không? (1 Giăng 1:9) Tội lỗi làm buồn Thánh Linh của Đức Chúa Trời. (Ê-phê-sô 4:30)
-        Nhưng Đức Chúa Trời với tình yêu của Ngài đã tha thứ tất cả tội lỗi của bạn - tội quá khứ, hiện tại và tương lai - bởi vì Đấng Christ đã chết thay cho bạn.
-      7797bdce-943d-4bae-bb89-49805235eb5c: "...sự đầy dẫy Thánh Linh theo như mạng
-        lệnh và lời hứa của Ngài:"
-      28700be5-6a75-41cb-bd90-8f4d969c06f5: "...quyền năng của Đức Chúa Trời thông
-        qua Đức Thánh Linh."
-      d70fdc91-1e3f-4572-945d-4fd178e3ae6c: Sự Hiện Diện Đầy Quyền Năng
-      114dd44f-c151-421f-96f3-4f9f79de679f: 1. Bây giờ tôi có sẵn sàng trao quyền
-        khiển đời sống mình cho Chúa Cứu Thế Jesus không? (Rô-ma 12:1,2)
-      df11e7e7-ad66-4e68-b4d7-e5583ecd7f4b: Tôi cầu xin Ngài, tùy sự phong phú của
-        vinh quang Ngài, ban cho anh em năng lực bởi Thánh Linh Ngài, để con người
-        bên trong của anh em trở nên mạnh mẽ, và bởi đức tin, Đấng Christ ngự trong
-        lòng anh em. (Ê-phê-sô 3:16, 17)
-      1896d705-2cee-498b-92ae-e2d8d4700e00: Cách cầu nguyện để được đầy dẫy Đức Thánh
-        Linh...
-      de604537-b463-4504-9b01-0a1faeecfb78: Bởi đức tin, hãy công bố...
-      a1a719a6-7d23-4da8-a180-6a91b5d37741: Bởi đức tin, chúng ta kinh nghiệm...
-      009fc75e-1c0c-4277-93e8-ba1d1ab577d5: "Đức Chúa Trời TRUYỀN LỆNH cho chúng ta
-        phải đầy dẫy Đức Thánh Linh."
-      a9407d04-e046-4dd2-af24-ff3b543332b2: "Đức Chúa Trời HỨA rằng Ngài sẽ luôn luôn
-        nhậm lời cầu nguyện khi chúng ta cầu xin theo ý Ngài."
-      b4592c25-9a30-4fee-94b5-52f944477efe: "...để hỏi chính mình:"
-      03fe26e8-78c4-484c-aeb4-62192fe14853: '"...nhưng phải đầy dẫy Đức Thánh Linh."
-        (Ê-phê-sô 5:18)'
-      f2b405d1-53ce-4152-9b11-b23a327c811b: '"Đây là sự đảm bảo mà chúng ta có được
-        trước mặt Ngài: Ấy là nếu chúng ta cầu xin điều gì theo ý muốn Ngài, thì Ngài
-        nghe chúng ta. Và nếu chúng ta biết Ngài nghe bất cứ điều gì chúng ta cầu
-        xin, thì chúng ta biết chúng ta đã nhận được điều mình cầu xin rồi." (1 Giăng
-        5:14, 15)'
-      3ea26042-4cda-4986-9435-dd96e3e13604: Ba câu hỏi quan trọng...
+      title: Hai vòng tròn dưới đây tượng trưng cho hai loại đời sống
+      filename: bb860152-e0bc-4513-a201-0472fe2deb7f
+      001f5c24-aabd-483b-ab6c-b9e064a09375: Chúa Cứu Thế ở bên ngoài đời sống.
+      8b7f7645-fb10-4e50-8986-cd88503d2e67: Bạn muốn vòng tròn nào tượng trưng cho
+        đời sống của mình?
+      f45a6a36-dd42-468a-9dbb-f704788a806d: o -  Những sở thích ở dưới sự dẫn dắt
+        của Chúa. Kết quả là hòa hợp với chương trình của Chúa.
+      24b57ef6-b963-4b44-ac98-4f1af8f82d55: s -  Bản ngã đầu phục Chúa Cứu Thế
+      f4d5bc34-ad41-415b-af49-0e1a8d9529e1: "Đời sống do Chúa Cứu Thế làm chủ"
+      01d03eb0-56f2-488e-abb2-c688cea52cf1: "Đời sống do bản ngã làm chủ"
+      f65b2688-f83a-4121-8c82-57f9e889586b: HAI VÒNG TRÒN DƯỚI ĐÂY TƯỢNG TRƯNG CHO
+        HAI LOẠI ĐỜI SỐNG.
+      f5322d88-80e2-4da9-8ae3-6af2f464a30d: Vòng tròn nào đang tượng trưng cho đời
+        sống bạn?
+      b5c91ec7-6c1b-4090-83fb-ac1e07590101: s - Bản ngã (tức là cái tôi) ngự trên
+        ngai lòng.
+      db583108-9103-4819-b351-8bffb74bba8c: "† - Chúa Cứu Thế ngự trong đời sống và
+        trên ngai lòng."
+      8906846a-09d9-4cd3-83fd-879d59e20b62: Những sở thích dưới quyền điều khiển của
+        bản ngã. Kết quả thường là hỗn loạn và thất vọng.
+      c0775670-8920-4b66-8cc9-c4a6bc87656d: Phần sau đây giải thích cho bạn biết cách
+        tiếp nhận Chúa Cứu Thế ...
     page_6:
-      title: Bước Ngoặt
-      filename: a780910c-0fee-4778-a7ab-535cd1745d08
-      3629b7f7-7ea7-4cf7-a3cc-0f7a0c56644d: Tin cậy nơi sự kiện, không phải nơi cảm
-        giác
-      81cb4f6c-5ad8-4752-aced-ace06052db69: Lời cầu nguyện chân thành là cách để bày
-        tỏ đức tin của chúng ta.
-      8bb2c274-f56e-4390-9315-e5993dfee529: Lời cầu nguyện này có bày tỏ nguyện vọng
-        của lòng bạn không? Nếu có, bạn hãy cầu nguyện ngay bây giờ và tin cậy Đức
-        Chúa Trời đầy dẫy Thánh Linh Ngài trong bạn.
-      5d35e2dc-526b-4d74-b3b3-a3d5eb7ce7e9: "Đừng nương dựa nơi cảm giác"
-      bb0d27de-90e6-4e49-9b82-0892d7e0d44e: Cũng vậy, là Cơ Đốc Nhân, chúng ta không
-        nên nương dựa vào cảm giác hay cảm xúc. Nhưng hãy đặt đức tin (lòng tin cậy)
-        của chúng ta nơi sự đáng tin cậy của Đức Chúa Trời và những lời hứa của Ngài.
-      82594133-e1aa-49bc-b1f9-49ed6aa19143: Lạy Cha kính yêu, con cần Ngài. Con thừa
-        nhận rằng con đã phạm tội với Ngài vì con đã tự điều khiển đời sống mình.
-        Con cảm ơn vì Ngài đã tha thứ tội lỗi của con thông qua sự chết của Đấng Christ
-        trên thập tự giá vì con. Bây giờ con xin mời Đấng Christ tái điều khiển ngai
-        lòng của đời con. Xin hãy đầy dẫy Thánh Linh cho con theo như mạng lệnh của
-        Ngài truyền con phải đầy dẫy và lời hứa Ngài trong Kinh Thánh rằng Ngài sẽ
-        nhậm lời con khi con lấy đức tin cầu xin theo ý Ngài. Để bày tỏ đức tin của
-        con, bây giờ con xin cảm tạ Chúa vì Ngài đang đầy dẫy Đức Thánh Linh trong
-        con và đang điều khiển đời sống con. Nhân Danh Chúa Jesus Christ. Amen.
-      9bec6779-5db6-4d2c-b7ae-863439079c97: Lời hứa của Đức Chúa Trời, Kinh Thánh
-        mới là uy quyền của chúng ta chứ không phải là cảm giác. Cơ Đốc Nhân sống
-        bởi đức tin (tin cậy) nơi sự thành tín của chính Đức Chúa Trời và Lời Ngài.
-      60178e6a-473c-43c6-948a-9ff550e3ee8d: Làm thế nào để biết...
-      ba9b9748-6af2-4b79-930e-4a9bc2e6351f: "- Bạn có biết rằng bây giờ bạn đang được
-        đầy dẫy Đức Thánh Linh không?"
-      506d2e46-577c-4cf1-92c8-957152126a64: "Để đi lại bằng máy bay, chúng ta phải
-        đặt đức tin vào sự đáng tin cậy của chiếc máy bay và người phi công điều khiển
-        máy bay. Cảm giác của chúng ta tự tin hay lo sợ không ảnh hưởng đến chiếc
-        máy bay đang chuyên chở chúng ta, mặc dù cảm giác đó ảnh hưởng đến mức độ
-        chúng ta tận hưởng chuyến đi."
-      9f42b753-db57-4a8f-992e-03a6fdb41cb0: Việc đi máy bay có thể minh họa mối quan
-        hệ giữa sự kiện (Đức Chúa Trời và Lời Ngài), đức tin (sự tin cậy của chúng
-        ta nơi Đức Chúa Trời và Lời Ngài), và cảm xúc (kết quả của đức tin và sự vâng
-        lời của chúng ta). (Giăng 14:21)
-      7f75f499-eee1-4fbb-b710-45a69090ecc3: Chúng ta được đầy dẫy Đức Thánh Linh chỉ
-        bởi đức tin.
-      9b84b400-7b9e-46ac-87c1-0b461afe4be7: "- Bạn có cầu xin Đức Chúa Trời đầy dẫy
-        Đức Thánh Linh trong bạn không?"
-      337761fe-a53d-45f6-9671-7730fc6b22c9: 'Lời cầu nguyện đề nghị:'
-      48666f77-a858-4c91-b7e6-8bff7505190a: "- Căn cứ trên uy quyền nào? (căn cứ trên
-        sự đáng tin cậy của chính Đức Chúa Trời và Lời Ngài: Hê-bơ-rơ 11:6; Rô-ma
-        14:22, 23.)"
-      461b6b59-7a42-4909-9c1b-4b27b3d089aa: 'Lời nhắc nhở quan trọng:'
-      42678b4c-638c-4bec-b79b-1fd986687f4f: Bước Ngoặt
-      1bb84af2-b3ad-4c74-b41d-6ee180624873: Bây giờ bạn đang được đầy dẫy Đức Thánh
-        Linh.
-      8eb0d1e4-28b0-4197-b91f-0a17f1783efb: "...rằng bạn đang được đầy dẫy Đức Thánh
-        Linh?"
-      668c73bf-960e-43c7-8d44-098435d4e3ea: Khi bạn tiếp tục nương dựa nơi Thánh Linh
-        của Đức Chúa Trời từng giây từng phút, bạn sẽ kinh nghiệm và vui hưởng sự
-        thân mật với Đức Chúa Trời và tất cả những gì Ngài dành cho bạn – một đời
-        sống thỏa mãn và thực sự dư dật.
+      title: Bạn có thể lấy đức tin tiếp nhận Chúa Cứu Thế ngay bây giờ bằng LỜI CẦU
+        NGUYỆN.
+      filename: 29d816d1-8816-4479-a347-1432ed893c30
+      9087f3c4-35c7-47d0-b621-cbc835b014be: 'Sau đây là lời cầu nguyện đề nghị:'
+      62b35212-dc4e-4e2e-a7ac-09a68537c6f5: "(Cầu nguyện là nói chuyện với Đức Chúa
+        Trời)"
+      d7df22f4-9678-4ee7-9c67-e7e5fc306112: "Đức Chúa Trời biết rõ tấm lòng bạn. Ngài
+        quan tâm đến thái độ của lòng bạn hơn là những lời nói của bạn."
+      5ec11b23-302b-4c55-90d5-ed810f297757: "“Kính lạy Chúa Jesus,\n\nCon cần Ngài.
+        Con tạ ơn Chúa vì Ngài đã chết thay trên thập tự giá vì tội của con. Con xin
+        mở cửa lòng con tiếp nhận Ngài làm Cứu Chúa và Chủ của con. \n                \nCon
+        cảm ơn Ngài đã tha tội cho con và ban cho con sự sống đời đời. Xin Chúa ngự
+        trên ngai của đời sống con. Xin biến đổi con trở nên người Chúa muốn. Amen."
+      b4334eea-9d8c-484f-b919-7fed2d5fc635: "Chúa Cứu Thế sẽ ngự vào đời sống của
+        bạn ngay \nnhư Lời Ngài đã hứa."
+      ba926c37-e783-42bd-868a-7894c6c54088: Lời cầu nguyện trên đây có bày tỏ nguyện
+        vọng của lòng bạn không? Nếu có, ngay bây giờ xin bạn hãy thành khẩn lặp lại
+        lời cầu nguyện như trên.
+      e8a4256e-ce69-42d2-b9f9-9d54c90e762a: BẠN CÓ THỂ LẤY ĐỨC TIN TIẾP NHẬN CHÚA
+        CỨU THẾ NGAY BÂY GIỜ BẰNG LỜI CẦU NGUYỆN
     page_7:
-      title: Bây giờ bạn đang được đầy dẫy...
-      filename: 29624420-4a33-42f0-97bd-0e4758d5f62f
-      d2f2a155-10f6-4ab6-9e91-0da19a7df2f4: |-
-        - Để làm vinh hiển Đấng Christ bằng đời sống của bạn.
-        (Giăng 16:14)
-      65b67b82-8fd8-4f2b-8f9d-313b2e836f75: Tạ ơn Đức Chúa Trời...
-      5c1304fd-0833-4120-b892-581edc3f6e6a: http://www.cru.org/training-and-growth/classics/index.htm
-      7741d4c6-433c-492c-9eee-473ee301b116: 'Nếu bạn muốn có thêm nguồn tài liệu về
-        Đức Thánh Linh, xin vui lòng truy cập vào trang:'
-      7b3d2b5e-478f-4be0-be58-11e357ba2993: |-
-        - Để tăng trưởng trong sự hiểu biết Đức Chúa Trời và Lời Ngài.
-        (1 Cô-rinh-tô 2:14,15)
-      976ef295-46ce-4c79-afa7-0c6e141eda35: Sự Khởi Đầu Mới
-      1639f0d8-571d-472d-a15a-4fbe00bc7330: 'Hãy nhớ lời hứa của Chúa Jesus:'
-      e2a274bf-1107-4bf1-a355-6b2883c99e35: 'Bây giờ bạn đang được đầy dẫy Đức Thánh
-        Linh:'
-      7dd80a72-7ebf-41f7-9387-2bf3a7650786: |-
-        "Nhưng khi Đức Thánh Linh giáng trên các con, thì các con sẽ nhận lấy quyền năng và làm chứng nhân cho Ta tại thành Giê-ru-sa-lem, cả xứ Giu-đê, xứ Sa-ma-ri, cho đến cùng trái đất.”
-        (Công vụ 1:8)"
-      8cc0562b-c4e4-4db2-bb10-ed6f5440632c: "...vì Đức Thánh Linh sẽ ban cho bạn quyền
-        năng:"
-      4f7ddd54-0d79-436d-af0d-8730b03b2015: |-
-        - Để sống đời sống đẹp lòng Đức Chúa Trời.
-        (Ga-la-ti 5:16-23)
+      title: Làm thế nào bạn có thể biết chắc rằng tất cả những điều này thực sự đã
+        xảy ra?
+      filename: 2dc9a76d-1fe8-4e35-97d0-ae0cb59bc05b
+      0b6ed82c-75e3-4597-a8b5-94958dd9bb89: LÀM THẾ NÀO ĐỂ BIẾT RẰNG CHÚA CỨU THẾ
+        JESUS ĐANG NGỰ TRỊ TRONG ĐỜI SỐNG BẠN
+      ed474402-3427-48f6-920d-39a798dfcd58: "Đừng nương dựa vào CẢM GIÁC"
+      15912814-cb40-467a-b4ae-354c367a273a: "Theo lời Chúa hứa trong Khải huyền 3:20
+        thì bây giờ Chúa Cứu Thế đang ở đâu trong mối liên hệ với bạn?\n                \nChúa
+        Cứu Thế đã phán rằng Ngài sẽ ngự vào đời sống bạn, Ngài có hứa sai với bạn
+        không?\n                \nNhư vậy làm thế nào để bạn biết rằng Đức Chúa Trời
+        đã nhậm lời cầu nguyện của bạn? (Sự đáng tin cậy của chính Đức Chúa Trời và
+        Lời Ngài.)"
+      994db774-8810-46ca-bee3-e817c4c249cd: '"Đây là lời chứng: Đức Chúa Trời đã ban
+        sự sống đời đời cho chúng ta, và sự sống nầy ở trong Con Ngài. Ai có Đức Chúa
+        Con thì có sự sống; ai không có Con Đức Chúa Trời thì không có sự sống. Tôi
+        viết điều nầy cho anh em là những người đã tin đến danh Con Đức Chúa Trời,
+        để anh em biết mình có sự sống đời đời." (1 Giăng 5: 11-13)'
+      d8911e6a-8df6-4c5b-96c5-527905f1db22: 'Hãy thường xuyên tạ ơn Chúa Cứu Thế vì
+        Ngài đang ngự trong đời sống bạn và Ngài không bao giờ lìa bỏ bạn. Đức Chúa
+        Trời phán: “Ta không bao giờ lìa con, chẳng bao giờ bỏ con!” (Hê-bơ-rơ 13:5).
+        Ngay chính giờ phút bạn căn cứ trên lời hứa của Chúa để mời Ngài ngự vào lòng
+        bạn thì bạn có thể biết chắc rằng Chúa Cứu Thế đang sống trong bạn và bạn
+        đang có sự sống đời đời. Ngài không lừa dối bạn đâu.'
+      6128a2c8-82c6-4dc8-bf8c-e378c3851410: "... cho những ai tiếp nhận Chúa Cứu Thế
+        Jesus."
+      652832bd-f9ae-4fb7-aaf4-16ef584d2cdd: "[ Sự Kiện ] - [Đức Tin ] - [ Cảm Giác
+        ]"
+      3002cd11-c590-4790-981e-cee28a661270: Lời hứa của Đức Chúa Trời, Kinh Thánh
+        mới là uy quyền của chúng ta chứ không phải là cảm giác. Cơ Đốc Nhân (người
+        tin Chúa Cứu Thế Jesus) sống bởi đức tin (tin cậy) nơi sự thành tín của chính
+        Đức Chúa Trời và Lời Ngài. Mô hình đoàn tàu lửa dưới đây minh họa mối tương
+        quan giữa sự kiện (Đức Chúa Trời và Lời Ngài), đức tin (sự tin cậy của chúng
+        ta nơi Đức Chúa Trời và Lời Ngài) và cảm giác (kết quả của đức tin và sự vâng
+        lời của chúng ta) (Đọc Giăng 14:21).
+      2a3b40b5-2249-4f0b-9aa5-ac2f83c7ab46: Kinh Thánh hứa ban SỰ SỐNG ĐỜI ĐỜI ...
+      84999bcf-a404-436e-9454-5c70ebb88c84: Còn về cảm giác thì sao...?
+      7733f716-949b-405f-8de9-7771b9320068: "Đầu máy tàu lửa cứ chạy mặc dù có hay
+        không có toa hành khách. Tuy nhiên, nếu cố gắng dùng toa hành khách để đẩy
+        con tàu chạy thì thật là vô ích. Cũng vậy, là Cơ Đốc Nhân, chúng ta không
+        nên nương dựa vào cảm giác hay cảm xúc. Nhưng hãy đặt đức tin (lòng tin cậy)
+        của chúng ta nơi sự thành tín của Đức Chúa Trời và những lời hứa của Ngài."
+      666b553f-d0f5-437e-a0fa-b421a724707c: Bạn đã mời Chúa Cứu Thế Jesus ngự vào
+        đời sống bạn chưa?
+    page_8:
+      title: 'Nếu bạn đã mở cửa lòng tiếp nhận Chúa Jesus làm Cứu Chúa và Chủ, có
+        nhiều việc lạ lùng đã xảy ra cho bạn, bao gồm những việc sau đây:'
+      filename: d72c3fb2-f4b2-4330-af7c-af6f1866d559
+      ce4d73ae-eae9-4ad1-b75f-5cf467bf0b1b: "- Chúa Cứu Thế đã ngự vào đời sống bạn"
+      75179d85-6fd4-4470-b988-63a46b3c5a41: "(Cô-lô-se 1:14)"
+      8ce2b3fa-848d-457c-a447-98a6181ffa67: "...theo đúng mục đích mà Đức Chúa Trời
+        tạo dựng nên bạn."
+      628af499-ee4d-41f4-ad13-2b7404128b02: 'Ngay lúc bạn mở lòng tiếp nhận Chúa Cứu
+        Thế Jesus bằng đức tin như một hành động của ý chí, có nhiều việc lạ lùng
+        xảy ra cho bạn, bao gồm những việc sau đây:'
+      43e2d065-da26-4aab-845c-9218d0783f36: "- Bạn đã có sự sống đời đời"
+      bdd7d7ed-d61f-4f66-baee-e0596a5084c0: "(Giăng 1:12)"
+      5d752762-ccd9-4bff-b5af-50dc164c27e2: BÂY GIỜ BẠN ĐÃ TIẾP NHẬN CHÚA CỨU THẾ
+        JESUS
+      18787c88-3b76-4cf9-a836-393bee4d1e0f: Bạn có thể tưởng tượng ...
+      581a6b5d-6674-404d-979b-74f35da8b7c4: "(Giăng 5:24)"
+      8e5c37e2-50ad-4175-aeff-be8cf80232cb: một việc nào kỳ diệu hơn việc bạn tiếp
+        nhận Chúa Cứu Thế Jesus hay không? Bạn có muốn dâng lên Đức Chúa Trời lời
+        tạ ơn về những điều Ngài đã làm cho bạn không? Chính hành động tạ ơn Đức Chúa
+        Trời biểu lộ đức tin của bạn.
+      ea3dba44-0a91-4b06-b7a8-a3b6323339da: "Để tận hưởng sự sống mới \nđến mức đầy
+        trọn nhất..."
+      f1cdce10-eae2-45b6-9e1b-f025e32811d7: "(Giăng 10:10; 2 Cô-rinh-tô 5:17; 1 Tê-sa-lô-ni-ca
+        5:18)"
+      441ed36e-4ae1-483b-b367-c17f7a6adb4d: "- Bạn đã trở thành con của Đức Chúa Trời"
+      ce80b468-1f47-405e-b4df-b3f17d3c5917: "(Khải huyền 3:20 và Cô-lô-se 1:27)"
+      b78fe8ac-800d-4c9c-8f58-720685ad52c5: "- Mọi tội lỗi của bạn đã được tha thứ"
+      c8367e87-901c-4196-bef7-5073bbd350f0: "- Bạn đã bắt đầu một cuộc hành trình
+        thú vị..."
+    page_9:
+      title: Cách Để Tăng Trưởng Khi Làm Môn Đồ Chúa Jesus
+      filename: e4857861-c1f1-442d-bf50-1f82cede1eac
+      6f9899a7-1198-4146-a3da-85b7af126829: Nên bắt đầu đọc sách Tin Lành Giăng.
+      6371b963-8350-425a-b4db-4b29b4809eab: NHỮNG ĐỀ NGHỊ GIÚP CƠ ĐỐC NHÂN TĂNG TRƯỞNG
+      c625a988-dd7d-44ae-af59-9e4baed5677c: "(Giăng 15:7)"
+      6e5ffc21-1b31-44a9-aba9-973d875e6d6b: Vâng phục ...
+      9c196e7c-7cfe-4b3a-892d-3db23bb024a4: Lời Chúa trong Kinh Thánh Hê-bơ-rơ 10:25
+        khuyên chúng ta “đừng bỏ sự nhóm họp…” Nhiều thanh củi nhóm lại trong lò lửa
+        sẽ cháy sáng thêm, nhưng nếu lấy một thanh ra khỏi lò thì nó sẽ tàn. Mối liên
+        hệ giữa bạn với các Cơ Đốc Nhân khác cũng vậy.
+      2c3474ae-287b-4467-b904-b67fa0375fc1: Chúa Thánh Linh -
+      913b2c56-7095-4048-a960-7d378ded7b07: "Đọc ..."
+      5f832e24-e77c-4f36-be13-d0eaebda2a84: Vâng phục Đức Chúa Trời từng giây từng
+        phút.
+      e5687d09-9a26-4195-8855-5be15b04665e: "Đến ..."
+      980518ae-87f0-48cf-9548-fba01ffdf721: "(xem Công vụ 17:11)"
+      9094027f-4dbc-4fd0-928e-934e71463dbe: Tin cậy ...
+      b248716d-7246-45e2-b3a4-ad2f4a5c32e8: Tin cậy Đức Chúa Trời trong mọi chi tiết
+        của đời sống bạn.
+      93f73e0d-9e71-4be1-a640-c8a4043afcff: "(xem Giăng 14:21)"
+      7d5e8f33-b4ba-4d4e-9f01-729a4692729a: "(xem Ga-la-ti 5:16, 17 và Công vụ 1:8)"
+      f9391851-9dd4-4ee7-9721-206aa0c5863d: "(xem Ma-thi-ơ 4:19 và Giăng 15:8)"
+      bf9cefbd-6010-4a4d-9803-717737671c45: Hãy để Chúa Thánh Linh điều khiển và ban
+        quyền năng cho đời sống và sự làm chứng hằng ngày của bạn.
+      15bbe563-7469-4f41-900a-dd1e438b034b: Sự nhóm lại với một Hội Thánh Chân Chính
+        Đầy Ơn
+      1318c4c5-f382-4592-8194-e4c439422b6f: Làm chứng về Chúa Cứu Thế bằng chính nếp
+        sống và lời nói của bạn.
+      46d0a51a-f2d1-4e3a-8eac-6be571dd8547: "Sự tăng trưởng thuộc linh là kết quả
+        của việc đặt lòng tin cậy nơi Chúa Cứu Thế Jesus. “...Người công chính sẽ
+        sống bởi đức tin.” (Ga-la-ti 3:11). \n            \nMột đời sống đức tin sẽ
+        giúp bạn có thể tin cậy Đức Chúa Trời mỗi lúc càng hơn trong mọi chi tiết
+        của đời sống bạn, đồng thời giúp bạn thực hành những điều sau đây:"
+      88ec181e-a31f-4fe5-b75a-324dac335249: "(xem 1 Phi-e-rơ 5:7)"
+      141466f7-fb7f-44e3-90a6-b98978615965: Làm chứng ...
+      e735a5c3-f155-4255-82d6-dce217ad1d85: Nếu bạn chưa tham gia một hội thánh nào,
+        xin đừng chờ đợi được mời. Hãy chủ động đến một hội thánh gần nhà bạn nếu
+        hội thánh đó tôn thờ Chúa Cứu Thế Jesus và rao giảng Lời Chúa trong Kinh Thánh.
+        Hãy bắt đầu ngay từ tuần này và lên kế hoạch đi nhóm đều đặn hàng tuần.
+      90bef6b5-c6f8-4a3d-ab1a-9fbd75660743: "Đến với Đức Chúa Trời bằng sự cầu nguyện
+        hằng ngày"
+      7561abb4-d54b-4bd4-96a6-bd6e7d102489: "Đọc Lời Chúa mỗi ngày."
+    page_10:
+      title: Những Tài Liệu Đặc Biệt
+      filename: 3a261bfa-65bf-4ce4-8e40-71231abefbbe
+      5e21ea17-05e2-4347-ab7c-01da48a90ed0: www.whoisJesus-really.com
+      b3c11ca8-82f0-4176-8000-a73f80ab3303: www.startingwithGod.com
+      2dfaef4c-0ce9-4152-b4b3-947af7dceea3: www.growinginChrist.com
+      80356d92-6553-4291-9464-c7542bbbbb30: 'Nếu bạn đã tin nhận Chúa Cứu Thế một
+        cách cá nhân qua sự trình bày Tin Lành này hoặc muốn được giúp đỡ để hiểu
+        rõ hơn về Chúa Cứu Thế, đây là những trang web bạn cần:'
+      ae643d40-90ac-44d3-bba0-d27c285508e5: www.everystudent.com
+      b6949652-efbd-447f-aa62-fd9cb87d2e46: NHỮNG TÀI LIỆU ĐẶC BIỆT DÀNH CHO SỰ TĂNG
+        TRƯỞNG
