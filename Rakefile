@@ -38,11 +38,6 @@ task :deploy do
   puts 'Invoking rake task to update the locales ...'
   Rake::Task['locales:update'].invoke
 
-  puts 'Committing the updates to git ...'
-  sh 'git add locales/'
-  sh "git commit -m 'Update locales - Automated commit by deploy task'"
-  sh 'git push origin master'
-
   puts 'Building and deploying the site with middleman ...'
   sh 'bundle exec middleman build'
 
