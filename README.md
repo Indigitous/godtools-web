@@ -48,3 +48,5 @@ Translation updates can automated using a service like Heroku. Create a new Hero
 
 At the time of writing there is a Heroku app named "godtoolswebapp" already setup to automate the translation updates. Tail the Heroku logs with `heroku logs --tail --app godtoolswebapp`
 
+Note that there is nothing too special about using Heroku here, it's just a convenient way to periodically run a rake task (you could also, for example, use a cronjob on an existing server).
+
