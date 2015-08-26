@@ -25,7 +25,7 @@ html.no-js class=yield_content(:html_class)
 
     == javascript_include_tag 'base.js', 'bootstrap-includes.js', 'main.js'
 
-    == partial 'layouts/analytics/all'
+    == partial 'layouts/segment'
 
   body class=body_classes
     - if current_page.metadata[:initialize_locale] != false
