@@ -9,6 +9,7 @@ set :css_dir,               'css'
 set :js_dir,                'js'
 set :images_dir,            'img'
 set :fonts_dir,             'fonts'
+set :enable_analytics,      true
 
 
 # Sitemap XML
@@ -93,6 +94,7 @@ page '/404.html', directory_index: false # For Github Pages custom 404
 # ========================================================================
 configure :development do
   set :site_url, "#{site_url_development}"
+  set :enable_analytics, false
 end
 
 # ========================================================================

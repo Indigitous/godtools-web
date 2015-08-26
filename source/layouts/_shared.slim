@@ -21,8 +21,11 @@ html.no-js class=yield_content(:html_class)
     // Canonical URL
     link href="#{ site_url + current_page.url }" rel="canonical"
 
-    == stylesheet_link_tag "main"
-    == javascript_include_tag "base.js", "bootstrap-includes.js", "main.js"
+    == stylesheet_link_tag 'main'
+
+    == javascript_include_tag 'base.js', 'bootstrap-includes.js', 'main.js'
+
+    == partial 'layouts/analytics/all'
 
   body class=body_classes
     - if current_page.metadata[:initialize_locale] != false
