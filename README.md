@@ -2,7 +2,7 @@
 
 Web based presentation of the God Tools app.
 
-Hosted on GitHub Pages at [http://godtools.ballistiq.com](http://godtools.ballistiq.com)
+Hosted on GitHub Pages at [http://knowgod.com](http://knowgod.com)
 
 ## Development
 

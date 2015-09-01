@@ -3,7 +3,7 @@
 # ========================================================================
 set :site_title,            'God Tools Web'
 set :site_description,      'God Tools Web'
-set :site_url_production,   'http://godtools.ballistiq.com'
+set :site_url_production,   'http://knowgod.com'
 set :site_url_development,  'http://localhost:4567'
 set :css_dir,               'css'
 set :js_dir,                'js'
