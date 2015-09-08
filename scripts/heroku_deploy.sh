@@ -12,7 +12,7 @@ git config --global user.name "$GITHUB_USERNAME"
 cd /tmp/
 
 echo 'Cloning Github repo ...'
-git clone --depth 1 "https://$GITHUB_USERNAME:$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/Indigitous/godtools-web.git"
+git clone "https://$GITHUB_USERNAME:$GITHUB_PERSONAL_ACCESS_TOKEN@github.com/Indigitous/godtools-web.git"
 
 cd ./godtools-web/
 
