@@ -1,8 +1,8 @@
 # ========================================================================
 # Site settings
 # ========================================================================
-set :site_title,            'God Tools Web'
-set :site_description,      'God Tools Web'
+set :site_title,            'KnowGod.com'
+set :site_description,      'KnowGod.com'
 set :site_url_production,   'http://knowgod.com'
 set :site_url_development,  'http://localhost:4567'
 set :css_dir,               'css'
