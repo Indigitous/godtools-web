@@ -4,7 +4,7 @@ ruby '2.2.2'
 
 # Core
 gem 'middleman', '3.3.10'
-gem 'god_tools', git: 'https://github.com/Indigitous/godtools-gem.git', branch: 'master', ref: 'd00753e52e31111959e0ea83d4a985adc4a22cef'
+gem 'god_tools', git: 'https://github.com/Indigitous/godtools-gem.git', branch: 'master', ref: 'fae664d559c6707f4056071c1b272f7e221a8941'
 gem 'i18n_data', '0.7.0'
 
 # Assets

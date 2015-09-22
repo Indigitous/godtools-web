@@ -1,10 +1,10 @@
 GIT
   remote: https://github.com/Indigitous/godtools-gem.git
-  revision: d00753e52e31111959e0ea83d4a985adc4a22cef
-  ref: d00753e52e31111959e0ea83d4a985adc4a22cef
+  revision: fae664d559c6707f4056071c1b272f7e221a8941
+  ref: fae664d559c6707f4056071c1b272f7e221a8941
   branch: master
   specs:
-    god_tools (0.0.0)
+    god_tools (0.1.0)
       hashie (~> 3.4.1)
       httparty (~> 0.13.3)
 
@@ -85,7 +85,7 @@ GEM
       uber (~> 0.0.4)
     htmlcompressor (0.1.2)
     http_parser.rb (0.6.0)
-    httparty (0.13.5)
+    httparty (0.13.6)
       json (~> 1.8)
       multi_xml (>= 0.5.2)
     i18n (0.7.0)
