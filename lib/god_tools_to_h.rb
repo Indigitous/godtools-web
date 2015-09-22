@@ -8,7 +8,6 @@ require_relative 'god_tools_to_h/page'
 module GodToolsToH
 
   GodTools.base_uri = 'https://api.godtoolsapp.com/godtools-api/rest'
-  GodTools.request_authorization_key! if GodTools.authorization_key.nil?
 
   def self.live_languages
     GodTools::Meta.all_languages.select do |l|
