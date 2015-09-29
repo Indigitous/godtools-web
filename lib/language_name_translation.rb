@@ -1,8 +1,42 @@
 class LanguageNameTranslation
 
+  SUPPLEMENTARY_TRANSLATIONS = {
+    'TGL' => {
+      'EN' => 'Tagalog',
+      'TGL' => 'Wikang Tagalog'
+    },
+    'TL' => {
+      'EN' => 'Tagalog',
+      'TL' => 'Wikang Tagalog'
+    },
+    'NSO' => {
+      'EN' => 'Northern Sotho'
+    },
+    'BO' => {
+      'EN' => 'Tibetan',
+      'BO' => 'བོད་ཡིག'
+    },
+    'SQ' => {
+      'EN' => 'Albanian',
+      'SQ' => 'Shqip'
+    },
+    'HY' => {
+      'EN' => 'Armenian',
+      'HY' => 'Հայերեն'
+    },
+    'SN' => {
+      'EN' => 'Shona',
+      'SN' => 'chiShona'
+    },
+    'SW' => {
+      'EN' => 'Swahili',
+      'SW' => 'Kiswahili'
+    }
+  }
+
   def initialize(language:, display_in_language: language)
     @language_code = LanguageCode.new(language)
-    @display_in_language_code = LanguageCode.new(display_in_language)
+    @display_in_language_code = LanguageCode.new(display_in_language).presence || @language_code
   end
 
   def name
@@ -13,22 +47,16 @@ class LanguageNameTranslation
 
     def translate_name
       i18n_data_translation.presence ||
-        hardcoded_translation.presence ||
+        supplementary_translation.presence ||
         english_translation.presence ||
         @language_code.code_with_country
     end
 
-    def hardcoded_translation
-      # These hardcoded translations are mostly here to handle the inconsistencies in the God Tools API
-      # The inconsistency is that the codes should all be 2-letters, but a couple are 3-letters
-      case @language_code.code
-      when 'TGL', 'TL'
-        'Tagalog'
-      when 'NSO'
-        'Northern Sotho'
-      else
-        nil
-      end
+    def supplementary_translation
+      # These hardcoded translations are mostly here to handle the inconsistencies in the God Tools API or missing translations in I18nData
+      translations = SUPPLEMENTARY_TRANSLATIONS[@language_code.code_with_country].presence || SUPPLEMENTARY_TRANSLATIONS[@language_code.code]
+      return nil if translations.blank?
+      translations[@display_in_language_code.code_with_country].presence || translations[@display_in_language_code.code].presence || translations['EN']
     end
 
     def english_translation
