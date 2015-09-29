@@ -1,3 +1,10 @@
+# Add our lib folder to the load path
+lib = File.expand_path('../lib', __FILE__)
+$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
+
+require 'language_code'
+require 'language_name_translation'
+
 # ========================================================================
 # Site settings
 # ========================================================================
