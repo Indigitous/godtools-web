@@ -31,6 +31,10 @@ class LanguageNameTranslation
     'SW' => {
       'EN' => 'Swahili',
       'SW' => 'Kiswahili'
+    },
+    'SI' => {
+      'EN' => 'Sinhala, Sinhalese',
+      'SI' => 'සිංහල'
     }
   }
 
