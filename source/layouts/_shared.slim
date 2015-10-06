@@ -51,6 +51,7 @@ html.no-js class=yield_content(:html_class)
       footer.content-info.text-muted role="content-info": .container: small
         hr
         div &copy; #{ Time.now.year } Cru.
-        i.cru-logo.fixed-size
+        = link_to 'http://www.cru.org' do
+          i.cru-logo.fixed-size
       == partial 'layouts/modals'
 
