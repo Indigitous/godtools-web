@@ -304,7 +304,7 @@ de:
   satisfied:
     page_0:
       a3049b50-0a42-46f1-a286-179c8dea2ee6: Zufrieden?
-      filename: 43fd0a30-6003-42d8-ab57-a18191fcfbfa
+      filename: 32e459b9-d7c0-4e74-802d-c5ce5e7fd591
       title: Startseite
     page_1:
       35ac14b0-fc1b-4598-b233-74c1cd37187d: 'Johannes – der Autor des Evangeliums
@@ -312,8 +312,8 @@ de:
       3c1f29e9-25ee-49ef-96f5-eec2ca101a6b: Die folgenden Grundsätze werden Dir helfen,
         den Heiligen Geist besser zu verstehen und in Deinem Alltag zu erfahren.
       61d05ed8-8f4a-4767-bf2b-1a4065d5a71e: Was meinte Jesus damit?
-      645af94c-eee7-4096-bbef-b4ac93f4e1fe: Wie würdest Du deine aktuelle Erfahrung
-        als Christ/Christin beschreiben?
+      645af94c-eee7-4096-bbef-b4ac93f4e1fe: Wie würdest du dein aktuelles Leben als
+        Christ / Christin beschreiben?
       734c56ea-ffc1-4a0a-b298-4e1d635b7708: 'Jesus sagte: „Wenn jemand Durst hat,
         soll er zu mir kommen und trinken! Wenn jemand an mich glaubt, werden Ströme
         von lebendigem Wasser aus seinem Inneren fließen, so wie es die Schrift sagt“.  (Johannes
@@ -333,17 +333,17 @@ de:
         wachsend | frustrierend
         enttäuschend | erfüllend
         vergeben | im Stillstand | ein Kampf
-        voller Freude | geschlagen | aufregend
-        Höhen und Tiefen | geistig leer
-        entmutigend | Pflicht
-        intim | durschnittlich
+        Voller Freude | zerschlagen | aufregend
+        Mit Höhen und Tiefen | innerlich leer
+        Entmutigt | Pflicht
+        Vertraut | durchschnittlich
         voller Schmerz | dynamisch | schuldig
-        wesentlich | mittelmäßig | Andere?
+        Lebendig | mittelmäßig | andere?
       c97fec59-c592-4fe1-9cd1-4c66d4cdd1f6: Willst Du etwas mehr?
-      filename: 7c5b57a7-0481-4210-9cb3-21d764cb6e7d
+      filename: e431ac8f-ebce-4425-be47-e45e36e8d4ca
       title: Zufrieden?
     page_2:
-      06daebb2-36c6-4a4c-a458-7da93340d01b: Gottes Gabe
+      06daebb2-36c6-4a4c-a458-7da93340d01b: Gottes Geschenk
       108e9d2e-6865-4b13-8b0e-79090aca8c6c: Der Heilige Geist ist die Quelle unserer
         tiefsten Zufriedenheit.
       1bce670f-3a5c-4ccd-936a-262049fac207: "... ständige Gegenwart in uns."
@@ -372,7 +372,7 @@ de:
         Doch ein Mensch, der den Geist Gottes empfangen hat, kann das alles richtig beurteilen... Wir aber haben die Einsicht von Christus empfangen.
         (1. Korinther 2,15-16)
       8cf2fbc8-4585-4702-a210-56aa55691124: satisfied_diagram_01.png
-      c08044ea-df68-425e-b61c-8eeb350a3520: Der Geist ermöglicht uns...
+      c08044ea-df68-425e-b61c-8eeb350a3520: Der Heilige Geist macht uns fähig...
       e33fd2e5-df96-49ff-bd56-9de4242ed1ed: Jesus sagte, „Ich werde den Vater bitten,
         dass er euch an meiner Stelle einen anderen Beistand gibt, der für immer bei
         euch bleibt. Das ist der Geist der Wahrheit.“ (Johannes 14,16-17)
@@ -381,8 +381,8 @@ de:
         gegeben hat."
       fcee3f74-d7ee-480b-b7df-ba700fa84183: Wieso sind so viele Christen mit ihrem
         Leben mit Gott nicht zufrieden?
-      filename: ffc2a104-c167-495d-9b36-ac14130cac32
-      title: Gottes Gabe
+      filename: b6f5ee53-143d-4d14-bc56-b7e3ec98bdb0
+      title: Gottes Geschenk
     page_3:
       051243f6-8d73-4caf-a8f5-4facf1b3ed0b: Denn die menschliche Natur widerstrebt
         dem Geist Gottes und der Geist Gottes ebenso der menschlichen Natur. Beide
@@ -391,7 +391,7 @@ de:
       11bb73ff-f34a-462f-a866-c4004ef31c3b: "... über alles, was Gott für uns vorbereitet
         hat, wenn wir unseres Leben leben und uns nach eigenen egoistichen Bedürfnisse
         richten."
-      131044e1-064a-4e57-accd-4bca7a0917d8: Die potentielle Gefahr
+      131044e1-064a-4e57-accd-4bca7a0917d8: Die bestehende Gefahr
       41f67dd2-f053-4a81-900c-09363e0d3934: Wir können nicht genießen...
       44377ff5-2b02-409a-b169-eaa9a1dfdb1f: |-
         Begreift ihr das nicht? Wollt ihr wirklich in eigener Kraft zu Ende bringen, was ihr im Geist angefangen habt?
@@ -413,12 +413,12 @@ de:
       b5ee2cdd-eb40-47a4-a6a4-610a079f04ee: satisfied_diagram_02.png
       bc49a797-0467-46af-b836-10f930962859: Drei Lebensstile
       f606f6fd-8443-44f1-9cea-b5a38e00577e: Wir können Gottes Nähe und alles was Er
-        für uns hat nicht erfahren und sich über die freuen, wenn wir uns nicht völlig
-        auf Ihn verlassen.
+        für uns hat nicht erfahren und uns darüber freuen, wenn wir uns nicht völlig
+        auf ihn verlassen.
       f735b4aa-5691-4d83-861e-f6c98f721f90: "... ein christliches Leben aus eigenen
         Kräften führen."
-      filename: c32e2242-0ff5-4ae9-9673-38a1026cb806
-      title: Die potentielle Gefahr
+      filename: 80d949df-5fee-4660-bf3a-7374f11f8527
+      title: Die bestehende Gefahr
     page_4:
       2171d7ee-d346-417e-ac4b-ca8ad3c9e906: Gott näher kommen
       27d8462f-d1bf-4766-b216-46a311e98e62: "Übergib die Kontrolle über Dein Leben
@@ -433,26 +433,27 @@ de:
         soll euer Leben bestimmen, dann werdet ihr den eigenen Begierden widerstehen
         können. [...] Wir wollen nicht ehrgeizig unsere Eitelkeit befriedigen und
         uns gegenseitig herausfordern oder beneiden. (Galater, 5,16; 5,25)'
-      750195c7-587d-4e6f-af81-f383b5fc0016: "... ist eine gute Methode, die behilflich
-        sein kann, jeden Augenblick in der Abhängigkeit von dem Geistes zu führen."
+      750195c7-587d-4e6f-af81-f383b5fc0016: "… ist eine gute Methode, die uns helfen
+        kann, jeden Augenblick in der Abhängigkeit vom Heiligen Geist zu führen."
       762387bf-0b85-4962-b5b2-8a493a25f60b: Wie erfüllt uns der Heilige Geist mit
         seiner Macht?
       76732ef2-2bf1-447e-8c15-bf34e41dcf06: Einatmen...
       7db0e7cc-7948-4b0b-8116-f480c8015a6b: Wir erfahren Nähe...
-      7e6b0467-6ab2-4231-a233-be8299667e17: Das Wandern im Heiligen Geist ist eine
-        Lebensweise. Es bedeutet sich ständig auf den Heiligen Geist zu verlassen,
-        auf Seine Kraft und Sein Wirken.
+      7e6b0467-6ab2-4231-a233-be8299667e17: Das Leben im Vertrauen auf den Heiligen
+        Geist ist eine Lebensweise. Es bedeutet sich ständig auf den Heiligen Geist
+        zu verlassen, auf Seine Kraft und Sein Wirken.
       8f0728a6-e931-4d73-991e-408c03aeea7c: "... ein Leben zu führen, das Gott gefällt."
       969dae75-22ac-476d-a662-6f3858cc12fe: satisfied_diagram_03.png
       9f90ed09-ddb4-4dd3-a225-3e7dd13d94fd: Christus in der Mitte des Lebens
-      a73de09d-73f6-4866-a0b7-b3ff61d847a1: Durch das alltägliche Wandern im Heiligen
-        Geist, erfahren wir immer mehr Seine Nähe und freuen uns über alles, was Er
-        für uns hat.
-      ae703380-9fa2-47fc-bd72-d4ecd01b8f0c: "Bekenn Deine Sünde in dem Moment, in
-        dem sie Dir bewusst wird, stimm mit Gott überein, dass Sünde vorliegt, und
-        dank Ihm für seine Vergebung, gemäß 1. Johannes 1,9 und Hebräer 10,1-25 .
-        \nDas Bekennen verlangt Buße - eine Änderung in der Einstellung und Taten."
-      b2c4df2b-77b2-4f57-84ef-1ad7bef3fbc8: 'Wenn wir im Heilgen Geist wandern:'
+      a73de09d-73f6-4866-a0b7-b3ff61d847a1: Durch das alltägliche Leben im Vertrauen
+        auf den Heiligen Geist, erfahren wir immer mehr Seine Nähe und freuen uns
+        über alles, was Er für uns hat.
+      ae703380-9fa2-47fc-bd72-d4ecd01b8f0c: "Bekenne deine Sünde in dem Moment, in
+        dem sie Dir bewusst wird. Gib zu, dass Sünde vorliegt und danke Gott für seine
+        Vergebung, gemäß 1. Johannes 1,9 und Hebräer 10,1-25 . \nDas Bekennen verlangt
+        Buße - eine Änderung in der Einstellung und Taten."
+      b2c4df2b-77b2-4f57-84ef-1ad7bef3fbc8: 'Wenn wir im Vertrauen auf den Heiligen
+        Geist leben:'
       c8aa10b8-b386-44eb-ad1b-50c2c35a1d4f: "... mit Gott und mit alldem, was Er für
         uns vorbereitet hat."
       dce3ce01-daf0-4f58-9db9-e8efdd44892d: Geistiges Atmen...
@@ -460,7 +461,7 @@ de:
       f05d29b9-0831-47e7-a550-ea6849d1902c: Ausatmen...
       f3803aae-3a90-4636-b56c-0f9e97ce670e: Glaube (Vertrauen in Gott und seine Versprechen)
         ist der einzige Weg, um in der Fülle des Geistes zu leben.
-      filename: fb1d8cb5-a5b4-48c0-ab1c-c2851cf6887a
+      filename: 312809d1-b40b-4abf-a05c-5ebebc86b57c
       title: Gott näher kommen
     page_5:
       009fc75e-1c0c-4277-93e8-ba1d1ab577d5: Gott BEFIEHLT uns, mit dem Geist erfüllt
@@ -475,8 +476,8 @@ de:
         den Heiligen Geist."
       3ea26042-4cda-4986-9435-dd96e3e13604: Drei wichtige Fragen...
       44e85f5c-fcaa-401b-8d91-ffbb57be4e58: Durch Glauben sind wir mit dem Heiligen
-        Geist erfüllt und dadurch sind wir dazu fähig, eine intime Beziehung mit Gott
-        zu erfahren und all das zu genießen, was Er für uns hat.
+        Geist erfüllt und dadurch sind wir dazu fähig, eine persönliche Beziehung
+        mit Gott zu erfahren und all das zu genießen, was Er für uns hat.
       70dfee15-929a-4e29-8dc8-4b3953e8f0ed: |-
         2. Bin ich jetzt bereit, meine Sünden zu bekennen? (1. Johannes 1,9) Sünde betrübt den Geist Gottes. (Epheser 4:30)
         Aber Gott hat in Seiner Liebe alle Deine Sünden vergeben - die aus der Vergangenheit, Gegenwart und Zukunft - weil Christus für Dich gestorben ist.
@@ -505,7 +506,7 @@ de:
       f9b99750-f8a9-4cea-8629-4ca0f235ccf0: 3. Wünsche ich mir aufrichtig durch den
         Heiligen Geist geleitet und von Seiner Kraft erfüllt zu werden? (1. Johannes
         7,37-39)
-      filename: 0920829c-4006-4ada-8d87-2313042ac043
+      filename: dc720fe5-ba65-47b7-8908-e03a9c19d708
       title: Die kraftgebende Gegenwart
     page_6:
       1bb84af2-b3ad-4c74-b41d-6ee180624873: Jetzt da Du mit dem Heiligen Geist erfüllt
@@ -519,27 +520,25 @@ de:
       506d2e46-577c-4cf1-92c8-957152126a64: Um mit einem Flugzeug zu fliegen, müssen
         wir Vertrauen in das Maschine selbst und in den Piloten haben. Unsere Gefühle
         - von Zuversicht oder Flugangst - haben keinen Einfluss auf das Flugzeug oder
-        den Piloten. Sie bestimmen gelegentlich, ob die Reise für uns angenehm sein
-        wird.
+        den Piloten. Sie bestimmen höchstens, wie wir die Reise genießen können.
       5d35e2dc-526b-4d74-b3b3-a3d5eb7ce7e9: Verlass Dich nicht auf Gefühle
       60178e6a-473c-43c6-948a-9ff550e3ee8d: Wie kannst Du wissen...
       668c73bf-960e-43c7-8d44-098435d4e3ea: Wenn Du weiterhin Schritt für Schritt
-        vom Geist Gottes abhängig lebst, kannst Du eine intime Beziehung mit Gott
-        erfahren und genießen und Dich an all dem freuen, was er für Dich vorbereitet
-        hat - ein wahrhaft reiches und erfülltes Leben.
+        vom Geist Gottes abhängig lebst, kannst Du eine enge Beziehung mit Gott erfahren
+        und genießen, und Dich an all dem freuen, was er für Dich vorbereitet hat
+        - ein wahrhaft reiches und erfülltes Leben.
       7f75f499-eee1-4fbb-b710-45a69090ecc3: Wir werden mit dem Heiligen Geist durch
         den Glauben erfüllt.
       81cb4f6c-5ad8-4752-aced-ace06052db69: Aufrichtiges Gebet ist eine Art, auf die
         wir unseren Glauben ausdrücken können.
       82594133-e1aa-49bc-b1f9-49ed6aa19143: Lieber Vater, ich brauche Dich. Ich gebe
-        zu, dass ich gegen Dich gesündigt habe, indem ich mein eigenes Leben geleitet
-        habe. Ich danke Dir für Vergebung meiner Sünden, weil Christus für mich auf
-        dem Kreuz gestorben ist. Ich lade jetzt Christus ein, wieder Seinen Platz
-        auf dem Thron meines Lebens zu nehmen. Erfülle mich mit Deinem Geist, wie
-        Du es mir befohlen hast, erfüllt zu werden und wie Du in Deinem Wort versprochen
-        hast zu tun, wenn ich im Glauben bitten würde. Ich bete das im Namen Jesu.
-        Ich danke Dir, dass Du mich jetzt mit dem Heiligen Geist erfüllst und mein
-        Leben leitest.
+        zu, dass ich gegen Dich sündigte, indem ich ein eigensinniges Leben führte.
+        Ich danke Dir für die Vergebung meiner Sünden, weil Christus für mich auf
+        dem Kreuz starb. Ich lade jetzt Christus ein, wieder im Mittelpunkt meines
+        Lebens zu sein. Erfülle mich mit Deinem Geist, da Du es befahlst, erfüllt
+        zu werden, und da Du in Deinem Wort versprachst, das zu tun, worum ich im
+        Glauben bitte. Das bete ich im Namen Jesu. Ich danke Dir, dass Du mich jetzt
+        mit dem Heiligen Geist erfüllst und mein Leben führst.
       8bb2c274-f56e-4390-9315-e5993dfee529: Drückt dieses Gebet den Wunsch Deines
         Herzens aus? Wenn ja, kannst Du jetzt so beten und Gott vertrauen, dass Er
         Dich mit Seinem Geist erfüllt.
@@ -559,7 +558,7 @@ de:
       bb0d27de-90e6-4e49-9b82-0892d7e0d44e: Ebenso sind wir als Christen nicht von
         Gefühlen oder Emotionen abhängig, sondern verlassen uns auf die Zuverlässigkeit
         Gottes und die Versprechen Seines Wortes.
-      filename: 2912e05f-346c-44fc-a1e3-944c05f0abba
+      filename: c0b45655-0f62-4ed6-829e-556c52098eff
       title: Der Wenedepunkt
     page_7:
       1639f0d8-571d-472d-a15a-4fbe00bc7330: 'Merke an dem Jesu Versprechen:'
@@ -581,6 +580,6 @@ de:
         (Johannes 16,14)"
       e2a274bf-1107-4bf1-a355-6b2883c99e35: Jetzt da Du mit dem Heiligen Geist erfüllt
         bist...
-      filename: b3108863-2b86-4e1d-a77d-105c2cea9980
+      filename: 71a659e9-bfa1-4478-afbf-6b84eabd52f5
       title: Jetzt da Du erfüllt bist...
     title: Zufrieden?
