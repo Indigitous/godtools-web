@@ -12,9 +12,9 @@
             = t "#{ current_booklet }.title"
           span.caret
         ul.dropdown-menu role='menu'
-          li = link_to t('kgp.title'), l('/kgp')
-          li = link_to t('fourlaws.title'), l('/fourlaws')
-          li = link_to t('satisfied.title'), l('/satisfied')
+          li = link_to t('kgp.title'), l('/kgp/')
+          li = link_to t('fourlaws.title'), l('/fourlaws/')
+          li = link_to t('satisfied.title'), l('/satisfied/')
 
       li.dropdown
         a.dropdown-toggle data-toggle='dropdown' role='button' aria-expanded='false'
@@ -26,4 +26,3 @@
           - langs_sorted = langs.sort { |a, b| language_name_in_locale(a) <=> language_name_in_locale(b) }
           - langs_sorted.reject { |l| l == :unspecified }.each do |lang|
             li = link_to language_selection_s(lang), l(current_page.path, lang)
-
