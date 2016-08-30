@@ -87,6 +87,12 @@ footer {
   width: 100px;
 }
 
+.navbar {
+  .alert {
+    margin: 0;
+  }
+}
+
 @media screen and (max-width: $screen-md-min) {
   main > article {
     header {

@@ -43,7 +43,7 @@ gt.display_locale_switch_alert_for_locale = (desired_locale) ->
       $(HandlebarsTemplates['alerts/switch_language']({
         url: redirect_to_locale_url,
         language_name: gt.meta_for_locale(desired_locale).language_name
-      })).appendTo('.alerts')
+      })).appendTo('.navbar-right')
 
 
 gt.is_current_booklet_available_in_current_locale = ->
