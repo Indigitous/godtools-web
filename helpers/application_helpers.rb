@@ -29,7 +29,9 @@ module ApplicationHelpers
       unlocalized_path = "/embed#{ unlocalized_path }"
     end
 
-    desired_locale == :unspecified ? unlocalized_path : "/#{ desired_locale }#{ unlocalized_path }"
+    full_path = desired_locale == :unspecified ? unlocalized_path : "/#{ desired_locale }#{ unlocalized_path }"
+    full_path.gsub!('index.html', '') # Paths to index.html files do not need to be in the path, because it's implicit.
+    full_path.ends_with?('/') ? full_path : "#{ full_path }/" # Path should always end with "/" to prevent GitHub pages from auto-redirecting to the path ending in "/".
   end
   alias :l :localize_path
 
