@@ -29,5 +29,5 @@
         ul.dropdown-menu role='menu'
           - langs_sorted = langs.sort { |a, b| language_name_in_locale(a) <=> language_name_in_locale(b) }
           - langs_sorted.reject { |l| l == :unspecified }.each do |lang|
-            li = link_to language_selection_s(lang), l(current_page.path, lang)
+            li = link_to language_selection_s(lang), l(current_path, lang)
 

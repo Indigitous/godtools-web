@@ -36,7 +36,7 @@ module ApplicationHelpers
   alias :l :localize_path
 
   def current_page_embedded?
-    current_page.path.include? '/embed/'
+    current_path.include? '/embed/'
   end
 
   def current_booklet
