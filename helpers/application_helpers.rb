@@ -76,10 +76,10 @@ module ApplicationHelpers
 
   def booklet_nav(page)
     previous_page = page - 1
-    previous_path = previous_page > 0 ? "/#{ current_booklet }/#{ previous_page }" : "/#{ current_booklet }"
+    previous_path = previous_page > 0 ? "/#{ current_booklet }/#{ previous_page }/" : "/#{ current_booklet }/"
 
     next_page = page + 1
-    next_path = "/#{ current_booklet }/#{ next_page }"
+    next_path = "/#{ current_booklet }/#{ next_page }/"
 
     links = ''
     links += link_to(content_tag(:i, '', class: 'fa fa-arrow-left fa-lg'), l(previous_path), class: 'btn btn-default') if booklet_page_exists?(current_booklet, previous_page)
