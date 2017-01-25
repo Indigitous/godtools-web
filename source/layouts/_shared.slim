@@ -23,9 +23,9 @@ html.no-js class=yield_content(:html_class)
 
     == stylesheet_link_tag 'main'
 
-    == javascript_include_tag 'base.js', 'bootstrap-includes.js', 'main.js'
+    == partial 'layouts/head_analytics'
 
-    == partial 'layouts/segment'
+    == javascript_include_tag 'base.js', 'bootstrap-includes.js', 'main.js'
 
   body class=body_classes
     - if current_page.metadata[:initialize_locale] != false
@@ -51,3 +51,4 @@ html.no-js class=yield_content(:html_class)
       == partial 'layouts/footer'
       == partial 'layouts/modals'
 
+    == partial 'layouts/foot_analytics'
