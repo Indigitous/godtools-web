@@ -1,5 +1,292 @@
 ---
 et:
+  fourlaws:
+    page_0:
+      404edd90-1aff-4bb9-83a2-f0d15c46a6e8: TÕSIASJAST?
+      be73de97-89fe-4490-a686-220546e2592c: NELJAST VAIMULIKUST
+      d4b40701-5929-498b-b96e-cc6796d76771: Nii nagu universumis valitsevad loodusseadused,
+        on ka vaimses elus oma seadused, teatud tõsiasjad, mis seovad inimest Jumalaga.
+      da76705f-187d-4083-8677-593a1b7c58fd: Kas sa oled kuulnud
+      filename: 7aa4f5df-a843-4233-8fdc-3d385cf3a218
+      title: Algusesse
+    page_1:
+      01278aca-0fc9-4bb4-bb50-a387d3b0fd21: '[Kristuse sõnad] "Mina olen tulnud, et
+        neil oleks elu, ja oleks seda ülirohkesti." [et see oleks täielik ja tähendusrikas]'
+      1148c3e0-879f-4ba3-96a8-d4b48adf64b0: "(Johannese 3:16)"
+      19d44e41-72ca-48f2-acad-c68b383a86e0: |-
+        Miks ei tunne enamus inimesi Jumalat
+        ega ela täisväärtuslikku elu?
+        Sellepärast, et...
+      681e6951-6be7-4956-ad03-b499d8415575: "(Johannese 10:10)"
+      8602c78c-1795-4857-9195-026f69badf19: '"Sest nõnda on Jumal maailma armastanud,
+        et ta oma ainusündinud Poja on andnud, et ükski, kes temasse usub, ei hukkuks,
+        vaid et tal oleks igavene elu."'
+      abdb2fc7-049c-4c24-9853-1ad59ac55e64: JUMAL ARMASTAB SIND JA TAL ON IMELINE
+        PLAAN SINU ELUKS.
+      af82e3fd-b785-4363-9349-21a3e9f63645: Jumala armastus
+      f2abcea4-074e-4b1a-9c80-651adab20f1b: Jumala plaan
+      filename: c18bbfc4-3c03-4281-986c-9200730f05fc
+      title: 1 Jumal armastab Sind ja lõi Sind selleks, et võiksid Teda isiklikult
+        tunda.
+    page_10:
+      2dfaef4c-0ce9-4152-b4b3-947af7dceea3: piibel.net
+      5e21ea17-05e2-4347-ab7c-01da48a90ed0: Jesusfilm.org/watch/jesus.html/estonian.html
+      80356d92-6553-4291-9464-c7542bbbbb30: 'Kui sa oled selle rakenduse kaudu saanud
+        Kristust isiklikult tundma või soovid rohkem teada ja õppida Kristust paremini
+        tundma, siis soovitame neid lehekülgi:'
+      ae643d40-90ac-44d3-bba0-d27c285508e5: www.tudengielu.net
+      b3c11ca8-82f0-4176-8000-a73f80ab3303: agapeeurope.org/country/agape-eesti/
+      b6949652-efbd-447f-aa62-fd9cb87d2e46: SAADAVAL ON MATERJALID KRISTLIKUKS KASVUKS
+      filename: b315d454-28b9-4003-bc95-071ce8bd67ad
+      title: Materjalid
+    page_2:
+      42753c84-8cff-4627-860d-976efcc662eb: INIMENE ON PATUNE JA LAHUTATUD JUMALAST.
+        SEETÕTTU TA EI TUNNE EGA VÕI KOGEDA JUMALA ARMASTUST EGA TEMA PLAANI OMA ELUS.
+      45d18f06-a17d-4ed2-8803-94dca1c4b080: "▲ - Püha Jumal  |  ★ - Patune inimene"
+      78aec617-7d69-48b4-bf83-bfa3d3ccb853: '"Sest kõik on pattu teinud ja ilma jäänud
+        Jumala kirkusest" (Roomlastele 3:23)'
+      9a4916f5-1434-48c4-87df-2e87de3b2323: Inimene on patune
+      adffc84d-d051-405f-b453-60c064e9448f: '"Sest patu palk on surm" [vaimulik eraldatus
+        Jumalast] (Roomlastele 6:23)'
+      dcac979a-271a-4f7c-971a-659d7c9792e0: See joonis illustreerib, kuidas Jumal
+        on püha ja inimene on patune. Nende vahel on suur lõhe. Nooled illustreerivad,
+        kuidas inimene üritab jätkuvalt Jumalani jõuda läbi omaenda ponnistuste, näiteks
+        läbi heade eluviiside, filosoofia või religiooni aga paratamatult ta kukub
+        läbi.
+      e3986ec1-8a59-4a9a-bcb4-a6d666bb13e4: Inimene loodi elama osaduses Jumalaga,
+        kuid omades tahtevabadust, valis ta kangekaelselt Jumalast sõltumatu elutee
+        ja seepärast kaotas kontakti Jumalaga. Nii inimese oma tahe, mis väljendub
+        mässulises meelelaadis Jumala vastu, kui ka passiivne hoolimatus tema suhtes
+        on nähtused, mida Piibel nimetab patuks. Siit järeldub, et patt on eksimus
+        inimese tahtes ja valikus.
+      e59d5be7-5b2b-465f-87de-f8cca0e542d2: Kolmas printsiip seletab ainukest viisi,
+        kuidas seda lõhet ületada...
+      f3a999ea-e95d-4653-99fb-f8094b720c6b: Inimene on eraldatud
+      filename: 597d8c7d-9374-4455-b517-b1f3be44c0f2
+      title: 2 Me oleme pattu tõttu Jumalast eraldatud, seega me ei saa Teda tunda
+        ega Tema armastust kogeda.
+    page_3:
+      22839228-d950-45b7-a873-ea05192a139c: '"Jeesus ütles: "Mina olen tee ja tõde
+        ja elu. Ükski ei saa minna Isa juurde muidu kui minu kaudu."" (Johannese 14:6)'
+      250ec919-c645-4cfc-9c55-c8189dee2a28: Ta tõusis surnust.
+      34b4af0a-66f4-4666-8e7f-d99284127f40: See joonis illustreerib, kuidas Jumal
+        on ületanud selle lõhe, mis meid Temast eraldab, saates Oma Poja, Jeesuse
+        Kristuse, surema ristil meie eest, et maksta meie pattude hinna.
+      35da1297-b80c-4111-b55b-45c22c4d248c: '"Kristus suri meie pattude eest... ta
+        maeti maha ja äratati kolmandal päeval üles pühade kirjade järgi... ta näitas
+        ennast Keefasele, seejärel neile kaheteistkümnele, seejärel näitas ta ennast
+        ühtaegu enam kui viiesajale vennale..."'
+      3fcf1d5f-45e2-4eb8-861c-b7e64b98b073: Tema on ainuke tee Jumala juurde
+      9310dd00-7066-4304-8a5e-8ad520506982: "Nende kolme tõsiasja teadmisest \nja
+        nendesse uskumisest ei piisa..."
+      9d5152c5-cf21-421f-85a8-c3101d949190: "(Roomlastele 5:8)"
+      b1fdf550-98d6-4f05-acef-f0d9a8e64eaf: '"Ent Jumal teeb nähtavaks oma armastuse
+        meie vastu sellega, et Kristus suri meie eest, kui me olime alles patused."'
+      c5657019-0dca-4748-90fe-399144e31db4: "▲ - Jumal  |  † - Jeesus  |  ★ - Inimene"
+      cb327c83-aaee-418c-8754-e977434d9737: Ta suri meie eest
+      dacb2032-d5ca-4117-9763-83f41db46186: "(1. Korintlastele 15:3-6)"
+      dcad7fa5-67ea-44b9-a814-1aa08d62604e: JEESUS KRISTUS ON JUMALA AINUS LAHENDUS
+        MEIE PATULE. AINULT LÄBI TEMA SAAME ME TUNDA JUMALAT ISIKLIKULT JA KOGEDA
+        TEMA ARMASTUST JA TEMA PLAANI MEIE ELULE.
+      filename: 83a2e9bf-9339-4a29-b6ca-723676d688ec
+      title: 3 Jeesus on ainus lahendus meie patule. Ainult läbi Tema võime me tunda
+        Jumalat ja võtta vastu Tema armastust ja andestust.
+    page_4:
+      080fc752-9ca8-4b90-af6a-9a5e1591ffa4: Me võtame Kristuse enda ellu usu kaudu
+      25a0cf14-9e81-43cf-97f2-e99f3d88d2c2: "(Efeslastele 2:8-9)"
+      2b0efb4f-25d9-4fb8-85c4-66002459db8a: Kui me võtame Kristuse oma ellu vastu...
+      98f37160-ecd4-4fdd-8d87-aad66cef826d: Me peame võtma Kristuse oma ellu vastu
+      a00c7635-f82a-4dce-bd48-059a50ec1492: ME PEAME VÕTMA JEESUSE KRISTUSE ISIKLIKULT
+        VASTU OMA PÄÄSTJAKS JA KUNINGAKS, SIIS ME SAAME TEADA JA KOGEDA JUMALA ARMASTUST
+        JA TEMA PLAANI MEIE ELUKS.
+      b1a2624c-3f58-4648-9843-59a841890f3b: Ei piisa üksnes intellektuaalsest nõustumisest,
+        et Jeesus Kristus on Jumala Poeg ja et Ta suri ristil meie pattude eest. Ei
+        piisa ka emotsionaalsest kogemusest. Me võtame Kristuse oma ellu vastu usu
+        läbi, vaba tahte teona.
+      b6ad5fd1-162a-45c6-8200-8ef227d83a08: Me kogeme taassündi.
+      b80fa33f-a46d-4723-ad8f-b8c23142cd1d: "(Ilmutuse 3:20)"
+      bd2663ba-ccd1-4400-a89c-5ff0582e4f8d: Me võtame Kristuse oma ellu vastu läbi
+        isikliku kutse
+      be59c51a-cb27-485f-b89a-7c5a427729fd: "...Jumala poole pöördumist (meeleparandust)
+        ja Kristuse usaldamist tulla meie ellu, et andestada meie patud ja teha meid
+        selleks, kes Tema tahab, et me oleksime."
+      c499a322-ef95-4627-8513-f07a16770087: "(Loe Johannese 3:1-8)"
+      cab22c4e-4ccc-4d7d-8100-64a438306d3c: '"Aga kõigile, kes tema vastu võtsid,
+        andis ta meelevalla saada Jumala lasteks, neile, kes usuvad tema nimesse."'
+      d1ccf916-a3fb-4abc-9dce-6ffa8e7a2e1d: '"Sest teie olete armu läbi päästetud
+        usu kaudu - ja see ei ole teist enestest, vaid see on and Jumalalt, mitte
+        tegudest, et ükski ei saaks kiidelda."'
+      d73f49ed-3185-4385-84c0-456a65514a52: |-
+        [Kristuse sõnad] "Ennäe, ma seisan ukse taga ja koputan. Kui keegi kuuleb mu
+        häält ja avab ukse, siis ma tulen tema juurde."
+      e5fc852d-7718-4206-b328-785def7ae592: Kristuse ellu vastu võtmine tähendab...
+      e6f40dd1-5cc3-40d4-b749-351e01974b8c: "(Johannese 1:12)"
+      filename: 4d08e21b-32ba-4292-9942-4ab7d1387f09
+      title: 4 Me peame igaüks isiklikult Jeesuse vastu võtma, usaldades Teda kui
+        oma isiklikku Päästjat ja Issandat. Ainult nii võime tunda Jumalat isiklikult.
+    page_5:
+      001f5c24-aabd-483b-ab6c-b9e064a09375: "† - Kristus on elust väljaspool."
+      01d03eb0-56f2-488e-abb2-c688cea52cf1: Enesekeskne elu
+      24b57ef6-b963-4b44-ac98-4f1af8f82d55: s - Inimene alistub Kristusele.
+      8906846a-09d9-4cd3-83fd-879d59e20b62: o - huvisid juhib inimene, tuues endaga
+        tihti kaasa ebakõlad ja frustratsiooni.
+      8b7f7645-fb10-4e50-8986-cd88503d2e67: Millist ringi sa tahaksid oma elu esindama?
+      b5c91ec7-6c1b-4090-83fb-ac1e07590101: s - inimene on troonil.
+      c0775670-8920-4b66-8cc9-c4a6bc87656d: Järgnev seletab, kuidas sa saad Kristuse
+        oma ellu vastu võtta...
+      db583108-9103-4819-b351-8bffb74bba8c: "† - Kristus on elu keskel ja troonil."
+      f45a6a36-dd42-468a-9dbb-f704788a806d: o - huvisid juhib Kristus, tuues endaga
+        kaasa harmoonia Jumala plaaniga.
+      f4d5bc34-ad41-415b-af49-0e1a8d9529e1: Kristusekeskne elu
+      f5322d88-80e2-4da9-8ae3-6af2f464a30d: Milline ring esindab sinu elu?
+      f65b2688-f83a-4121-8c82-57f9e889586b: NEED KAKS RINGI ESINDAVAD KAHTE TÜÜPI
+        ELUSID
+      filename: e97df180-3e9c-40e2-9ef5-88a589e42cb3
+      title: Need kaks ringi kirjeldavad kahte tüüpi inimesi.
+    page_6:
+      0f699462-1ed7-4732-954f-1df3687da081: Jah
+      103b41ad-eeca-4d05-bc6d-2b0c29c4d5d2: Ei, aitäh
+      455d2deb-0bd1-418c-9c74-2303cc58350d: Nimi
+      55048828-f4e1-4740-82f0-a9147a6b1489: Valmis
+      5ec11b23-302b-4c55-90d5-ed810f297757: |-
+        Issand Jeesus,
+        Mul on Sind vaja. Ma tänan sind selle eest, et Sa surid ristil minu pattude eest. Ma avan Sulle oma elu uksed ja võtan Sind vastu kui oma Päästjat ja Kuningat.
+        Ma tänan Sind, et andestad mulle mu patud ja annad mulle igavese elu. Istu mu elu troonile. Tee mind selliseks inimeseks, nagu Sina tahad, et ma oleks.
+      6128692d-d332-4b10-815a-9fa34bb0d7ca: Kui sa pole seda kätte saanud, siis vaata
+        oma spämmikausta.
+      62b35212-dc4e-4e2e-a7ac-09a68537c6f5: "(Palve on Jumalaga rääkimine)"
+      6dff341b-216b-4e15-a426-117dbc1dbe8b: Täname
+      7163ec1b-18bf-4120-92ae-4c812a854ed9: E-mail
+      8a4d0fb9-c8ec-428e-a673-e2d93bece89f: Kellegi paremini tundma õppimine aitab
+        teie suhetel kasvada. Kas sa soovid panna end kirja e-maili teel saadetavale
+        seeriale, mis aitab sind juhtida sinu suhtes Jeesuse Kristusega?
+      9087f3c4-35c7-47d0-b621-cbc835b014be: 'Järgnev on soovituslik palve:'
+      97258362-2c38-45d2-9655-68a4d76245d9: Kellegi paremini tundma õppimine aitab
+        teie suhetel kasvada. Kas sa soovid panna end kirja e-maili teel saadetavale
+        seeriale, mis aitab sind juhtida sinu suhtes Jeesuse Kristusega?
+      a3095edd-d936-45d4-9256-f1d6dc8deec2: Kui see registreerimine toimub võrgust
+        väljas olles, siis sa pead selle rakenduse hiljem Wifi võrgus olles taasavama
+        ja see vorm läheb automaatselt teele.
+      a74d35ba-87b8-42ee-b853-806ca0b2e880: Jeesus on tulnud sinu ellu nagu ta on
+        lubanud
+      b4334eea-9d8c-484f-b919-7fed2d5fc635: |-
+        Kristus tuleb sinu ellu
+        nagu ta on lubanud
+      ba926c37-e783-42bd-868a-7894c6c54088: Kas see palve väljendab sinu südame tahtmist?
+        Kui jah, siis ma tahan, et sa palvetaksid selle palve.
+      cd520fe5-7e74-4d2e-b7b6-4f49390bb01d: Kas sa palvetasid selle palve?
+      d0869ef8-06e1-4bec-b07f-f75285e0b0c6: Vaata oma postkasti, kuhu peaks varsti
+        ilmuma sinu esimene õppematerjal Jeesuse järgimisel.
+      d6b03134-2f6a-4afb-b36b-e8e89d9d7e11: Saada
+      d7df22f4-9678-4ee7-9c67-e7e5fc306112: Jumal teab sinu südant ja teda huvitavad
+        vähem sinu sõna kui su südamehoiak.
+      e8a4256e-ce69-42d2-b9f9-9d54c90e762a: SA VÕID KRISTUSE OMA ELLU VASTU VÕTTA
+        USUS PALVETADES
+      ee90f703-78e1-409a-bd3a-d8b8d5728081: Ma olen selle otsuse juba teinud
+      ff5c12a1-496e-4a2e-bf98-d963a9127bb5: Pole valmis
+      filename: 7925dd88-c313-4839-83c2-3eab831beebb
+      title: Sa võid väljendada oma suhtumist Jumalasse palve kaudu.
+    page_7:
+      0b6ed82c-75e3-4597-a8b5-94958dd9bb89: KUIDAS TEADA, ET KRISTUS ON SINU ELUS
+      15912814-cb40-467a-b4ae-354c367a273a: |-
+        Oma lubaduse kohaselt Ilmutuse raamatus, salmis 3:20, kus on Kristus praegu?
+        Kristus ütles, et Ta tuleb sinu ellu. Kas Ta valetaks sulle?
+        Kuidas sa saad kindel olla, et Jumal on sinu palvele vastanud? (Jumala ja tema Sõna usaldusväärsus)
+      2a3b40b5-2249-4f0b-9aa5-ac2f83c7ab46: Piibel lubab igavest elu...
+      3002cd11-c590-4790-981e-cee28a661270: Jumala Sõna lubadused ja Piibel - mitte
+        meie tunded - on meile autoriteediks. Kristlane elab usust (usaldusest) Jumala
+        ja Tema Sõna usaldusväärsusesse. See joonis rongiga illustreerib suhet faktide
+        (Jumal ja Ta Sõna), usu (meie usaldus Jumala ja Tema Sõna vastu) ja tunnete
+        (meie usu ja kuulekuse tulemus) vahel. (loe Johannese 14:21)
+      6128a2c8-82c6-4dc8-bf8c-e378c3851410: "...kõigile, kes võtavad vastu Kristuse."
+      652832bd-f9ae-4fb7-aaf4-16ef584d2cdd: "[ Faktid ] - [ Usk ] - [ Tunded ]"
+      666b553f-d0f5-437e-a0fa-b421a724707c: Kas sa võtsid Kristuse oma ellu vastu?
+      7733f716-949b-405f-8de9-7771b9320068: Rong sõidab kas kambüüsiga või ilma. Samas
+        oleks mõttetu üritada rongi kambüüsist liikuma panna. Samal viisil meie kristlastena
+        ei sõltu tunnetest või emotsioonidest, vaid me paneme oma usu (usalduse) Jumala
+        ja Tema Sõna usaldusväärsusesse.
+      84999bcf-a404-436e-9454-5c70ebb88c84: Tähtis meeldetuletus...
+      994db774-8810-46ca-bee3-e817c4c249cd: '"Ja see tunnistus on: Jumal on andnud
+        meile igavese elu ja see elu on tema Pojas. Kellel on Poeg, sellel on elu;
+        kellel ei ole Jumala Poega, sellel pole elu. Seda ma olen kirjutanud teile,
+        kes te usute Jumala Poja nimesse, et te teaksite: teil on igavene elu." (1.
+        Johannese 5:11-13)'
+      d8911e6a-8df6-4c5b-96c5-527905f1db22: Täna Jumalat tihti selle eest, et Kristus
+        on sinu elus ja et Ta sind kunagi ei jäta (Heebrealastele 13:5). Sa võid Tema
+        lubaduse baasil alati teada, et Kristus elab sinus ja et sul on igavene elu
+        juba sellest hetkest, kus ta Ta oma ellu kutsud. Ta ei valeta sulle.
+      ed474402-3427-48f6-920d-39a798dfcd58: "Ära toetu oma tunnetele"
+      filename: d5546920-c593-465d-b0cb-f30ea9c140dd
+      title: Kuidas ma saan olla kindel, et kõik see päriselt juhtus?
+    page_8:
+      18787c88-3b76-4cf9-a836-393bee4d1e0f: Kas sa suudad ette kujutada midagi...
+      43e2d065-da26-4aab-845c-9218d0783f36: "- Sa pärisid igavese elu"
+      441ed36e-4ae1-483b-b367-c17f7a6adb4d: "- Sa said Jumala lapseks"
+      581a6b5d-6674-404d-979b-74f35da8b7c4: "(Johannese 5:24)"
+      5d752762-ccd9-4bff-b5af-50dc164c27e2: NÜÜD, KUS SA OLED KRISTUSE OMA ELLU VASTU
+        VÕTNUD
+      628af499-ee4d-41f4-ad13-2b7404128b02: 'Sel hetkel, kus sa Kristuse vabatahtlikult
+        oma ellu vastu võtsid, juhtus palju asju. Teiste hulgas ka need asjad:'
+      75179d85-6fd4-4470-b988-63a46b3c5a41: "(Koloslastele 1:14)"
+      8ce2b3fa-848d-457c-a447-98a6181ffa67: "...milleks Jumal sind on loonud"
+      8e5c37e2-50ad-4175-aeff-be8cf80232cb: "...mis on imelisem, kui Kristuse oma
+        ellu vastu võtmine? Kas sa tahaksid Jumalat palves tänada, selle eest, mis
+        Ta on sinu jaoks teinud? Jumalat tänades näitad sa välja oma usku."
+      b78fe8ac-800d-4c9c-8f58-720685ad52c5: "- Sinu patud anti andeks"
+      bdd7d7ed-d61f-4f66-baee-e0596a5084c0: "(Johannese 1:12)"
+      c8367e87-901c-4196-bef7-5073bbd350f0: "- Sa alustasid seda võimast seiklust..."
+      ce4d73ae-eae9-4ad1-b75f-5cf467bf0b1b: "- Kristus tuli sinu ellu"
+      ce80b468-1f47-405e-b4df-b3f17d3c5917: "(Ilmutuse 3:20 ja Koloslastele 1:27)"
+      ea3dba44-0a91-4b06-b7a8-a3b6323339da: "Et elade oma uut elu \ntäiel rinnal..."
+      f1cdce10-eae2-45b6-9e1b-f025e32811d7: "(Johannese 10:10; 2. Korintlastele 5:17;
+        1. Tessalooniklastele 5:18)"
+      filename: 106341bd-fdae-40c9-84a3-4a5830550e0d
+      title: 'Sel hetkel, kui võtsid usus vastu Jeesuse Kristuse, toimusid sinu elus
+        suured muudatused, ja nimelt:'
+    page_9:
+      1318c4c5-f382-4592-8194-e4c439422b6f: Saagu Püha Vaim sind täita ja teha sinust
+        Kristuse tunnistaja.
+      141466f7-fb7f-44e3-90a6-b98978615965: Tunnista
+      15bbe563-7469-4f41-900a-dd1e438b034b: Osadus heas koguduses
+      2c3474ae-287b-4467-b904-b67fa0375fc1: Püha Vaim
+      46d0a51a-f2d1-4e3a-8eac-6be571dd8547: "Usus kasvamine on Jeesuse usaldamise
+        tulemus. ,,Õige peab usust elama” (Gal. 3,11). \n\nUsust elamine võimaldab
+        sul igas olukorras üha enam loota Jumalale. Mõned praktilised nõuanded sulle
+        selleks:"
+      5f832e24-e77c-4f36-be13-d0eaebda2a84: Alludes kõiges Jumalale, võid elada tõelist
+        kristlase elu.
+      6371b963-8350-425a-b4db-4b29b4809eab: KUIDAS KRISTLASENA KASVADA?
+      6e5ffc21-1b31-44a9-aba9-973d875e6d6b: Kuuletu
+      6f9899a7-1198-4146-a3da-85b7af126829: Alusta Johannese evangeeliumist.
+      7561abb4-d54b-4bd4-96a6-bd6e7d102489: Loe Jumala Sõna igapäevaselt.
+      7d5e8f33-b4ba-4d4e-9f01-729a4692729a: "(vaata Galaatlastele 5:16-17 ja Apostlite
+        teod 1:8)"
+      88ec181e-a31f-4fe5-b75a-324dac335249: "(vaata 1. Peetruse 5:7)"
+      9094027f-4dbc-4fd0-928e-934e71463dbe: Usalda
+      90bef6b5-c6f8-4a3d-ab1a-9fbd75660743: Alga iga päeva tõsise palve ja Jumala
+        tahte otsimisega.
+      913b2c56-7095-4048-a960-7d378ded7b07: Loe
+      93f73e0d-9e71-4be1-a640-c8a4043afcff: Joh. 15,8
+      980518ae-87f0-48cf-9548-fba01ffdf721: "(vaata Apostlite teod 17:11)"
+      9c196e7c-7cfe-4b3a-892d-3db23bb024a4: Heebrealastele 10:25 annab meile tugeva
+        meeldetuletuse mitte puududa oma koguduse koosolekutelt. Mitu halgu koos põlevad
+        eredalt, ent kui üks neist võetakse tulest välja ja asetatakse eraldi, siis
+        ta kustub. Sama kehtib sinu suhete kohta teiste kristlastega. Kui sa veel
+        ei kuulu ühtegi kogudusse, siis ära jää ootama, et sind ise kutsutaks.
+      b248716d-7246-45e2-b3a4-ad2f4a5c32e8: Kõigis elusündmustes võid toetuda Jumalale
+        ja usaldada teda.
+      bf9cefbd-6010-4a4d-9803-717737671c45: Lase Tal kontrollida ja võimendada sinu
+        igapäevast elu ja tunnistust.
+      c625a988-dd7d-44ae-af59-9e4baed5677c: "(Johannese 15:7)"
+      e5687d09-9a26-4195-8855-5be15b04665e: Mine
+      e735a5c3-f155-4255-82d6-dce217ad1d85: 'Astu ise esimene samm: liitu kogudusega,
+        kus järgitakse Kristust ja kus kuulutatakse ja õpetatakse Jumala Sõna. Alusta
+        juba sellel nädalal ja tee see otsus külastada jumalateenistusi igal võimalusel.
+        Sealt leiad ka sõpru, kes toetavad sind usuteel.'
+      f9391851-9dd4-4ee7-9721-206aa0c5863d: Matt. 4,19; Ap. t. 1,8
+      filename: ec4cb1bb-8e4f-4322-b05c-d3b3cd7ae0b4
+      title: Kuidas kasvada Jeesuse järgijana
+    title: Neli vaimulikku tõsiasja
   kgp:
     page_0:
       02cf6004-a0f9-4828-be26-09253d4490b6: JUMALA TUNDMINE
