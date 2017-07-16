@@ -230,5 +230,8 @@ DEPENDENCIES
   pry-stack_explorer (~> 0.4.9.2)
   slim (~> 3.0.2)
 
+RUBY VERSION
+   ruby 2.2.2p95
+
 BUNDLED WITH
-   1.10.5
+   1.15.1
