@@ -1,8 +1,8 @@
 sudo: false
-language: node_js
-node_js: '7'
+language: ruby
+rvm:
+  - 2.2
 script:
-- rvm install 2.2.2
 - bundle exec middleman build
 cache:
   yarn: true
