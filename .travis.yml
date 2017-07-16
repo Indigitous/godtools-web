@@ -1,0 +1,22 @@
+sudo: false
+language: node_js
+node_js: '7'
+script:
+- bundle exec middleman build
+cache:
+  yarn: true
+  directories:
+  - node_modules
+before_deploy:
+- pip install --user awscli
+deploy:
+- provider: script
+  script: "~/.local/bin/aws s3 sync build s3://cru-godtools-web --region us-east-1
+    --acl public-read --cache-control 'public, max-age=3600'"
+  skip_cleanup: true
+  on:
+    branch: build-with-travis
+env:
+  global:
+  - AWS_ACCESS_KEY_ID=AKIAJFUBK4OPDH3JQKOA
+  - secure: PTk1/wfP5IgTPGG0EDlBzvuMvvoM+cc672pEDhOMVmi98Q6KjLm/LQTsVeUvOjfS49wBKphgQU/wdChC3fTM8+Sb4Z2iM/COdfkcR/O1DjVtJb+LRTrIBsnietqSph/rL42TD60fDFNT5pwV1DBrL44zevJO/s6cF/YaHH8XUoQ=
