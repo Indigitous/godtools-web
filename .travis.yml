@@ -1,5 +1,7 @@
 sudo: false
 language: node_js
+rvm:
+  - 2.2
 node_js: '7'
 script:
 - bundle exec middleman build
