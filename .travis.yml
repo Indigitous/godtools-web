@@ -20,7 +20,7 @@ deploy:
     secret_access_key: $AWS_SECRET_ACCESS_KEY
     bucket: cru-godtools-web
     acl: public_read
-    cache_control: max-age=3600
+    cache_control: "max-age=3600"
     local-dir: build
     skip_cleanup: true
     on:
