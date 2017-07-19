@@ -14,7 +14,6 @@ env:
   - AWS_ACCESS_KEY_ID=AKIAJPLIHFHG24IQ3EFA
   - secure: HdpaSujhRoiFLkzv242BO6cpJnnt4Hcj8/M3vxAdmrGNSESdtP2S3dqgoj3LBR/MUt0x8OcIT8bM6vBJ9nl7m2sKSJ7zudKzoi/Dd4I2SEpusCGpqXeK3niziJSjnVBNFlr3WCfnns0JcifMcrEYvWXpZhT5WP5fePUF7qq6hTk=  
 deploy:
-  matrix:
   - provider: s3
     access_key_id: $AWS_ACCESS_KEY_ID
     secret_access_key: $AWS_SECRET_ACCESS_KEY
