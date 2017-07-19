@@ -1,25 +1,26 @@
 sudo: false
 language: ruby
 rvm:
-  - 2.2.2
+- 2.2.2
 script:
-- bundle exec middleman build >/dev/null 2>/dev/null
+- bundle exec middleman build
 cache:
   yarn: true
   directories:
   - node_modules
-deploy:
-- provider: s3
-  access_key_id: $AWS_ACCESS_KEY_ID
-  secret_access_key: $AWS_SECRET_ACCESS_KEY
-  bucket: cru-godtools-web
-  acl: public_read
-  cache_control: "max-age=3600"
-  local-dir: build
-  skip_cleanup: true
-  on:
-    branch: build-with-travis
 env:
   global:
-  - AWS_ACCESS_KEY_ID=AKIAJFUBK4OPDH3JQKOA
-  - secure: PTk1/wfP5IgTPGG0EDlBzvuMvvoM+cc672pEDhOMVmi98Q6KjLm/LQTsVeUvOjfS49wBKphgQU/wdChC3fTM8+Sb4Z2iM/COdfkcR/O1DjVtJb+LRTrIBsnietqSph/rL42TD60fDFNT5pwV1DBrL44zevJO/s6cF/YaHH8XUoQ=
+  - AWS_ACCESS_KEY_ID=AKIAJPLIHFHG24IQ3EFA
+  - secure: HdpaSujhRoiFLkzv242BO6cpJnnt4Hcj8/M3vxAdmrGNSESdtP2S3dqgoj3LBR/MUt0x8OcIT8bM6vBJ9nl7m2sKSJ7zudKzoi/Dd4I2SEpusCGpqXeK3niziJSjnVBNFlr3WCfnns0JcifMcrEYvWXpZhT5WP5fePUF7qq6hTk=  
+deploy:
+  matrix:
+  - provider: s3
+    access_key_id: $AWS_ACCESS_KEY_ID
+    secret_access_key: $AWS_SECRET_ACCESS_KEY
+    bucket: cru-godtools-web
+    acl: public_read
+    cache_control: max-age=3600
+    local-dir: build
+    skip_cleanup: true
+    on:
+      branch: build-with-travis
