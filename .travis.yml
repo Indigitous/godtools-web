@@ -8,12 +8,14 @@ cache:
   yarn: true
   directories:
   - node_modules
-before_deploy:
-- pip install --user awscli
 deploy:
-- provider: script
-  script: "~/.local/bin/aws s3 sync build s3://cru-godtools-web --region us-east-1
-    --acl public-read --cache-control 'public, max-age=3600'"
+- provider: s3
+  access_key_id: $AWS_ACCESS_KEY_ID
+  secret_access_key: $AWS_SECRET_ACCESS_KEY
+  bucket: cru-godtools-web
+  acl: public_read
+  cache_control: "max-age=3600"
+  local-dir: build
   skip_cleanup: true
   on:
     branch: build-with-travis
