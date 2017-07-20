@@ -67,7 +67,7 @@ task :deploy do
   sh "git config --global user.name 'Travis CI'"
   sh "git config --global user.email 'travis@travis-ci.com'"
 
-  sh "git remote add upstream 'https://$GH_TOKEN@github.com/Indigitous/godtools-web.git'  > /dev/null 2>&1"
+  sh "git remote add upstream 'https://$GT_TOKEN@github.com/Indigitous/godtools-web.git'  > /dev/null 2>&1"
   sh 'git fetch upstream'
   
   sh 'git add --all locales/'
