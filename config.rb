@@ -150,20 +150,3 @@ configure :build do
     ]
   }
 end
-
-# ========================================================================
-# Deployment-specific configuration
-# ========================================================================
-# Middleman-deploy can deploy a site via rsync, ftp, sftp, or git.
-# Documentation: https://github.com/karlfreeman/middleman-deploy
-# ========================================================================
-activate :deploy do |deploy|
-  deploy.method = :git
-  deploy.build_before = true
-  # Optional Settings
-  # deploy.remote   = 'custom-remote' # remote name or git url, default: origin
-  # deploy.branch   = 'custom-branch' # default: gh-pages
-  # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
-  # deploy.commit_message = 'custom-message'      # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
-end
-

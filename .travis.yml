@@ -3,6 +3,7 @@ language: ruby
 rvm:
 - 2.2.2
 script:
+- bundle exec rake deploy
 - bundle exec middleman build >/dev/null 2>/dev/null
 cache:
   yarn: true
