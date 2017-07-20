@@ -64,8 +64,8 @@ task :deploy do
   puts 'Committing the updated locale files to git ...'
   
   # Use ruby 'sh' so that the task aborts if the command fails
-  sh "config user.name 'Travis CI'"
-  sh "config user.email 'travis@travis-ci.com'"
+  sh "git config --global user.name 'Travis CI'"
+  sh "git config --global  user.email 'travis@travis-ci.com'"
 
   sh "git remote add upstream 'https://$GH_TOKEN@github.com/Indigitous/godtools-web.git'  > /dev/null 2>&1"
   sh 'git fetch upstream'
