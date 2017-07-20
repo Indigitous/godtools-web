@@ -3,8 +3,7 @@ language: ruby
 rvm:
 - 2.2.2
 script:
-- mkdir build
-- touch build/text.html
+- bundle exec middleman build >/dev/null 2>/dev/null
 cache:
   yarn: true
   directories:
