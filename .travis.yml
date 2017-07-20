@@ -13,7 +13,7 @@ env:
   global:
   - AWS_ACCESS_KEY_ID=AKIAJPLIHFHG24IQ3EFA
   - secure: HdpaSujhRoiFLkzv242BO6cpJnnt4Hcj8/M3vxAdmrGNSESdtP2S3dqgoj3LBR/MUt0x8OcIT8bM6vBJ9nl7m2sKSJ7zudKzoi/Dd4I2SEpusCGpqXeK3niziJSjnVBNFlr3WCfnns0JcifMcrEYvWXpZhT5WP5fePUF7qq6hTk=  
-  - secure: ZJOy82/2P4usgWAplsnZ0P0HFt/i8pKFP2VxLMLzgawxjRR4jdrOuNH+7NeXw3R2899vgTZjvmv6w+OFpQafN5q4mvn05WanNrK6mcFCzAET6TU7iFNg8/Iopx+C3G20R1NcMjWXqNM14Xc7d3mZN5Xq296Y6ZpH8lx6ST7iBL8=
+  - secure: "dzb6sPooV/C4syODPk7PVYovx4+x/QgaYskdnVXVThwhUHhb3BaTAatqq2Lw0QRan2xz4eR2l2ggWft2ujWNGyGHzJxnJY4jU8mSkyWqWdM5maw25BiIm1LavgGgWpgQ+H50Sw1FxEzCyzPgXclHEylxMVM2xA/+97EzDUmxO64="
 deploy:
   - provider: s3
     access_key_id: $AWS_ACCESS_KEY_ID
