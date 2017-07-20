@@ -68,7 +68,7 @@ task :deploy do
   sh "git config --global user.email 'travis@travis-ci.com'"
 
   sh "git remote add upstream 'https://$GH_TOKEN@github.com/Indigitous/godtools-web.git'  > /dev/null 2>&1"
-  sh 'git fetch stream'
+  sh 'git fetch upstream'
   
   sh 'git add --all locales/'
   # If there is nothing new to commit then git commit will exit with an error, use ruby 'system' call so that the task continues even if the commit fails
