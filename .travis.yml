@@ -21,5 +21,3 @@ deploy:
     cache_control: "max-age=3600"
     local-dir: build
     skip_cleanup: true
-    on:
-      branch: build-with-travis
