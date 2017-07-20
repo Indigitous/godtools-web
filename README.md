@@ -26,7 +26,7 @@ After you are happy with your changes and they are tested locally you may then c
 
 Travis CI will pick up any commit to master, build the project and push the built version of the site to S3 if successful. Travis CI will also run a job once per day to ensure translation updates are pushed to the site even when no code changes occur.
 
-If you want to update the locale files and deploy the Middleman app in one command then you may use the custom rake task: `bundle exec rake deploy`
+If you want to update the locale files and deploy the Middleman app in one command then you may manually invoke the [Travis build](https://travis-ci.org/Indigitous/godtools-web)
 
 ### Updating the Translation Strings from the GodTools API
 
