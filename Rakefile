@@ -68,9 +68,6 @@ task :deploy do
   system "git commit -m 'Update locale files - automated commit by rake deploy task'"
   sh 'git push origin master'
 
-  puts 'Building and deploying the site with middleman ...'
-  sh 'bundle exec middleman deploy'
-
   puts 'Deploy task finished!'
 end
 
