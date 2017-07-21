@@ -3,7 +3,7 @@ language: ruby
 rvm:
 - 2.2.2
 script:
-- bundle exec rake deploy
+- bundle exec rake locales:update
 - bundle exec middleman build >/dev/null 2>/dev/null
 cache:
   yarn: true
@@ -13,7 +13,6 @@ env:
   global:
   - AWS_ACCESS_KEY_ID=AKIAJPLIHFHG24IQ3EFA
   - secure: HdpaSujhRoiFLkzv242BO6cpJnnt4Hcj8/M3vxAdmrGNSESdtP2S3dqgoj3LBR/MUt0x8OcIT8bM6vBJ9nl7m2sKSJ7zudKzoi/Dd4I2SEpusCGpqXeK3niziJSjnVBNFlr3WCfnns0JcifMcrEYvWXpZhT5WP5fePUF7qq6hTk=  
-  - secure: "dzb6sPooV/C4syODPk7PVYovx4+x/QgaYskdnVXVThwhUHhb3BaTAatqq2Lw0QRan2xz4eR2l2ggWft2ujWNGyGHzJxnJY4jU8mSkyWqWdM5maw25BiIm1LavgGgWpgQ+H50Sw1FxEzCyzPgXclHEylxMVM2xA/+97EzDUmxO64="
 deploy:
   - provider: s3
     access_key_id: $AWS_ACCESS_KEY_ID

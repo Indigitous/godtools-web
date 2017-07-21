@@ -53,28 +53,3 @@ namespace :locales do
   end
 
 end
-
-
-task :deploy do
-  puts 'Starting deploy task ...'
-
-  puts 'Invoking rake task to update the locales ...'
-  Rake::Task['locales:update'].invoke
-
-  puts 'Committing the updated locale files to git ...'
-  
-  # Use ruby 'sh' so that the task aborts if the command fails
-  sh "git config --global user.name 'Travis CI'"
-  sh "git config --global user.email 'travis@travis-ci.com'"
-
-  sh "git remote add upstream 'https://$GH_TOKEN@github.com/Indigitous/godtools-web.git'  > /dev/null 2>&1"
-  sh 'git fetch upstream'
-  
-  sh 'git add --all locales/'
-  # If there is nothing new to commit then git commit will exit with an error, use ruby 'system' call so that the task continues even if the commit fails
-  system "git commit -m 'Update locale files - automated commit by rake deploy task'"
-  sh 'git push --quiet upstream master'
-
-  puts 'Deploy task finished!'
-end
-
