@@ -1,0 +1,11 @@
+(function() {
+  this.HandlebarsTemplates || (this.HandlebarsTemplates = {});
+  this.HandlebarsTemplates["alerts/no_translation_apology"] = Handlebars.template({"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
+    var helper;
+
+  return "<div class=\"container alert alert-danger text-center\">\n  <i class=\"fa fa-frown-o\"></i>\n  Sorry, this document is not translated into "
+    + this.escapeExpression(((helper = (helper = helpers.language_name || (depth0 != null ? depth0.language_name : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(depth0,{"name":"language_name","hash":{},"data":data}) : helper)))
+    + " yet.\n  <br>\n  Want to help? Email us at <a class=\"alert-link\" href=\"mailto:support@godtoolsapp.com\">support@godtoolsapp.com</a>\n</div>\n";
+},"useData":true});
+  return this.HandlebarsTemplates["alerts/no_translation_apology"];
+}).call(this);

@@ -1,0 +1,13 @@
+(function() {
+  this.HandlebarsTemplates || (this.HandlebarsTemplates = {});
+  this.HandlebarsTemplates["alerts/switch_language"] = Handlebars.template({"compiler":[6,">= 2.0.0-beta.1"],"main":function(depth0,helpers,partials,data) {
+    var helper;
+
+  return "<li>\n  <a class=\"alert alert-warning\" href=\""
+    + this.escapeExpression(((helper = (helper = helpers.url || (depth0 != null ? depth0.url : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(depth0,{"name":"url","hash":{},"data":data}) : helper)))
+    + "\">\n    "
+    + this.escapeExpression(((helper = (helper = helpers.language_name || (depth0 != null ? depth0.language_name : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(depth0,{"name":"language_name","hash":{},"data":data}) : helper)))
+    + "\n  </a>\n</li>";
+},"useData":true});
+  return this.HandlebarsTemplates["alerts/switch_language"];
+}).call(this);
