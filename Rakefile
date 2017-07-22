@@ -53,24 +53,3 @@ namespace :locales do
   end
 
 end
-
-
-task :deploy do
-  puts 'Starting deploy task ...'
-
-  puts 'Invoking rake task to update the locales ...'
-  Rake::Task['locales:update'].invoke
-
-  puts 'Committing the updated locale files to git ...'
-  # Use ruby 'sh' so that the task aborts if the command fails
-  sh 'git add --all locales/'
-  # If there is nothing new to commit then git commit will exit with an error, use ruby 'system' call so that the task continues even if the commit fails
-  system "git commit -m 'Update locale files - automated commit by rake deploy task'"
-  sh 'git push origin master'
-
-  puts 'Building and deploying the site with middleman ...'
-  sh 'bundle exec middleman deploy'
-
-  puts 'Deploy task finished!'
-end
-

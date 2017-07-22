@@ -20,15 +20,13 @@ Now you can start a local server with `bundle exec middleman server` and visit [
 
 ### Deploying Changes
 
-At the time of writing this project is hosted on [Github Pages](https://pages.github.com/).
+At the time of writing this project is hosted on Amazon S3 using CloudFront for distrubution.
 
 After you are happy with your changes and they are tested locally you may then commit your changes to the `master` branch.
 
-Then run `bundle exec middleman deploy` to deploy your changes to the live site.
+Travis CI will pick up any commit to master, build the project and push the built version of the site to S3 if successful. Travis CI will also run a job once per day to ensure translation updates are pushed to the site even when no code changes occur.
 
-The deploy will first run the Middleman build process, if the build is successful then it will upload the build to the `gh-pages` branch and the changes will be live. If the build process is not successful you will need to investigate and fix the build problem.
-
-If you want to update the locale files and deploy the Middleman app in one command then you may use the custom rake task: `bundle exec rake deploy`
+If you want to update the locale files and deploy the Middleman app in one command then you may manually invoke the [Travis build](https://travis-ci.org/Indigitous/godtools-web)
 
 ### Updating the Translation Strings from the GodTools API
 
@@ -39,13 +37,3 @@ A rake task exists to update the locale files from the API, run `bundle exec rak
 The rake task will read all of the translation strings in the API and write them to new locale files. After the task runs successfully you may commit the new locale files and run the Middleman deploy command. It would be a good idea to test the update locally before deploying.
 
 The [godtools-gem](https://github.com/Indigitous/godtools-gem) is used to read the API.
-
-## Automating Translation Updates
-
-Translation updates can be automated by using a cronjob, or a service like Heroku. Create a new Heroku app based on this repo, then add the Heroku Scheduler addon and schedule the following script to run every day (you can disable the web server dyno, since it's not needed):
-
-`GITHUB_USERNAME=your_github_username GITHUB_PERSONAL_ACCESS_TOKEN=your_personal_access_token_created_at_github.com /app/scripts/heroku_deploy.sh`
-
-At the time of writing there is a Heroku app named "godtoolswebapp" already setup to automate the translation updates. Tail the Heroku logs with `heroku logs --tail --app godtoolswebapp`
-
-Note that there is nothing special about using Heroku here, it's just a convenient way to periodically run a rake task (you could also, for example, use a cronjob on an existing server).
