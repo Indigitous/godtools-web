@@ -2,6 +2,8 @@ sudo: false
 language: ruby
 rvm:
 - 2.2.2
+install:
+- pip install awscli
 script:
 - bundle exec rake locales:update
 - bundle exec middleman build
@@ -23,5 +25,7 @@ deploy:
     local-dir: build
     skip_cleanup: true
 after_deploy:
-  - chmod +x ./.travis/invalidate_cloudfront_cache.sh
-  - ./.travis/invalidate_cloudfront_cache.sh $AWS_ACCESS_KEY_ID $AWS_SECRET_ACCESS_KEY
+  # Allow `awscli` to make requests to CloudFront.
+  - aws configure set preview.cloudfront true
+  # Invalidate every object in the targeted distribution.
+  - aws cloudfront create-invalidation --distribution-id E29Z8FMTDDSDC7 --paths "/*"
