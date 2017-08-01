@@ -3,6 +3,7 @@ language: ruby
 rvm:
 - 2.2.2
 install:
+- bundler install
 - pip install awscli
 script:
 - bundle exec rake locales:update
