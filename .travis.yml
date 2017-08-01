@@ -4,7 +4,7 @@ rvm:
 - 2.2.2
 script:
 - bundle exec rake locales:update
-- bundle exec middleman build >/dev/null 2>/dev/null
+- bundle exec middleman build
 cache:
   yarn: true
   directories:
