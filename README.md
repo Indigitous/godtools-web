@@ -1,6 +1,6 @@
 # godtools-web
 
-![Build Status](https://travis-ci.org/Indigitous/godtools-web.svg?branch=master)
+[![Build Status](https://travis-ci.org/Indigitous/godtools-web.svg?branch=master)](https://travis-ci.org/Indigitous/godtools-web)
 
 Web based presentation of the God Tools app.
 
