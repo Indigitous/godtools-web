@@ -8,6 +8,7 @@ html.no-js class=yield_content(:html_class)
     meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"
     meta content="width=device-width" name="viewport"
     meta content="index,follow" name="robots"
+    meta content="app-id=542773210" name="apple-itunes-app"
 
     - content_for(:title, t("#{ current_booklet }.title")) if current_booklet
     title = [(current_page.data.title || yield_content(:title)), site_title].compact.join(' | ')

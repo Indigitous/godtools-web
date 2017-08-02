@@ -125,6 +125,11 @@ configure :build do
   ignore "favicon_template.png"
   ignore "sitemap.yml"
 
+  # Include .well_known directory
+  config.ignored_sitemap_matchers[:source_dotfiles] = proc { |file|
+    file =~ %r{/\.} && file !~ %r{/\.(well-known|htaccess|htpasswd|nojekyll)}
+  }
+  
   # Create favicon and device-specific icons
   # Edit favicon_template.png for custom icon
   activate :favicon_maker, :icons => {
