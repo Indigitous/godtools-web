@@ -1,10 +1,17 @@
 sudo: false
+dist: "trusty"
 language: ruby
 rvm:
 - 2.2.2
+python:
+  - "3.4"
+addons:
+  apt:
+    packages:
+      - "python3-pip"
 install:
 - bundler install
-- pip install awscli
+- pip3 install awscli --user
 script:
 - bundle exec rake locales:update
 - bundle exec middleman build
