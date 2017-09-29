@@ -1,6 +1,6 @@
 class LanguageNameTranslation
 
-  SUPPLEMENTARY_TRANSLATIONS = {
+  SUPPLEMENTARY_TRANSLATION_DATA = {
     'TGL' => {
       'EN' => 'Tagalog',
       'TGL' => 'Wikang Tagalog'
@@ -35,6 +35,16 @@ class LanguageNameTranslation
     'SI' => {
       'EN' => 'Sinhala, Sinhalese',
       'SI' => 'සිංහල'
+    },
+    'ZH_HANS' => {
+      'EN' => 'Chinese, Simplified',
+      'ZH_HANS' => '汉语',
+      'ZH_HANT' => '汉语'
+    },
+    'ZH_HANT' => {
+      'EN' => 'Chinese, Traditional',
+      'ZH_HANS' => '漢語',
+      'ZH_HANT' => '漢語'
     }
   }
 
@@ -50,20 +60,29 @@ class LanguageNameTranslation
   private
 
     def translate_name
-      i18n_data_translation.presence ||
-        supplementary_translation.presence ||
-        english_translation.presence ||
+      supplementary_data_translation.presence ||
+        i18n_data_translation.presence ||
+        supplementary_data_english_translation.presence ||
+        i18n_data_english_translation.presence ||
         @language_code.code_with_country
     end
 
-    def supplementary_translation
+    def supplementary_data
       # These hardcoded translations are mostly here to handle the inconsistencies in the God Tools API or missing translations in I18nData
-      translations = SUPPLEMENTARY_TRANSLATIONS[@language_code.code_with_country].presence || SUPPLEMENTARY_TRANSLATIONS[@language_code.code]
-      return nil if translations.blank?
-      translations[@display_in_language_code.code_with_country].presence || translations[@display_in_language_code.code].presence || translations['EN']
+      @supplementary_data ||= SUPPLEMENTARY_TRANSLATION_DATA[@language_code.code_with_country].presence || SUPPLEMENTARY_TRANSLATION_DATA[@language_code.code]
     end
 
-    def english_translation
+    def supplementary_data_translation
+      return nil if supplementary_data.blank?
+      supplementary_data[@display_in_language_code.code_with_country].presence || supplementary_data[@display_in_language_code.code]
+    end
+
+    def supplementary_data_english_translation
+      return nil if supplementary_data.blank?
+      supplementary_data['EN']
+    end
+
+    def i18n_data_english_translation
       i18n_data_translation(display_in_language_code: LanguageCode.new('EN')).presence ||
         I18n.t('language_name_in_english', locale: @language_code.code_with_country).presence ||
         I18n.t('language_name_in_english', locale: @language_code.code)
