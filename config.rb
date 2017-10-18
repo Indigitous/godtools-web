@@ -112,7 +112,9 @@ configure :build do
   set :sass, line_comments: false, style: :nested
 
   activate :minify_css
-  activate :minify_html
+  activate :minify_html do |html|
+    html.remove_http_protocol = false  # Do not remove HTTP protocol from links.
+  end
   activate :minify_javascript
   activate :gzip
 
@@ -129,7 +131,7 @@ configure :build do
   config.ignored_sitemap_matchers[:source_dotfiles] = proc { |file|
     file =~ %r{/\.} && file !~ %r{/\.(well-known|htaccess|htpasswd|nojekyll)}
   }
-  
+
   # Create favicon and device-specific icons
   # Edit favicon_template.png for custom icon
   activate :favicon_maker, :icons => {
